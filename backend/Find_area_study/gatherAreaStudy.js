@@ -1,5 +1,5 @@
 import {CheerioCrawler} from 'crawlee'
-import {query} from "./createDb.js"
+import {query} from "../createDb.js"
 
 export async function mapMajors() {
     const crawler = new CheerioCrawler({
