@@ -1,0 +1,9 @@
+{
+	"id": "cdA43phR2SZqZJ3",
+	"json": "{\"id\":\"cdA43phR2SZqZJ3\",\"url\":\"https://illinois.edu/admissions/\",\"loadedUrl\":\"https://illinois.edu/admissions/\",\"uniqueKey\":\"https://illinois.edu/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Request blocked - received 403 status code.\\n    at CheerioCrawler._throwOnBlockedRequest (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/basic/internals/basic-crawler.js:910:19)\\n    at CheerioCrawler._runRequestHandler (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/http/internals/http-crawler.js:324:22)\\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\\n    at async CheerioCrawler._runRequestHandler (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/cheerio/internals/cheerio-crawler.js:153:9)\\n    at async wrap (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-12T20:55:48.353Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://illinois.edu/admissions",
+	"url": "https://illinois.edu/admissions/"
+}

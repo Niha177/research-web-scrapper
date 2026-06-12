@@ -1,0 +1,9 @@
+{
+	"id": "iQU4tN2qq1EoBxy",
+	"json": "{\"id\":\"iQU4tN2qq1EoBxy\",\"url\":\"https://illinois.edu/community/visit-illinois/\",\"loadedUrl\":\"https://illinois.edu/community/visit-illinois/\",\"uniqueKey\":\"https://illinois.edu/community/visit-illinois\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-12T20:55:48.279Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://illinois.edu/community/visit-illinois",
+	"url": "https://illinois.edu/community/visit-illinois/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "U1pIxq3Tl512XRu",
+	"json": "{\"id\":\"U1pIxq3Tl512XRu\",\"url\":\"http://illinois.edu/calendar/list/594\",\"loadedUrl\":\"https://calendars.illinois.edu/list/594\",\"uniqueKey\":\"http://illinois.edu/calendar/list/594\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":7}},\"handledAt\":\"2026-06-12T20:55:48.870Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://illinois.edu/calendar/list/594",
+	"url": "http://illinois.edu/calendar/list/594"
+}

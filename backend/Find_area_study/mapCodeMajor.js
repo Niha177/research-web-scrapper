@@ -15,10 +15,12 @@ export async function checkMajor(major) {
     
     const finalResult = await cleanData(results)
     const nameList = getFullName(finalResult)
-    console.log(nameList)
+    //console.log(nameList)
     return nameList
 
 }
+
+
 
 function getFullName(arr) {
     
@@ -97,12 +99,14 @@ export async function cleanData(arr) {
     }
    
         const cleanArr = [...new Set(cur)]
-      
         return cleanArr
    
     
 }
 
-checkMajor("comp scie + adv")
+
+
+
+
 
 

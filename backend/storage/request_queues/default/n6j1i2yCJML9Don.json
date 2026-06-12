@@ -1,9 +1,0 @@
-{
-	"id": "n6j1i2yCJML9Don",
-	"json": "{\"id\":\"n6j1i2yCJML9Don\",\"url\":\"https://catalog.illinois.edu/degree-programs/undergraduate_index/\",\"loadedUrl\":\"https://catalog.illinois.edu/degree-programs/undergraduate_index/\",\"uniqueKey\":\"https://catalog.illinois.edu/degree-programs/undergraduate_index\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-12T00:34:48.448Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://catalog.illinois.edu/degree-programs/undergraduate_index",
-	"url": "https://catalog.illinois.edu/degree-programs/undergraduate_index/"
-}

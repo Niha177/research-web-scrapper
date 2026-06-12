@@ -6,7 +6,7 @@ export const uiucColleges = [
   { code: "ENGR", fullName: "The Grainger College of Engineering" },
   { code: "FAA", fullName: "College of Fine and Applied Arts" },
   { code: "IS", fullName: "School of Information Sciences" },
-  { code: "LAS", fullName: "College of Liberal Arts and Sciences" },
+  { code: "LAS", fullName: "College of Liberal Arts & Sciences" },
   { code: "LAW", fullName: "College of Law" },
   { code: "LER", fullName: "School of Labor and Employment Relations" },
   { code: "MDIA", fullName: "College of Media" },

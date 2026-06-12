@@ -1,0 +1,9 @@
+{
+	"id": "TRyJWgCInr4Qzj0",
+	"json": "{\"id\":\"TRyJWgCInr4Qzj0\",\"url\":\"https://illinois.edu/\",\"loadedUrl\":\"https://illinois.edu/\",\"uniqueKey\":\"https://illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-12T20:55:48.264Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://illinois.edu",
+	"url": "https://illinois.edu/"
+}

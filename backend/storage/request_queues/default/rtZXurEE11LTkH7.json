@@ -1,0 +1,9 @@
+{
+	"id": "rtZXurEE11LTkH7",
+	"json": "{\"id\":\"rtZXurEE11LTkH7\",\"url\":\"https://illinois.edu/community/\",\"loadedUrl\":\"https://illinois.edu/community/\",\"uniqueKey\":\"https://illinois.edu/community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-12T20:55:48.331Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://illinois.edu/community",
+	"url": "https://illinois.edu/community/"
+}
