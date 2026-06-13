@@ -2,7 +2,7 @@
 import {CheerioCrawler, Dataset} from 'crawlee'
 import {checkMajor} from "../Find_area_study/mapCodeMajor.js"
 
-async function searchByCollege(major) {
+export async function searchByCollege(major) {
 let linkSet = []
 
  const names = await checkMajor(major)

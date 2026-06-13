@@ -1,37 +1,49 @@
 {
-  "requestsFinished": 24,
-  "requestsFailed": 0,
-  "requestsRetries": 1,
-  "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 355,
-  "requestMinDurationMillis": 20,
-  "requestMaxDurationMillis": 3666,
-  "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 7086,
-  "crawlerStartedAt": "2026-06-12T20:55:47.977Z",
-  "crawlerFinishedAt": "2026-06-12T20:55:52.021Z",
-  "statsPersistedAt": "2026-06-12T20:55:52.021Z",
-  "crawlerRuntimeMillis": 4058,
-  "crawlerLastStartTimestamp": 1781297747963,
+  "requestsFinished": 0,
+  "requestsFailed": 2,
+  "requestsRetries": 2,
+  "requestsFailedPerMinute": 15,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 3383,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2026-06-13T02:36:21.511Z",
+  "crawlerFinishedAt": "2026-06-13T02:36:29.245Z",
+  "statsPersistedAt": "2026-06-13T02:36:29.245Z",
+  "crawlerRuntimeMillis": 7814,
+  "crawlerLastStartTimestamp": 1781318181431,
   "requestRetryHistogram": [
-    23,
-    1
+    null,
+    null,
+    null,
+    2
   ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 295,
-  "requestTotalDurationMillis": 7086,
-  "requestsTotal": 24,
+  "requestAvgFailedDurationMillis": 1692,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 3383,
+  "requestsTotal": 2,
   "requestsWithStatusCode": {
-    "403": 1
+    "200": 8
   },
-  "errors": {},
-  "retryErrors": {
-    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/basic/internals/basic-crawler.js:910:19": {
+  "errors": {
+    "file:///Users/niharikabattarusetty/full-projects/web-scrapper/backend/searchByMajor/findInfo.js:33:59": {
       "missing error code": {
-        "Error": {
-          "Request blocked - received 403 status code.": {
-            "count": 1
+        "ReferenceError": {
+          "title is not defined": {
+            "count": 2
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "file:///Users/niharikabattarusetty/full-projects/web-scrapper/backend/searchByMajor/findInfo.js:33:59": {
+      "missing error code": {
+        "ReferenceError": {
+          "title is not defined": {
+            "count": 6
           }
         }
       }

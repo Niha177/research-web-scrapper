@@ -1,9 +1,0 @@
-{
-	"id": "HL6CjIk8DteEiuG",
-	"json": "{\"id\":\"HL6CjIk8DteEiuG\",\"url\":\"https://illinois.edu/about/accessibility/\",\"loadedUrl\":\"https://illinois.edu/about/accessibility/\",\"uniqueKey\":\"https://illinois.edu/about/accessibility\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-12T20:55:48.299Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/about/accessibility",
-	"url": "https://illinois.edu/about/accessibility/"
-}

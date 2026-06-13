@@ -1,9 +1,0 @@
-{
-	"id": "5GOqHHk2Dh6O5Fo",
-	"json": "{\"id\":\"5GOqHHk2Dh6O5Fo\",\"url\":\"https://illinois.edu/arts/index.html\",\"loadedUrl\":\"https://faa.illinois.edu/\",\"uniqueKey\":\"https://illinois.edu/arts/index.html\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":7}},\"handledAt\":\"2026-06-12T20:55:52.004Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/arts/index.html",
-	"url": "https://illinois.edu/arts/index.html"
-}
