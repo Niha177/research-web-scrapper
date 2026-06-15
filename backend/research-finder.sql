@@ -18,6 +18,9 @@ ORDER BY match_score DESC
 LIMIT 1;
 
 
+SELECT code,name FROM majors WHERE name = 'computer science'
+
+
 
 
 

@@ -1,0 +1,9 @@
+{
+	"id": "a7ReSskZ0wPjNgn",
+	"json": "{\"id\":\"a7ReSskZ0wPjNgn\",\"url\":\"https://giesbusiness.illinois.edu/accountancy\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/accountancy\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/accountancy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:10.633Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/accountancy",
+	"url": "https://giesbusiness.illinois.edu/accountancy"
+}

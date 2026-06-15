@@ -1,0 +1,9 @@
+{
+	"id": "HtTA26EWIf3Fyp3",
+	"json": "{\"id\":\"HtTA26EWIf3Fyp3\",\"url\":\"https://giesbusiness.illinois.edu/isoi\",\"loadedUrl\":\"https://isoi.giesbusiness.illinois.edu/\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/isoi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:12.526Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/isoi",
+	"url": "https://giesbusiness.illinois.edu/isoi"
+}

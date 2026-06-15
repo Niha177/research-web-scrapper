@@ -1,0 +1,9 @@
+{
+	"id": "JV9fIdgLLDd9DXO",
+	"json": "{\"id\":\"JV9fIdgLLDd9DXO\",\"url\":\"https://giesbusiness.illinois.edu/experience\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/visit-us\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:02.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/experience",
+	"url": "https://giesbusiness.illinois.edu/experience"
+}

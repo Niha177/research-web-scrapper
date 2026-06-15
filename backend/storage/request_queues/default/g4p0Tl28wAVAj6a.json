@@ -1,0 +1,9 @@
+{
+	"id": "g4p0Tl28wAVAj6a",
+	"json": "{\"id\":\"g4p0Tl28wAVAj6a\",\"url\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/which-graduate-program-is-right-for-you\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/which-graduate-program-is-right-for-you\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/which-graduate-program-is-right-for-you\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:53.840Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/apply/graduate-admissions/which-graduate-program-is-right-for-you",
+	"url": "https://giesbusiness.illinois.edu/apply/graduate-admissions/which-graduate-program-is-right-for-you"
+}

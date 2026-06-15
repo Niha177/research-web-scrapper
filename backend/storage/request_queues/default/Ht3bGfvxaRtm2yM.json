@@ -1,0 +1,9 @@
+{
+	"id": "Ht3bGfvxaRtm2yM",
+	"json": "{\"id\":\"Ht3bGfvxaRtm2yM\",\"url\":\"https://giesbusiness.illinois.edu/about/business-campus/wymer-hall\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/about/business-campus/wymer-hall\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/about/business-campus/wymer-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.792Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/about/business-campus/wymer-hall",
+	"url": "https://giesbusiness.illinois.edu/about/business-campus/wymer-hall"
+}

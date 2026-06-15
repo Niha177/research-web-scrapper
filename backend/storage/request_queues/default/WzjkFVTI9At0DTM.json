@@ -1,0 +1,9 @@
+{
+	"id": "WzjkFVTI9At0DTM",
+	"json": "{\"id\":\"WzjkFVTI9At0DTM\",\"url\":\"https://giesbusiness.illinois.edu/experience/academic-advising\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/academic-advising\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/academic-advising\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:03.519Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/experience/academic-advising",
+	"url": "https://giesbusiness.illinois.edu/experience/academic-advising"
+}

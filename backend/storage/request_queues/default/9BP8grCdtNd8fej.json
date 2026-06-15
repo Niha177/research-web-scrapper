@@ -1,0 +1,9 @@
+{
+	"id": "9BP8grCdtNd8fej",
+	"json": "{\"id\":\"9BP8grCdtNd8fej\",\"url\":\"https://giesbusiness.illinois.edu/about/leadership\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/about/leadership\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/about/leadership\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.186Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/about/leadership",
+	"url": "https://giesbusiness.illinois.edu/about/leadership"
+}

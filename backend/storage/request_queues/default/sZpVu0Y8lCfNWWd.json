@@ -1,0 +1,9 @@
+{
+	"id": "sZpVu0Y8lCfNWWd",
+	"json": "{\"id\":\"sZpVu0Y8lCfNWWd\",\"url\":\"https://giesbusiness.illinois.edu/academics\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:41.017Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/academics",
+	"url": "https://giesbusiness.illinois.edu/academics"
+}

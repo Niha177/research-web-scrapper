@@ -1,0 +1,9 @@
+{
+	"id": "fbq93dL2zgEhZXi",
+	"json": "{\"id\":\"fbq93dL2zgEhZXi\",\"url\":\"https://giesbusiness.illinois.edu/experience/student-organizations\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/student-organizations\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/student-organizations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:03.422Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/experience/student-organizations",
+	"url": "https://giesbusiness.illinois.edu/experience/student-organizations"
+}

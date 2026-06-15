@@ -1,0 +1,9 @@
+{
+	"id": "Z6DqkRYHQLPK3CP",
+	"json": "{\"id\":\"Z6DqkRYHQLPK3CP\",\"url\":\"https://giesbusiness.illinois.edu/alumni/professional-credentials\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/alumni/professional-credentials\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni/professional-credentials\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.414Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/alumni/professional-credentials",
+	"url": "https://giesbusiness.illinois.edu/alumni/professional-credentials"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "hpcWynTd45gdriv",
+	"json": "{\"id\":\"hpcWynTd45gdriv\",\"url\":\"https://giesbusiness.illinois.edu/apply/admissions/intercollegiate-transfer-(ict)\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/admissions/intercollegiate-transfer-(ict)\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/admissions/intercollegiate-transfer-(ict)\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.454Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/apply/admissions/intercollegiate-transfer-(ict)",
+	"url": "https://giesbusiness.illinois.edu/apply/admissions/intercollegiate-transfer-(ict)"
+}

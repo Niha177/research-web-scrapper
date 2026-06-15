@@ -1,0 +1,9 @@
+{
+	"id": "LZpf4aDTEro72rC",
+	"json": "{\"id\":\"LZpf4aDTEro72rC\",\"url\":\"https://humanresources.illinois.edu/job-seekers/?utm_source=Gies&utm_medium=web&utm_campaign=Footer\",\"uniqueKey\":\"https://humanresources.illinois.edu/job-seekers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
+	"method": "GET",
+	"orderNo": 1781560132838,
+	"retryCount": 0,
+	"uniqueKey": "https://humanresources.illinois.edu/job-seekers",
+	"url": "https://humanresources.illinois.edu/job-seekers/?utm_source=Gies&utm_medium=web&utm_campaign=Footer"
+}

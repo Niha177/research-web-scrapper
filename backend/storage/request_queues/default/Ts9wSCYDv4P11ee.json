@@ -1,0 +1,9 @@
+{
+	"id": "Ts9wSCYDv4P11ee",
+	"json": "{\"id\":\"Ts9wSCYDv4P11ee\",\"url\":\"https://giesbusiness.illinois.edu/academics/online/ms-in-business-analytics-online\",\"loadedUrl\":\"https://giesonline.illinois.edu/explore-programs/msbai\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/online/ms-in-business-analytics-online\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:02.043Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/academics/online/ms-in-business-analytics-online",
+	"url": "https://giesbusiness.illinois.edu/academics/online/ms-in-business-analytics-online"
+}

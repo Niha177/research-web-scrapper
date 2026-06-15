@@ -1,0 +1,9 @@
+{
+	"id": "Sov74navjYPtTc1",
+	"json": "{\"id\":\"Sov74navjYPtTc1\",\"url\":\"https://giesbusiness.illinois.edu/about/access-and-community\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/about/access-and-community\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/about/access-and-community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:39.999Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/about/access-and-community",
+	"url": "https://giesbusiness.illinois.edu/about/access-and-community"
+}

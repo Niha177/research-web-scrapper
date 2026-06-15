@@ -1,0 +1,9 @@
+{
+	"id": "rwQuFUnWesPS68j",
+	"json": "{\"id\":\"rwQuFUnWesPS68j\",\"url\":\"https://giesbusiness.illinois.edu/disruption-lab\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/disruption-lab\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/disruption-lab\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:02.931Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/disruption-lab",
+	"url": "https://giesbusiness.illinois.edu/disruption-lab"
+}

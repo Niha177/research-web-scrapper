@@ -1,0 +1,9 @@
+{
+	"id": "pDpk3J846sMXA69",
+	"json": "{\"id\":\"pDpk3J846sMXA69\",\"url\":\"https://giesbusiness.illinois.edu/news-and-events/graduate-events\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/news-and-events/graduate-events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
+	"method": "GET",
+	"orderNo": 1781560127829,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/news-and-events/graduate-events",
+	"url": "https://giesbusiness.illinois.edu/news-and-events/graduate-events"
+}

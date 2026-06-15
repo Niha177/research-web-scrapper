@@ -1,0 +1,9 @@
+{
+	"id": "pfUUu5aSieIxEOt",
+	"json": "{\"id\":\"pfUUu5aSieIxEOt\",\"url\":\"https://giesbusiness.illinois.edu/alumni/alumni-awards-and-news\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/alumni/alumni-awards-and-news\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni/alumni-awards-and-news\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.485Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/alumni/alumni-awards-and-news",
+	"url": "https://giesbusiness.illinois.edu/alumni/alumni-awards-and-news"
+}

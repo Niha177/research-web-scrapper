@@ -1,0 +1,9 @@
+{
+	"id": "gOmdUzYn2KGpAvy",
+	"json": "{\"id\":\"gOmdUzYn2KGpAvy\",\"url\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/operations-management\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/operations-management\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/operations-management\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:51.132Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/academics/majors-and-minors/operations-management",
+	"url": "https://giesbusiness.illinois.edu/academics/majors-and-minors/operations-management"
+}

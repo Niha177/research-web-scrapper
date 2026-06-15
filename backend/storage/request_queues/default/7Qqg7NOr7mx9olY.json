@@ -1,0 +1,9 @@
+{
+	"id": "7Qqg7NOr7mx9olY",
+	"json": "{\"id\":\"7Qqg7NOr7mx9olY\",\"url\":\"https://giesbusiness.illinois.edu/apply\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.132Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/apply",
+	"url": "https://giesbusiness.illinois.edu/apply"
+}

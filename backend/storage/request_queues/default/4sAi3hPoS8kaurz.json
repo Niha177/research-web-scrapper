@@ -1,0 +1,9 @@
+{
+	"id": "4sAi3hPoS8kaurz",
+	"json": "{\"id\":\"4sAi3hPoS8kaurz\",\"url\":\"https://giesbusiness.illinois.edu/margolis-market-information-lab\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/margolis-market-information-lab\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/margolis-market-information-lab\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:09.464Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/margolis-market-information-lab",
+	"url": "https://giesbusiness.illinois.edu/margolis-market-information-lab"
+}

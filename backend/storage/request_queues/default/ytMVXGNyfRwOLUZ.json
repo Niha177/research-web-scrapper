@@ -1,0 +1,9 @@
+{
+	"id": "ytMVXGNyfRwOLUZ",
+	"json": "{\"id\":\"ytMVXGNyfRwOLUZ\",\"url\":\"https://illinois.edu/community/campus-cams/\",\"loadedUrl\":\"https://illinois.edu/community/campus-cams/\",\"uniqueKey\":\"https://illinois.edu/community/campus-cams\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:38.172Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://illinois.edu/community/campus-cams",
+	"url": "https://illinois.edu/community/campus-cams/"
+}

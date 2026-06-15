@@ -1,0 +1,9 @@
+{
+	"id": "AxKcNY0Sm841HHl",
+	"json": "{\"id\":\"AxKcNY0Sm841HHl\",\"url\":\"https://giesbusiness.illinois.edu/corporate/upskill-your-workforce\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/corporate/upskill-your-workforce\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/corporate/upskill-your-workforce\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:17.433Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/corporate/upskill-your-workforce",
+	"url": "https://giesbusiness.illinois.edu/corporate/upskill-your-workforce"
+}

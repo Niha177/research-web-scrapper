@@ -1,4 +1,4 @@
-import {CheerioCrawler, PlaywrightCrawler, Configuration} from 'crawlee'
+import { PlaywrightCrawler, Configuration} from 'crawlee'
 import {searchByCollege} from './collegeLink.js'
 
 export async function findFacultyInfo(searchLinks) {
@@ -7,6 +7,7 @@ export async function findFacultyInfo(searchLinks) {
 
     const config = Configuration.getGlobalConfig();
     config.set('purgeOnStart', true);
+    //clears storege directory
 
     const crawler = new PlaywrightCrawler({
 
@@ -60,7 +61,7 @@ export async function findFacultyInfo(searchLinks) {
     return result
 }
 
-export async function filterFaculty(major) {
+export async function filterFacultyLinkResults(major) {
     const searchLinks = await searchByCollege(major)
 
     let res =[]
@@ -81,9 +82,10 @@ export async function filterFaculty(major) {
     
 
     console.log(res)
+    return res
 }
 
-filterFaculty('computer science + learning science')
+filterFacultyLinkResults('economics')
 
 
 

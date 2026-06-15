@@ -1,0 +1,9 @@
+{
+	"id": "S3d2NSPgq00FPjB",
+	"json": "{\"id\":\"S3d2NSPgq00FPjB\",\"url\":\"https://giesbusiness.illinois.edu/msm\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/msm\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/msm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:58.112Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/msm",
+	"url": "https://giesbusiness.illinois.edu/msm"
+}

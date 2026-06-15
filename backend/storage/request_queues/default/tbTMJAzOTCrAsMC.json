@@ -1,0 +1,9 @@
+{
+	"id": "tbTMJAzOTCrAsMC",
+	"json": "{\"id\":\"tbTMJAzOTCrAsMC\",\"url\":\"https://giesbusiness.illinois.edu/experience/academies-centers/women-in-finance-academy\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/academies-centers/women-in-finance-academy\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/academies-centers/women-in-finance-academy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:05.717Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/experience/academies-centers/women-in-finance-academy",
+	"url": "https://giesbusiness.illinois.edu/experience/academies-centers/women-in-finance-academy"
+}

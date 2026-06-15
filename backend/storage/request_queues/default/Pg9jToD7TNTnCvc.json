@@ -1,0 +1,9 @@
+{
+	"id": "Pg9jToD7TNTnCvc",
+	"json": "{\"id\":\"Pg9jToD7TNTnCvc\",\"url\":\"https://giesbusiness.illinois.edu/graduate-hub/graduate\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/graduate-hub/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
+	"method": "GET",
+	"orderNo": 1781560126117,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/graduate-hub/graduate",
+	"url": "https://giesbusiness.illinois.edu/graduate-hub/graduate"
+}

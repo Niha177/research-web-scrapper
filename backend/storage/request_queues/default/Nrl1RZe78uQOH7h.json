@@ -1,0 +1,9 @@
+{
+	"id": "Nrl1RZe78uQOH7h",
+	"json": "{\"id\":\"Nrl1RZe78uQOH7h\",\"url\":\"https://giesbusiness.illinois.edu/academics/microcredentials/undergraduate-microcredentials\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/microcredentials/undergraduate-microcredentials\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/microcredentials/undergraduate-microcredentials\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:01.558Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/academics/microcredentials/undergraduate-microcredentials",
+	"url": "https://giesbusiness.illinois.edu/academics/microcredentials/undergraduate-microcredentials"
+}

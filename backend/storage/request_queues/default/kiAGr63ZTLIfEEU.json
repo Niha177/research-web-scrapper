@@ -1,0 +1,9 @@
+{
+	"id": "kiAGr63ZTLIfEEU",
+	"json": "{\"id\":\"kiAGr63ZTLIfEEU\",\"url\":\"https://giesbusiness.illinois.edu/apply/admissions/off-campus-transfer-(oct)\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/admissions/off-campus-transfer-(oct)\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/admissions/off-campus-transfer-(oct)\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.370Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/apply/admissions/off-campus-transfer-(oct)",
+	"url": "https://giesbusiness.illinois.edu/apply/admissions/off-campus-transfer-(oct)"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wNFW7ox5A4Pu54j",
+	"json": "{\"id\":\"wNFW7ox5A4Pu54j\",\"url\":\"https://jobs.illinois.edu/\",\"uniqueKey\":\"https://jobs.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
+	"method": "GET",
+	"orderNo": 1781560335587,
+	"retryCount": 0,
+	"uniqueKey": "https://jobs.illinois.edu",
+	"url": "https://jobs.illinois.edu/"
+}

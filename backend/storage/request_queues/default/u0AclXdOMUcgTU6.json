@@ -1,0 +1,9 @@
+{
+	"id": "u0AclXdOMUcgTU6",
+	"json": "{\"id\":\"u0AclXdOMUcgTU6\",\"url\":\"https://giesbusiness.illinois.edu/experience/career-professional-development\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/career-professional-development\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/career-professional-development\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:05.123Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/experience/career-professional-development",
+	"url": "https://giesbusiness.illinois.edu/experience/career-professional-development"
+}

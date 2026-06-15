@@ -1,0 +1,9 @@
+{
+	"id": "dcvm0OpwoCxaxLU",
+	"json": "{\"id\":\"dcvm0OpwoCxaxLU\",\"url\":\"https://giesbusiness.illinois.edu/graduate-hub/doctoral\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/graduate-hub/doctoral\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
+	"method": "GET",
+	"orderNo": 1781560126117,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/graduate-hub/doctoral",
+	"url": "https://giesbusiness.illinois.edu/graduate-hub/doctoral"
+}

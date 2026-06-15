@@ -1,0 +1,9 @@
+{
+	"id": "nndq788KrExMx8H",
+	"json": "{\"id\":\"nndq788KrExMx8H\",\"url\":\"https://illinois.edu/student-resources/\",\"loadedUrl\":\"https://illinois.edu/student-resources/\",\"uniqueKey\":\"https://illinois.edu/student-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:38.135Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://illinois.edu/student-resources",
+	"url": "https://illinois.edu/student-resources/"
+}

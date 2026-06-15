@@ -1,0 +1,9 @@
+{
+	"id": "Le8cDUPqrTQcRO9",
+	"json": "{\"id\":\"Le8cDUPqrTQcRO9\",\"url\":\"https://giesbusiness.illinois.edu/faculty-research/research-at-gies\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/faculty-research/research-at-gies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
+	"method": "GET",
+	"orderNo": 1781560127122,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/faculty-research/research-at-gies",
+	"url": "https://giesbusiness.illinois.edu/faculty-research/research-at-gies"
+}

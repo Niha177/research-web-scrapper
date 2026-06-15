@@ -1,0 +1,9 @@
+{
+	"id": "cJOUY2zh69OPVs6",
+	"json": "{\"id\":\"cJOUY2zh69OPVs6\",\"url\":\"https://giesbusiness.illinois.edu/corporate/engage-and-recruit-talent\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/corporate/engage-and-recruit-talent\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/corporate/engage-and-recruit-talent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.977Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/corporate/engage-and-recruit-talent",
+	"url": "https://giesbusiness.illinois.edu/corporate/engage-and-recruit-talent"
+}

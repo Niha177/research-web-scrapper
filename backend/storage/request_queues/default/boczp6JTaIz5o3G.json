@@ -1,0 +1,9 @@
+{
+	"id": "boczp6JTaIz5o3G",
+	"json": "{\"id\":\"boczp6JTaIz5o3G\",\"url\":\"https://giesbusiness.illinois.edu/academics/graduate/accountancy\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/graduate/accountancy\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/graduate/accountancy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:54.054Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/academics/graduate/accountancy",
+	"url": "https://giesbusiness.illinois.edu/academics/graduate/accountancy"
+}

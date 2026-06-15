@@ -1,0 +1,9 @@
+{
+	"id": "p1CiBYm1qUW4IB5",
+	"json": "{\"id\":\"p1CiBYm1qUW4IB5\",\"url\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/talk-to-an-advisor\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/talk-to-an-advisor\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/talk-to-an-advisor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.760Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/apply/graduate-admissions/talk-to-an-advisor",
+	"url": "https://giesbusiness.illinois.edu/apply/graduate-admissions/talk-to-an-advisor"
+}

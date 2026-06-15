@@ -1,0 +1,9 @@
+{
+	"id": "nMnOX69Gti2hm67",
+	"json": "{\"id\":\"nMnOX69Gti2hm67\",\"url\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/upcoming-events\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/events/graduate-events\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/upcoming-events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:48.129Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://giesbusiness.illinois.edu/apply/graduate-admissions/upcoming-events",
+	"url": "https://giesbusiness.illinois.edu/apply/graduate-admissions/upcoming-events"
+}
