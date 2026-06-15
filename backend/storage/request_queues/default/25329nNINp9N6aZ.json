@@ -1,9 +1,0 @@
-{
-	"id": "25329nNINp9N6aZ",
-	"json": "{\"id\":\"25329nNINp9N6aZ\",\"url\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/international-business-minor\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/international-business-minor\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/international-business-minor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:52.561Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/undergraduate-minors/international-business-minor",
-	"url": "https://giesbusiness.illinois.edu/academics/undergraduate-minors/international-business-minor"
-}

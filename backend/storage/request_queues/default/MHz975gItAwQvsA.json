@@ -1,0 +1,9 @@
+{
+	"id": "MHz975gItAwQvsA",
+	"json": "{\"id\":\"MHz975gItAwQvsA\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/tutoring\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/tutoring\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/tutoring\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:40.249Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/tutoring",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/tutoring"
+}

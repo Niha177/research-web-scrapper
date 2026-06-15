@@ -16,7 +16,7 @@ export async function getMajorLink(collegeLink, major) {
 
     const keywords = [major]
     const recSites = /\\b(programs?|majors?|curriculums?|curricula)\\b/i
-    const depWeb = /\b(visits?|departments?|websites?)\b/i
+
 
     let foundlinks = []
 
@@ -35,30 +35,9 @@ export async function getMajorLink(collegeLink, major) {
             }
         },
         async requestHandler({request, page, enqueueLinks, log }) {
-            //await page.waitForSelector('.main-content, #content, body')
 
             const links = await page.locator('a').all()
-            //const target =  page.getByRole('link', {name : major})
-/*
-            if(request.url === 'https://grainger.illinois.edu/') {
-                for(const link of links) {
-                    const cur = (await link.textContent() || '').toLowerCase()
 
-                    if(recSites.test(cur)) {
-                        const href = await link.getAttribute('href');
-
-                        await enqueueLinks({
-                            urls: [new URL(href, request.url).href],
-                            forefront: true,
-                            userData: {priority: 'High'}
-                        })
-
-                    }
-                }
-            }
-                */
-
-            
 
             for(const link of links) {
                 //const targeTtext = (await target.textContent()).toLowerCase()
@@ -75,8 +54,6 @@ export async function getMajorLink(collegeLink, major) {
 
                     }
 
-                
-                //
                 if(keywords.some(ele => ele.toLowerCase() === curText)) {
                     const href = await link.getAttribute('href');
                     if(href) {
@@ -84,15 +61,8 @@ export async function getMajorLink(collegeLink, major) {
                         foundlinks.push(new URL(href, request.url).href)
                         console.log(foundlinks)
 
-                        //await page.getByRole('link', {name: depWeb}).waitFor({state:'attached'})
-
-                        //const findDepSite =  page.getByRole('link', {name: depWeb}).first().getAttribute('href')
-                        //if(findDepSite) {
-                            //foundlinks.push(findDepSite)
-                        //}
                     }
                 }
-
                 
             }
 
@@ -113,8 +83,83 @@ export async function getMajorLink(collegeLink, major) {
 
     const results = [...new Set(foundlinks)]
     console.log(results)
+
+    return results
 }
 
-getMajorLink('https://giesbusiness.illinois.edu/', 'Accounting')
+export async function mainPageLocate(collegeLink, major) {
+    const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+    const links = await getMajorLink(collegeLink, major)
+    delay(2000)
+
+    const depWeb = /\b(department|website)s?\b/i
+
+
+
+    let website = [...links]
+
+    const crawler = new PlaywrightCrawler({
+
+        
+        async requestHandler({request, page, enqueueLinks, log}) {
+            const ignoreDomains = 
+            ['osfa', 'ilcollege2career', 
+                'illinisuccess', 
+                'catalog.illinois.edu/undergraduate',
+                'bookstore', 'icard']
+            //shift to more permenat solution....
+
+           // await page.getByRole('link', {name: depWeb}).waitFor({state:'attached'})
+            const links = await page.locator('a').all()
+
+           // const findDepSite =  page.getByRole('link', {name: depWeb}).all()
+
+            for(const link of links) {
+                const curText = (await link.textContent()|| '').toLowerCase()
+
+                if(depWeb.test(curText) ) {
+                    const href = await link.getAttribute('href')
+
+                    if(href && (href.startsWith('http://') || href.startsWith('https://'))) {
+                        if(!(ignoreDomains.some(dom => href.toLowerCase().includes(dom)))){
+
+                            website.push(href)
+                        }
+                         
+                    }
+                }
+            }
+
+
+        }
+
+    })
+    await crawler.run(links)
+
+    const results = [...new Set(website)]
+    console.log(results)
+
+
+
+
+    //await page.getByRole('link', {name: depWeb}).waitFor({state:'attached'})
+
+    //const findDepSite =  page.getByRole('link', {name: depWeb}).first().getAttribute('href')
+    //if(findDepSite) {
+        //foundlinks.push(findDepSite)
+    //}
+}
+
+mainPageLocate('https://grainger.illinois.edu/', 'Computer Science')
 
 //https://giesbusiness.illinois.edu/
+
+function fuzzyMatch(fullName, unknownAcronym) {
+
+    const letters = unknownAcronym.toLowerCase().split('');
+    const pattern = letters.join('.*');
+
+    const regex = new RegExp(pattern, 'i');
+    return regex.test(fullName);
+}

@@ -1,9 +1,0 @@
-{
-	"id": "SdR5OUGJtga0JH1",
-	"json": "{\"id\":\"SdR5OUGJtga0JH1\",\"url\":\"https://giesbusiness.illinois.edu/spring-luncheon\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/spring-luncheon\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
-	"method": "GET",
-	"orderNo": 1781560335587,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/spring-luncheon",
-	"url": "https://giesbusiness.illinois.edu/spring-luncheon"
-}

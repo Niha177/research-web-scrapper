@@ -1,0 +1,9 @@
+{
+	"id": "tEJan01zB2TuO3s",
+	"json": "{\"id\":\"tEJan01zB2TuO3s\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/aid/external-resources\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/aid/external-resources\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/aid/external-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:31.586Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/aid/external-resources",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/aid/external-resources"
+}

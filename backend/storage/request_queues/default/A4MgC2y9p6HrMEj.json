@@ -1,6 +1,6 @@
 {
 	"id": "A4MgC2y9p6HrMEj",
-	"json": "{\"id\":\"A4MgC2y9p6HrMEj\",\"url\":\"http://illinois.edu/calendar/list/557\",\"loadedUrl\":\"https://calendars.illinois.edu/list/557\",\"uniqueKey\":\"http://illinois.edu/calendar/list/557\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":7}},\"handledAt\":\"2026-06-15T21:48:38.425Z\"}",
+	"json": "{\"id\":\"A4MgC2y9p6HrMEj\",\"url\":\"http://illinois.edu/calendar/list/557\",\"loadedUrl\":\"https://calendars.illinois.edu/list/557\",\"uniqueKey\":\"http://illinois.edu/calendar/list/557\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":7}},\"handledAt\":\"2026-06-15T23:14:02.204Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

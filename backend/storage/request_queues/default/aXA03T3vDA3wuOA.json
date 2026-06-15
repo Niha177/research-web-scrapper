@@ -1,9 +1,0 @@
-{
-	"id": "aXA03T3vDA3wuOA",
-	"json": "{\"id\":\"aXA03T3vDA3wuOA\",\"url\":\"https://giesbusiness.illinois.edu/apply/cost-and-aid\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/cost-and-aid\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/cost-and-aid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:41.148Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/apply/cost-and-aid",
-	"url": "https://giesbusiness.illinois.edu/apply/cost-and-aid"
-}

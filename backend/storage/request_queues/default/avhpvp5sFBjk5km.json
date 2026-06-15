@@ -1,9 +1,0 @@
-{
-	"id": "avhpvp5sFBjk5km",
-	"json": "{\"id\":\"avhpvp5sFBjk5km\",\"url\":\"https://giesbusiness.illinois.edu/alumni/merchandise\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/about/merchandise\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni/merchandise\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.453Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/alumni/merchandise",
-	"url": "https://giesbusiness.illinois.edu/alumni/merchandise"
-}

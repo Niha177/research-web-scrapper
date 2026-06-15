@@ -1,9 +1,0 @@
-{
-	"id": "Ctin8mDGe1yb13k",
-	"json": "{\"id\":\"Ctin8mDGe1yb13k\",\"url\":\"https://giesbusiness.illinois.edu/alumni/get-involved\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/alumni/get-involved\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni/get-involved\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:13.646Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/alumni/get-involved",
-	"url": "https://giesbusiness.illinois.edu/alumni/get-involved"
-}

@@ -1,0 +1,9 @@
+{
+	"id": "gNOIOlUrdIFXxtE",
+	"json": "{\"id\":\"gNOIOlUrdIFXxtE\",\"url\":\"https://grainger.illinois.edu/admissions/graduate\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/graduate\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:25.087Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/admissions/graduate",
+	"url": "https://grainger.illinois.edu/admissions/graduate"
+}

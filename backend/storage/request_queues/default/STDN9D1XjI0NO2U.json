@@ -1,9 +1,0 @@
-{
-	"id": "STDN9D1XjI0NO2U",
-	"json": "{\"id\":\"STDN9D1XjI0NO2U\",\"url\":\"https://giesbusiness.illinois.edu/experience/academies-centers\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/academies-centers\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/academies-centers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:05.166Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/academies-centers",
-	"url": "https://giesbusiness.illinois.edu/experience/academies-centers"
-}

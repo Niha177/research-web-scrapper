@@ -1,6 +1,6 @@
 {
 	"id": "CHYRM5Vzk9T5hRN",
-	"json": "{\"id\":\"CHYRM5Vzk9T5hRN\",\"url\":\"https://illinois.edu/about/nobel-laureates-pulitzer-prize-winners/\",\"loadedUrl\":\"https://illinois.edu/about/nobel-laureates-pulitzer-prize-winners/\",\"uniqueKey\":\"https://illinois.edu/about/nobel-laureates-pulitzer-prize-winners\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:38.119Z\"}",
+	"json": "{\"id\":\"CHYRM5Vzk9T5hRN\",\"url\":\"https://illinois.edu/about/nobel-laureates-pulitzer-prize-winners/\",\"loadedUrl\":\"https://illinois.edu/about/nobel-laureates-pulitzer-prize-winners/\",\"uniqueKey\":\"https://illinois.edu/about/nobel-laureates-pulitzer-prize-winners\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:03.585Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

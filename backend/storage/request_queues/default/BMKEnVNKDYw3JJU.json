@@ -1,0 +1,9 @@
+{
+	"id": "BMKEnVNKDYw3JJU",
+	"json": "{\"id\":\"BMKEnVNKDYw3JJU\",\"url\":\"https://grainger.illinois.edu/corporate/student-recruitment/building-communities\",\"loadedUrl\":\"https://grainger.illinois.edu/corporate/student-recruitment/building-communities\",\"uniqueKey\":\"https://grainger.illinois.edu/corporate/student-recruitment/building-communities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:38.965Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/corporate/student-recruitment/building-communities",
+	"url": "https://grainger.illinois.edu/corporate/student-recruitment/building-communities"
+}

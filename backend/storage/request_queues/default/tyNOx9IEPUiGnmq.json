@@ -1,9 +1,0 @@
-{
-	"id": "tyNOx9IEPUiGnmq",
-	"json": "{\"id\":\"tyNOx9IEPUiGnmq\",\"url\":\"https://giesbusiness.illinois.edu/experience/honors/welcome-to-business-honors\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/honors/welcome-to-business-honors\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/honors/welcome-to-business-honors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:07.585Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/honors/welcome-to-business-honors",
-	"url": "https://giesbusiness.illinois.edu/experience/honors/welcome-to-business-honors"
-}

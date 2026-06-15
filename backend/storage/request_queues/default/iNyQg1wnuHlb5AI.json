@@ -1,9 +1,0 @@
-{
-	"id": "iNyQg1wnuHlb5AI",
-	"json": "{\"id\":\"iNyQg1wnuHlb5AI\",\"url\":\"https://inside.giesbusiness.illinois.edu/\",\"uniqueKey\":\"https://inside.giesbusiness.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
-	"method": "GET",
-	"orderNo": 1781560335587,
-	"retryCount": 0,
-	"uniqueKey": "https://inside.giesbusiness.illinois.edu",
-	"url": "https://inside.giesbusiness.illinois.edu/"
-}

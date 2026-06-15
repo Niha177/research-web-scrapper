@@ -1,9 +1,0 @@
-{
-	"id": "v7pyYrNqGTwHfaC",
-	"json": "{\"id\":\"v7pyYrNqGTwHfaC\",\"url\":\"https://giesbusiness.illinois.edu/about/business-campus\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/about/business-campus\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/about/business-campus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:39.941Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/about/business-campus",
-	"url": "https://giesbusiness.illinois.edu/about/business-campus"
-}

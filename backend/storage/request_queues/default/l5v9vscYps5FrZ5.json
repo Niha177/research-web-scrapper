@@ -1,9 +1,0 @@
-{
-	"id": "l5v9vscYps5FrZ5",
-	"json": "{\"id\":\"l5v9vscYps5FrZ5\",\"url\":\"https://giesbusiness.illinois.edu/corporate\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/corporate\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/corporate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.926Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/corporate",
-	"url": "https://giesbusiness.illinois.edu/corporate"
-}

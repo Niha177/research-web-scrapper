@@ -1,9 +1,0 @@
-{
-	"id": "C51v7NcOpk6jOnq",
-	"json": "{\"id\":\"C51v7NcOpk6jOnq\",\"url\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/student-ambassadors\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/student-ambassadors\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/student-ambassadors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.890Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/apply/graduate-admissions/student-ambassadors",
-	"url": "https://giesbusiness.illinois.edu/apply/graduate-admissions/student-ambassadors"
-}

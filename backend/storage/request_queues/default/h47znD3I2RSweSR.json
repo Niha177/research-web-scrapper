@@ -1,9 +1,0 @@
-{
-	"id": "h47znD3I2RSweSR",
-	"json": "{\"id\":\"h47znD3I2RSweSR\",\"url\":\"https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:02.977Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence",
-	"url": "https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence"
-}

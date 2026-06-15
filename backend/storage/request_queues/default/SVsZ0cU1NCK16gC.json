@@ -1,9 +1,0 @@
-{
-	"id": "SVsZ0cU1NCK16gC",
-	"json": "{\"id\":\"SVsZ0cU1NCK16gC\",\"url\":\"https://giesbusiness.illinois.edu/news-and-events/podcasts\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/news-and-events/podcasts\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/news-and-events/podcasts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:17.935Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/news-and-events/podcasts",
-	"url": "https://giesbusiness.illinois.edu/news-and-events/podcasts"
-}

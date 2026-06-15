@@ -1,9 +1,0 @@
-{
-	"id": "JgUEkBqPrdCwSMV",
-	"json": "{\"id\":\"JgUEkBqPrdCwSMV\",\"url\":\"https://giesbusiness.illinois.edu/apply/admissions/scholarships\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/admissions/scholarships\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/admissions/scholarships\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.716Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/apply/admissions/scholarships",
-	"url": "https://giesbusiness.illinois.edu/apply/admissions/scholarships"
-}

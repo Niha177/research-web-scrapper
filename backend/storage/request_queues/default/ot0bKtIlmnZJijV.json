@@ -1,9 +1,0 @@
-{
-	"id": "ot0bKtIlmnZJijV",
-	"json": "{\"id\":\"ot0bKtIlmnZJijV\",\"url\":\"https://giesbusiness.illinois.edu/academics/doctoral/business-administration\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/doctoral/business-administration\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/doctoral/business-administration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:59.192Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/doctoral/business-administration",
-	"url": "https://giesbusiness.illinois.edu/academics/doctoral/business-administration"
-}

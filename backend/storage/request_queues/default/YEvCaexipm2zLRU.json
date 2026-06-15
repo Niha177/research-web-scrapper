@@ -1,9 +1,0 @@
-{
-	"id": "YEvCaexipm2zLRU",
-	"json": "{\"id\":\"YEvCaexipm2zLRU\",\"url\":\"https://giesbusiness.illinois.edu/alumni\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/alumni\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:14.328Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/alumni",
-	"url": "https://giesbusiness.illinois.edu/alumni"
-}

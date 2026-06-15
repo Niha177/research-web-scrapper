@@ -1,9 +1,0 @@
-{
-	"id": "KqS6jn36Gi7kgOS",
-	"json": "{\"id\":\"KqS6jn36Gi7kgOS\",\"url\":\"https://giesbusiness.illinois.edu/golder-academies\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/golder-academies\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/golder-academies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:03.989Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/golder-academies",
-	"url": "https://giesbusiness.illinois.edu/golder-academies"
-}

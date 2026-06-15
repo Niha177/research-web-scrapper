@@ -1,9 +1,0 @@
-{
-	"id": "t6OA0s5iSy5vCNM",
-	"json": "{\"id\":\"t6OA0s5iSy5vCNM\",\"url\":\"https://giesbusiness.illinois.edu/our-story/facilities\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/our-story/facilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
-	"method": "GET",
-	"orderNo": 1781560335587,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/our-story/facilities",
-	"url": "https://giesbusiness.illinois.edu/our-story/facilities"
-}

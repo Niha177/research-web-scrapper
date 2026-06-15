@@ -1,0 +1,9 @@
+{
+	"id": "mi7JaAww0rK18W3",
+	"json": "{\"id\":\"mi7JaAww0rK18W3\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/aid/departmental-and-campus-scholarships\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/aid/departmental-and-campus-scholarships\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/aid/departmental-and-campus-scholarships\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:30.121Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/aid/departmental-and-campus-scholarships",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/aid/departmental-and-campus-scholarships"
+}

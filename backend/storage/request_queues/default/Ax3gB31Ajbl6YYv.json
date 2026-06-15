@@ -1,0 +1,9 @@
+{
+	"id": "Ax3gB31Ajbl6YYv",
+	"json": "{\"id\":\"Ax3gB31Ajbl6YYv\",\"url\":\"https://grainger.illinois.edu/research/areas/AI\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/AI\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/AI\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:21.981Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/areas/AI",
+	"url": "https://grainger.illinois.edu/research/areas/AI"
+}

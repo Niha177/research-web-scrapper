@@ -1,6 +1,6 @@
 {
 	"id": "tgiVcA1Iou2AnX6",
-	"json": "{\"id\":\"tgiVcA1Iou2AnX6\",\"url\":\"https://illinois.edu/rankings/\",\"loadedUrl\":\"https://illinois.edu/about/rankings/\",\"uniqueKey\":\"https://illinois.edu/rankings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:38.512Z\"}",
+	"json": "{\"id\":\"tgiVcA1Iou2AnX6\",\"url\":\"https://illinois.edu/rankings/\",\"loadedUrl\":\"https://illinois.edu/about/rankings/\",\"uniqueKey\":\"https://illinois.edu/rankings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:03.337Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

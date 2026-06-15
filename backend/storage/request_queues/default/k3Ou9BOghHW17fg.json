@@ -1,0 +1,9 @@
+{
+	"id": "k3Ou9BOghHW17fg",
+	"json": "{\"id\":\"k3Ou9BOghHW17fg\",\"url\":\"https://techmgmt.illinois.edu/\",\"loadedUrl\":\"https://techmgmt.illinois.edu/\",\"uniqueKey\":\"https://techmgmt.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:37.011Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://techmgmt.illinois.edu",
+	"url": "https://techmgmt.illinois.edu/"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "rRKPWLNDfY4dXRv",
-	"json": "{\"id\":\"rRKPWLNDfY4dXRv\",\"url\":\"https://giesbusiness.illinois.edu/alumni/contact-advancement\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/alumni/contact-advancement\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni/contact-advancement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.703Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/alumni/contact-advancement",
-	"url": "https://giesbusiness.illinois.edu/alumni/contact-advancement"
-}

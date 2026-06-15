@@ -1,6 +1,6 @@
 {
 	"id": "rtZXurEE11LTkH7",
-	"json": "{\"id\":\"rtZXurEE11LTkH7\",\"url\":\"https://illinois.edu/community/\",\"loadedUrl\":\"https://illinois.edu/community/\",\"uniqueKey\":\"https://illinois.edu/community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:38.162Z\"}",
+	"json": "{\"id\":\"rtZXurEE11LTkH7\",\"url\":\"https://illinois.edu/community/\",\"loadedUrl\":\"https://illinois.edu/community/\",\"uniqueKey\":\"https://illinois.edu/community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:01.679Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

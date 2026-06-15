@@ -1,9 +1,0 @@
-{
-	"id": "sRkAyqbsSXwk0rC",
-	"json": "{\"id\":\"sRkAyqbsSXwk0rC\",\"url\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/fast-track-application\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/fast-track-application\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/graduate-admissions/fast-track-application\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.910Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/apply/graduate-admissions/fast-track-application",
-	"url": "https://giesbusiness.illinois.edu/apply/graduate-admissions/fast-track-application"
-}

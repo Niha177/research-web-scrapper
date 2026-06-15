@@ -1,9 +1,0 @@
-{
-	"id": "qzAclqxugdT0fxR",
-	"json": "{\"id\":\"qzAclqxugdT0fxR\",\"url\":\"https://payment.giving.illinois.edu/campaigns/49531/donations/new\",\"loadedUrl\":\"https://payment.giving.illinois.edu/campaigns/49531/donations/new\",\"uniqueKey\":\"https://payment.giving.illinois.edu/campaigns/49531/donations/new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.045Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://payment.giving.illinois.edu/campaigns/49531/donations/new",
-	"url": "https://payment.giving.illinois.edu/campaigns/49531/donations/new"
-}

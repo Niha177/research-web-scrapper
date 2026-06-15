@@ -1,6 +1,6 @@
 {
 	"id": "KSHSulHxWspaTwQ",
-	"json": "{\"id\":\"KSHSulHxWspaTwQ\",\"url\":\"https://illinois.edu/colleges-and-schools\",\"loadedUrl\":\"https://illinois.edu/academics/colleges-and-schools/\",\"uniqueKey\":\"https://illinois.edu/colleges-and-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:38.456Z\"}",
+	"json": "{\"id\":\"KSHSulHxWspaTwQ\",\"url\":\"https://illinois.edu/colleges-and-schools\",\"loadedUrl\":\"https://illinois.edu/academics/colleges-and-schools/\",\"uniqueKey\":\"https://illinois.edu/colleges-and-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:03.399Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

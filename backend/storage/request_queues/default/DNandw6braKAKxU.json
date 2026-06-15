@@ -1,9 +1,0 @@
-{
-	"id": "DNandw6braKAKxU",
-	"json": "{\"id\":\"DNandw6braKAKxU\",\"url\":\"https://giesbusiness.illinois.edu/experience/entrepreneurship\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/origin-ventures-office-of-entrepreneurship\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/entrepreneurship\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:09.472Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/entrepreneurship",
-	"url": "https://giesbusiness.illinois.edu/experience/entrepreneurship"
-}

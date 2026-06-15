@@ -1,9 +1,0 @@
-{
-	"id": "V24vJIQFpFVkMvU",
-	"json": "{\"id\":\"V24vJIQFpFVkMvU\",\"url\":\"https://giesbusiness.illinois.edu/apply/online-admissions\",\"loadedUrl\":\"https://giesonline.illinois.edu/application-overview\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/apply/online-admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:41.224Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/apply/online-admissions",
-	"url": "https://giesbusiness.illinois.edu/apply/online-admissions"
-}

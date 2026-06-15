@@ -1,0 +1,9 @@
+{
+	"id": "fS7c6eXLCxzHd6Z",
+	"json": "{\"id\":\"fS7c6eXLCxzHd6Z\",\"url\":\"https://grainger.illinois.edu/research/postdoc-opportunities/STEP\",\"loadedUrl\":\"https://grainger.illinois.edu/research/postdoc-opportunities/STEP\",\"uniqueKey\":\"https://grainger.illinois.edu/research/postdoc-opportunities/STEP\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:30.377Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/postdoc-opportunities/STEP",
+	"url": "https://grainger.illinois.edu/research/postdoc-opportunities/STEP"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Ugmn162ptxL8alf",
+	"json": "{\"id\":\"Ugmn162ptxL8alf\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/academic-advising\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/academic-advising\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/academic-advising\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:33.979Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/academic-advising",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/academic-advising"
+}

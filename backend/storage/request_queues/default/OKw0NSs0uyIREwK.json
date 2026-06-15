@@ -1,9 +1,0 @@
-{
-	"id": "OKw0NSs0uyIREwK",
-	"json": "{\"id\":\"OKw0NSs0uyIREwK\",\"url\":\"https://giesbusiness.illinois.edu/news\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/news\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
-	"method": "GET",
-	"orderNo": 1781560132837,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/news",
-	"url": "https://giesbusiness.illinois.edu/news"
-}

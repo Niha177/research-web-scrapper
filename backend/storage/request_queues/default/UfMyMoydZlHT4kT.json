@@ -1,0 +1,9 @@
+{
+	"id": "UfMyMoydZlHT4kT",
+	"json": "{\"id\":\"UfMyMoydZlHT4kT\",\"url\":\"https://grainger.illinois.edu/about/self-guided-tour\",\"loadedUrl\":\"https://grainger.illinois.edu/about/self-guided-tour\",\"uniqueKey\":\"https://grainger.illinois.edu/about/self-guided-tour\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:07.711Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/about/self-guided-tour",
+	"url": "https://grainger.illinois.edu/about/self-guided-tour"
+}

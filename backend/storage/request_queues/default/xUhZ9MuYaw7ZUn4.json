@@ -1,9 +1,0 @@
-{
-	"id": "xUhZ9MuYaw7ZUn4",
-	"json": "{\"id\":\"xUhZ9MuYaw7ZUn4\",\"url\":\"https://giesbusiness.illinois.edu/events\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/events\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:18.269Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/events",
-	"url": "https://giesbusiness.illinois.edu/events"
-}

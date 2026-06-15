@@ -1,9 +1,0 @@
-{
-	"id": "1wUU9PI2Xf7OYRJ",
-	"json": "{\"id\":\"1wUU9PI2Xf7OYRJ\",\"url\":\"https://giesbusiness.illinois.edu/about/artificial-intelligence\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/about/artificial-intelligence\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/about/artificial-intelligence\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:40.230Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/about/artificial-intelligence",
-	"url": "https://giesbusiness.illinois.edu/about/artificial-intelligence"
-}

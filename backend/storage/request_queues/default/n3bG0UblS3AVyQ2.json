@@ -1,9 +1,0 @@
-{
-	"id": "n3bG0UblS3AVyQ2",
-	"json": "{\"id\":\"n3bG0UblS3AVyQ2\",\"url\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-analytics-minor\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-analytics-minor\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-analytics-minor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:52.047Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-analytics-minor",
-	"url": "https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-analytics-minor"
-}

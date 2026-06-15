@@ -1,9 +1,0 @@
-{
-	"id": "Z3G4Sung9efJEjy",
-	"json": "{\"id\":\"Z3G4Sung9efJEjy\",\"url\":\"https://giesbusiness.illinois.edu/experience/experiential-learning\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/experiential-learning\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/experiential-learning\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:03.843Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/experiential-learning",
-	"url": "https://giesbusiness.illinois.edu/experience/experiential-learning"
-}

@@ -1,0 +1,9 @@
+{
+	"id": "w04TaFHZaSF5SEt",
+	"json": "{\"id\":\"w04TaFHZaSF5SEt\",\"url\":\"https://grainger.illinois.edu/research/areas/manufacturing\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/manufacturing\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/manufacturing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:19.849Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/areas/manufacturing",
+	"url": "https://grainger.illinois.edu/research/areas/manufacturing"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "AGhsYAnCXe7zjpH",
-	"json": "{\"id\":\"AGhsYAnCXe7zjpH\",\"url\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/finance-data-science\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/finance-data-science\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/finance-data-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:48.938Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/majors-and-minors/finance-data-science",
-	"url": "https://giesbusiness.illinois.edu/academics/majors-and-minors/finance-data-science"
-}

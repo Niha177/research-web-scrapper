@@ -1,9 +1,0 @@
-{
-	"id": "fwV0BLJS3Ny0EYI",
-	"json": "{\"id\":\"fwV0BLJS3Ny0EYI\",\"url\":\"https://giesbusiness.illinois.edu/faculty-and-research/centers-initiatives/health-care-research-initiative\",\"loadedUrl\":\"https://hcri.giesbusiness.illinois.edu/\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/faculty-and-research/centers-initiatives/health-care-research-initiative\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:12.597Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/faculty-and-research/centers-initiatives/health-care-research-initiative",
-	"url": "https://giesbusiness.illinois.edu/faculty-and-research/centers-initiatives/health-care-research-initiative"
-}

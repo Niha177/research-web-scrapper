@@ -1,9 +1,0 @@
-{
-	"id": "tVOuISQMNwTJ6ch",
-	"json": "{\"id\":\"tVOuISQMNwTJ6ch\",\"url\":\"https://giesbusiness.illinois.edu/experience/experiential-learning/gies-global-programs\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/experience/experiential-learning/gies-global-programs\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/experiential-learning/gies-global-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:03.102Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/experiential-learning/gies-global-programs",
-	"url": "https://giesbusiness.illinois.edu/experience/experiential-learning/gies-global-programs"
-}

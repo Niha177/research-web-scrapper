@@ -1,9 +1,0 @@
-{
-	"id": "7iO6SUnn0y7gbet",
-	"json": "{\"id\":\"7iO6SUnn0y7gbet\",\"url\":\"https://news.illinois.edu/?utm_source=Gies&utm_medium=web&utm_campaign=Footer\",\"uniqueKey\":\"https://news.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
-	"method": "GET",
-	"orderNo": 1781560132838,
-	"retryCount": 0,
-	"uniqueKey": "https://news.illinois.edu",
-	"url": "https://news.illinois.edu/?utm_source=Gies&utm_medium=web&utm_campaign=Footer"
-}

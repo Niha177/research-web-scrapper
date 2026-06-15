@@ -1,9 +1,0 @@
-{
-	"id": "Mtkw2TYqtPBgffx",
-	"json": "{\"id\":\"Mtkw2TYqtPBgffx\",\"url\":\"https://giesbusiness.illinois.edu/academics/graduate/ms-in-financial-engineering\",\"loadedUrl\":\"https://msfe.illinois.edu/\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/graduate/ms-in-financial-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:00.312Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/graduate/ms-in-financial-engineering",
-	"url": "https://giesbusiness.illinois.edu/academics/graduate/ms-in-financial-engineering"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "QLy4H8VF3HwsFYO",
-	"json": "{\"id\":\"QLy4H8VF3HwsFYO\",\"url\":\"https://giesbusiness.illinois.edu/corporate/student-consulting-projects/submit-your-project\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/corporate/student-consulting-projects/submit-your-project\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/corporate/student-consulting-projects/submit-your-project\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:18.013Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/corporate/student-consulting-projects/submit-your-project",
-	"url": "https://giesbusiness.illinois.edu/corporate/student-consulting-projects/submit-your-project"
-}

@@ -1,0 +1,9 @@
+{
+	"id": "9sz4trSVFkZQE09",
+	"json": "{\"id\":\"9sz4trSVFkZQE09\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/changing-majors\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/changing-majors\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/changing-majors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:35.908Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/changing-majors",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/changing-majors"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ogEWQesnFrm6bJ9",
+	"json": "{\"id\":\"ogEWQesnFrm6bJ9\",\"url\":\"http://cs.illinois.edu/academics/graduate/professional-master-computer-science\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/professional-mcs\",\"uniqueKey\":\"http://cs.illinois.edu/academics/graduate/professional-master-computer-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-15T23:15:46.220Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://cs.illinois.edu/academics/graduate/professional-master-computer-science",
+	"url": "http://cs.illinois.edu/academics/graduate/professional-master-computer-science"
+}

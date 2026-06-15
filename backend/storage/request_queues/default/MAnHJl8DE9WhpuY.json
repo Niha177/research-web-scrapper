@@ -1,9 +1,0 @@
-{
-	"id": "MAnHJl8DE9WhpuY",
-	"json": "{\"id\":\"MAnHJl8DE9WhpuY\",\"url\":\"https://giesbusiness.illinois.edu/finance\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/finance\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/finance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:10.497Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/finance",
-	"url": "https://giesbusiness.illinois.edu/finance"
-}

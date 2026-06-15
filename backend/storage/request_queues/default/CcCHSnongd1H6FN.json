@@ -1,0 +1,9 @@
+{
+	"id": "CcCHSnongd1H6FN",
+	"json": "{\"id\":\"CcCHSnongd1H6FN\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-15T23:15:42.681Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map"
+}

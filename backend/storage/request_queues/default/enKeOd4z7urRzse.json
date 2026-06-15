@@ -1,9 +1,0 @@
-{
-	"id": "enKeOd4z7urRzse",
-	"json": "{\"id\":\"enKeOd4z7urRzse\",\"url\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/entrepreneurship\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/entrepreneurship\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/entrepreneurship\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:51.580Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/majors-and-minors/entrepreneurship",
-	"url": "https://giesbusiness.illinois.edu/academics/majors-and-minors/entrepreneurship"
-}

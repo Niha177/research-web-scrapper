@@ -1,9 +1,0 @@
-{
-	"id": "dxKGb8cdtjJ6Hrj",
-	"json": "{\"id\":\"dxKGb8cdtjJ6Hrj\",\"url\":\"https://giesbusiness.illinois.edu/alumni/give/make-a-gift\",\"loadedUrl\":\"https://payment.giving.illinois.edu/campaigns/49531/donations/new\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/alumni/give/make-a-gift\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:16.285Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/alumni/give/make-a-gift",
-	"url": "https://giesbusiness.illinois.edu/alumni/give/make-a-gift"
-}

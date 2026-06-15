@@ -1,0 +1,9 @@
+{
+	"id": "sAwRfH2XBRiORHG",
+	"json": "{\"id\":\"sAwRfH2XBRiORHG\",\"url\":\"https://grainger.illinois.edu/research/areas/engineering-and-medicine\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/engineering-and-medicine\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/engineering-and-medicine\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:26.767Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/areas/engineering-and-medicine",
+	"url": "https://grainger.illinois.edu/research/areas/engineering-and-medicine"
+}

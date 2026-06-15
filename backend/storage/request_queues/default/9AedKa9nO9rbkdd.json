@@ -1,9 +1,0 @@
-{
-	"id": "9AedKa9nO9rbkdd",
-	"json": "{\"id\":\"9AedKa9nO9rbkdd\",\"url\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-minor\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-minor\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-minor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:53.161Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-minor",
-	"url": "https://giesbusiness.illinois.edu/academics/undergraduate-minors/business-minor"
-}

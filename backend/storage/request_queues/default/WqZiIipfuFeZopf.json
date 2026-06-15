@@ -1,0 +1,9 @@
+{
+	"id": "WqZiIipfuFeZopf",
+	"json": "{\"id\":\"WqZiIipfuFeZopf\",\"url\":\"https://grainger.illinois.edu/research/postdoc-opportunities\",\"loadedUrl\":\"https://grainger.illinois.edu/research/postdoc-opportunities\",\"uniqueKey\":\"https://grainger.illinois.edu/research/postdoc-opportunities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:26.532Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/postdoc-opportunities",
+	"url": "https://grainger.illinois.edu/research/postdoc-opportunities"
+}

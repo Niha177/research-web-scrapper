@@ -1,0 +1,9 @@
+{
+	"id": "ThRIkJ45N8NltZw",
+	"json": "{\"id\":\"ThRIkJ45N8NltZw\",\"url\":\"https://www.bookstore.illinois.edu/\",\"loadedUrl\":\"https://bookstore.illinois.edu/\",\"uniqueKey\":\"https://www.bookstore.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:50.750Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.bookstore.illinois.edu",
+	"url": "https://www.bookstore.illinois.edu/"
+}

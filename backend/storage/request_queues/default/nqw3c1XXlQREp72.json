@@ -1,0 +1,9 @@
+{
+	"id": "nqw3c1XXlQREp72",
+	"json": "{\"id\":\"nqw3c1XXlQREp72\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/computer-science\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/computer-science\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/computer-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-15T23:15:42.029Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/computer-science",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/computer-science"
+}

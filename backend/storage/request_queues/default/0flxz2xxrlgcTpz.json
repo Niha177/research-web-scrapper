@@ -1,9 +1,0 @@
-{
-	"id": "0flxz2xxrlgcTpz",
-	"json": "{\"id\":\"0flxz2xxrlgcTpz\",\"url\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/business-data-science\",\"loadedUrl\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/business-data-science\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/majors-and-minors/business-data-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:48:41.212Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/majors-and-minors/business-data-science",
-	"url": "https://giesbusiness.illinois.edu/academics/majors-and-minors/business-data-science"
-}

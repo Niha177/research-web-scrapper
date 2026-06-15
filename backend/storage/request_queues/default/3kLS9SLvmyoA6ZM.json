@@ -1,9 +1,0 @@
-{
-	"id": "3kLS9SLvmyoA6ZM",
-	"json": "{\"id\":\"3kLS9SLvmyoA6ZM\",\"url\":\"https://giesbusiness.illinois.edu/academics/graduate/business-analytics/student-ambassadors\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/academics/graduate/business-analytics/student-ambassadors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\"}}}",
-	"method": "GET",
-	"orderNo": 1781560127831,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/student-ambassadors",
-	"url": "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/student-ambassadors"
-}

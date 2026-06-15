@@ -1,0 +1,9 @@
+{
+	"id": "MldPgkOnMwaHeaA",
+	"json": "{\"id\":\"MldPgkOnMwaHeaA\",\"url\":\"https://one.illinois.edu/graingerjscholar/home/\",\"loadedUrl\":\"https://one.illinois.edu/graingerjscholar/about/\",\"uniqueKey\":\"https://one.illinois.edu/graingerjscholar/home\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:39.430Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://one.illinois.edu/graingerjscholar/home",
+	"url": "https://one.illinois.edu/graingerjscholar/home/"
+}

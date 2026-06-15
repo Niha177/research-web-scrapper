@@ -1,9 +1,0 @@
-{
-	"id": "UBv1bfGL525kEQc",
-	"json": "{\"id\":\"UBv1bfGL525kEQc\",\"url\":\"https://giesbusiness.illinois.edu/experience/makerlab\",\"loadedUrl\":\"https://makerlab.illinois.edu/\",\"uniqueKey\":\"https://giesbusiness.illinois.edu/experience/makerlab\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T21:49:07.042Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://giesbusiness.illinois.edu/experience/makerlab",
-	"url": "https://giesbusiness.illinois.edu/experience/makerlab"
-}

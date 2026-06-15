@@ -1,0 +1,9 @@
+{
+	"id": "fMN6JIYUMqxriZb",
+	"json": "{\"id\":\"fMN6JIYUMqxriZb\",\"url\":\"https://grainger.illinois.edu/corporate/student-recruitment/scholarships\",\"loadedUrl\":\"https://grainger.illinois.edu/corporate/student-recruitment/scholarships\",\"uniqueKey\":\"https://grainger.illinois.edu/corporate/student-recruitment/scholarships\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:40.243Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/corporate/student-recruitment/scholarships",
+	"url": "https://grainger.illinois.edu/corporate/student-recruitment/scholarships"
+}
