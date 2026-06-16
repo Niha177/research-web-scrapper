@@ -1,0 +1,9 @@
+{
+	"id": "MDAHacXUOe7QxjX",
+	"json": "{\"id\":\"MDAHacXUOe7QxjX\",\"url\":\"https://las.illinois.edu/about/college-mission-vision-and-values\",\"loadedUrl\":\"https://las.illinois.edu/about/college-mission-vision-and-values\",\"uniqueKey\":\"https://las.illinois.edu/about/college-mission-vision-and-values\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:06.864Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://las.illinois.edu/about/college-mission-vision-and-values",
+	"url": "https://las.illinois.edu/about/college-mission-vision-and-values"
+}

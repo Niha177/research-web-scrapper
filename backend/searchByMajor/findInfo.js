@@ -62,6 +62,7 @@ export async function findFacultyInfo(searchLinks) {
 }
 
 export async function filterFacultyLinkResults(major) {
+    
     const searchLinks = await searchByCollege(major)
 
     let res =[]

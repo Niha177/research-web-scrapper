@@ -1,0 +1,9 @@
+{
+	"id": "bhcoh2G83F1aolg",
+	"json": "{\"id\":\"bhcoh2G83F1aolg\",\"url\":\"https://las.illinois.edu/faculty\",\"loadedUrl\":\"https://las.illinois.edu/faculty\",\"uniqueKey\":\"https://las.illinois.edu/faculty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:09.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://las.illinois.edu/faculty",
+	"url": "https://las.illinois.edu/faculty"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NLEKkbzwO9HKWy9",
+	"json": "{\"id\":\"NLEKkbzwO9HKWy9\",\"url\":\"https://las.illinois.edu\",\"loadedUrl\":\"https://las.illinois.edu/\",\"uniqueKey\":\"https://las.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T00:30:05.262Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://las.illinois.edu",
+	"url": "https://las.illinois.edu"
+}

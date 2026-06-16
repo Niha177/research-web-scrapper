@@ -10,8 +10,20 @@ export async function getMajorLink(collegeLink, major) {
     config.set('purgeOnStart', true);
     ///////////////////////////////////
 
-    //const queryText = 'SELECT name FROM majors WHERE name = $1'
-    //NORMALIZE MAJOR NAME
+    const getNormName = await mapMajorCode(major)
+    const normName = getNormName.name
+
+    const sqlText = 'SELECT EXISTS (SELECT 1 FROM scapedMajorSites WHERE major = $1)'
+    //BOOKMARK
+    
+    const dbResult = await query(sqlText, [normName])
+
+    if (!dbResult.rows[0].exists) {
+        console.log('dne')
+        const queryText = 
+         `INSERT INTO collegeSite (major, urls)
+          VALUES ($1, $2)`;
+    }
 
     /////////////////////////////////
 
@@ -88,10 +100,16 @@ export async function getMajorLink(collegeLink, major) {
     return results
 }
 
-export async function mainPageLocate(collegeLink, major) {
+export async function mainPageLocate(major) {
+
+    ///////
+    const collegeLink = await searchByCollege(major)
+    ///////
+
     const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
     const links = await getMajorLink(collegeLink, major)
+
     delay(2000)
 
     const depWeb = /\b(department|website)s?\b/i
@@ -111,10 +129,7 @@ export async function mainPageLocate(collegeLink, major) {
                 'bookstore', 'icard']
             //shift to more permenat solution....
 
-           // await page.getByRole('link', {name: depWeb}).waitFor({state:'attached'})
             const links = await page.locator('a').all()
-
-           // const findDepSite =  page.getByRole('link', {name: depWeb}).all()
 
             for(const link of links) {
                 const curText = (await link.textContent()|| '').toLowerCase()
@@ -142,9 +157,9 @@ export async function mainPageLocate(collegeLink, major) {
     console.log(results)
 }
 
-mainPageLocate('https://grainger.illinois.edu/', 'Computer Science')
+mainPageLocate('Civil Engineering')
 
-
+/*
 function fuzzyMatch(fullName, unknownAcronym) {
 
     const letters = unknownAcronym.toLowerCase().split('');
@@ -153,3 +168,4 @@ function fuzzyMatch(fullName, unknownAcronym) {
     const regex = new RegExp(pattern, 'i');
     return regex.test(fullName);
 }
+    */

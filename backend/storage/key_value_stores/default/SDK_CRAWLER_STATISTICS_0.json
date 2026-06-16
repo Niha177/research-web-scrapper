@@ -1,40 +1,27 @@
 {
   "requestsFinished": 24,
   "requestsFailed": 0,
-  "requestsRetries": 1,
+  "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 346,
-  "requestMinDurationMillis": 20,
-  "requestMaxDurationMillis": 3788,
+  "requestsFinishedPerMinute": 329,
+  "requestMinDurationMillis": 18,
+  "requestMaxDurationMillis": 4003,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 8986,
-  "crawlerStartedAt": "2026-06-16T00:16:29.186Z",
-  "crawlerFinishedAt": "2026-06-16T00:16:33.329Z",
-  "statsPersistedAt": "2026-06-16T00:16:33.329Z",
-  "crawlerRuntimeMillis": 4156,
-  "crawlerLastStartTimestamp": 1781568989173,
+  "requestTotalFinishedDurationMillis": 10564,
+  "crawlerStartedAt": "2026-06-16T00:29:58.291Z",
+  "crawlerFinishedAt": "2026-06-16T00:30:02.651Z",
+  "statsPersistedAt": "2026-06-16T00:30:02.651Z",
+  "crawlerRuntimeMillis": 4374,
+  "crawlerLastStartTimestamp": 1781569798277,
   "requestRetryHistogram": [
-    23,
-    1
+    24
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 374,
-  "requestTotalDurationMillis": 8986,
+  "requestAvgFinishedDurationMillis": 440,
+  "requestTotalDurationMillis": 10564,
   "requestsTotal": 24,
-  "requestsWithStatusCode": {
-    "403": 1
-  },
+  "requestsWithStatusCode": {},
   "errors": {},
-  "retryErrors": {
-    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/basic/internals/basic-crawler.js:910:19": {
-      "missing error code": {
-        "Error": {
-          "Request blocked - received 403 status code.": {
-            "count": 1
-          }
-        }
-      }
-    }
-  }
+  "retryErrors": {}
 }

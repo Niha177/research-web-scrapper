@@ -1,0 +1,9 @@
+{
+	"id": "4uAmjbWU27kyWxM",
+	"json": "{\"id\":\"4uAmjbWU27kyWxM\",\"url\":\"https://las.illinois.edu/admissions/attendillinois\",\"loadedUrl\":\"https://las.illinois.edu/admissions/attendillinois\",\"uniqueKey\":\"https://las.illinois.edu/admissions/attendillinois\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:07.965Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://las.illinois.edu/admissions/attendillinois",
+	"url": "https://las.illinois.edu/admissions/attendillinois"
+}

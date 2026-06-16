@@ -1,0 +1,9 @@
+{
+	"id": "RKFwve6NYd6pGI8",
+	"json": "{\"id\":\"RKFwve6NYd6pGI8\",\"url\":\"https://las.illinois.edu/about/publicengagement\",\"loadedUrl\":\"https://las.illinois.edu/about/publicengagement\",\"uniqueKey\":\"https://las.illinois.edu/about/publicengagement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:08.915Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://las.illinois.edu/about/publicengagement",
+	"url": "https://las.illinois.edu/about/publicengagement"
+}

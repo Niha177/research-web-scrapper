@@ -1,6 +1,6 @@
 {
 	"id": "zRemjPKtX8IBS0C",
-	"json": "{\"id\":\"zRemjPKtX8IBS0C\",\"url\":\"https://illinois.edu/athletics/\",\"loadedUrl\":\"https://illinois.edu/athletics/\",\"uniqueKey\":\"https://illinois.edu/athletics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:16:29.519Z\"}",
+	"json": "{\"id\":\"zRemjPKtX8IBS0C\",\"url\":\"https://illinois.edu/athletics/\",\"loadedUrl\":\"https://illinois.edu/athletics/\",\"uniqueKey\":\"https://illinois.edu/athletics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:29:58.617Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

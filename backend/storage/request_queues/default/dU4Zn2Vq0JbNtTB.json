@@ -1,0 +1,9 @@
+{
+	"id": "dU4Zn2Vq0JbNtTB",
+	"json": "{\"id\":\"dU4Zn2Vq0JbNtTB\",\"url\":\"https://las.illinois.edu/about/educationalexcellence\",\"loadedUrl\":\"https://las.illinois.edu/about/educationalexcellence\",\"uniqueKey\":\"https://las.illinois.edu/about/educationalexcellence\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:09.524Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://las.illinois.edu/about/educationalexcellence",
+	"url": "https://las.illinois.edu/about/educationalexcellence"
+}
