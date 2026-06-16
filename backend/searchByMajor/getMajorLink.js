@@ -217,15 +217,9 @@ export async function mainPageLocate(major) {
 
 }
 
-mainPageLocate('bioengineering')
+mainPageLocate('Mathematics')
 
 /*
-function fuzzyMatch(fullName, unknownAcronym) {
 
-    const letters = unknownAcronym.toLowerCase().split('');
-    const pattern = letters.join('.*');
-
-    const regex = new RegExp(pattern, 'i');
-    return regex.test(fullName);
 }
     */
