@@ -1,0 +1,9 @@
+{
+	"id": "SCBLhdWVbO89Haq",
+	"json": "{\"id\":\"SCBLhdWVbO89Haq\",\"url\":\"https://grainger.illinois.edu/corporate/student-recruitment\",\"loadedUrl\":\"https://grainger.illinois.edu/corporate/student-recruitment\",\"uniqueKey\":\"https://grainger.illinois.edu/corporate/student-recruitment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:40.835Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/corporate/student-recruitment",
+	"url": "https://grainger.illinois.edu/corporate/student-recruitment"
+}

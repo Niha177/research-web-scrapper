@@ -1,0 +1,9 @@
+{
+	"id": "CO3aq9n6pufQack",
+	"json": "{\"id\":\"CO3aq9n6pufQack\",\"url\":\"https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate.html\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:03.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate.html",
+	"url": "https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate.html"
+}

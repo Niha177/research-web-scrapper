@@ -1,0 +1,9 @@
+{
+	"id": "XzKbZU35m4BrXI3",
+	"json": "{\"id\":\"XzKbZU35m4BrXI3\",\"url\":\"https://aerospace.illinois.edu/academics/graduate/certificates\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/certificates\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/graduate/certificates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:03.940Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://aerospace.illinois.edu/academics/graduate/certificates",
+	"url": "https://aerospace.illinois.edu/academics/graduate/certificates"
+}

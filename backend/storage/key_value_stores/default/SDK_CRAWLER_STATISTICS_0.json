@@ -1,29 +1,41 @@
 {
-  "requestsFinished": 100,
+  "requestsFinished": 354,
   "requestsFailed": 0,
-  "requestsRetries": 0,
+  "requestsRetries": 1,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 72,
-  "requestMinDurationMillis": 389,
-  "requestMaxDurationMillis": 16944,
+  "requestsFinishedPerMinute": 88,
+  "requestMinDurationMillis": 143,
+  "requestMaxDurationMillis": 53261,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 342418,
-  "crawlerStartedAt": "2026-06-16T02:12:47.715Z",
-  "crawlerFinishedAt": "2026-06-16T02:14:10.822Z",
-  "statsPersistedAt": "2026-06-16T02:14:10.822Z",
-  "crawlerRuntimeMillis": 83191,
-  "crawlerLastStartTimestamp": 1781575967631,
+  "requestTotalFinishedDurationMillis": 1063443,
+  "crawlerStartedAt": "2026-06-16T15:50:09.156Z",
+  "crawlerFinishedAt": "2026-06-16T15:54:09.396Z",
+  "statsPersistedAt": "2026-06-16T15:54:09.396Z",
+  "crawlerRuntimeMillis": 240357,
+  "crawlerLastStartTimestamp": 1781625009039,
   "requestRetryHistogram": [
-    100
+    353,
+    1
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 3424,
-  "requestTotalDurationMillis": 342418,
-  "requestsTotal": 100,
+  "requestAvgFinishedDurationMillis": 3004,
+  "requestTotalDurationMillis": 1063443,
+  "requestsTotal": 354,
   "requestsWithStatusCode": {
-    "200": 100
+    "200": 343,
+    "404": 11
   },
   "errors": {},
-  "retryErrors": {}
+  "retryErrors": {
+    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.goto: Timeout 60000ms exceeded.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
 }

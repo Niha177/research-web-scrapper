@@ -1,0 +1,9 @@
+{
+	"id": "roZpU0yn4lmrjIX",
+	"json": "{\"id\":\"roZpU0yn4lmrjIX\",\"url\":\"https://matse.illinois.edu/academics/graduate-programs/graduate-degree-requirements\",\"loadedUrl\":\"https://matse.illinois.edu/academics/graduate-programs/graduate-degree-requirements\",\"uniqueKey\":\"https://matse.illinois.edu/academics/graduate-programs/graduate-degree-requirements\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:56.446Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://matse.illinois.edu/academics/graduate-programs/graduate-degree-requirements",
+	"url": "https://matse.illinois.edu/academics/graduate-programs/graduate-degree-requirements"
+}

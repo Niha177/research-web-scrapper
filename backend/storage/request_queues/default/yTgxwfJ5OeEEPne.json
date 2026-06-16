@@ -1,0 +1,9 @@
+{
+	"id": "yTgxwfJ5OeEEPne",
+	"json": "{\"id\":\"yTgxwfJ5OeEEPne\",\"url\":\"https://digitalag.illinois.edu/meng/\",\"loadedUrl\":\"https://digitalag.illinois.edu/meng/\",\"uniqueKey\":\"https://digitalag.illinois.edu/meng\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:29.456Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://digitalag.illinois.edu/meng",
+	"url": "https://digitalag.illinois.edu/meng/"
+}

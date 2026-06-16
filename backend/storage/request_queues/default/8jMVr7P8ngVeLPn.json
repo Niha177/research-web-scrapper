@@ -1,0 +1,9 @@
+{
+	"id": "8jMVr7P8ngVeLPn",
+	"json": "{\"id\":\"8jMVr7P8ngVeLPn\",\"url\":\"https://tec.illinois.edu/academics/certificates/business-management\",\"loadedUrl\":\"https://landuyt.illinois.edu/academics/certificates/business-management\",\"uniqueKey\":\"https://tec.illinois.edu/academics/certificates/business-management\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:04.200Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://tec.illinois.edu/academics/certificates/business-management",
+	"url": "https://tec.illinois.edu/academics/certificates/business-management"
+}

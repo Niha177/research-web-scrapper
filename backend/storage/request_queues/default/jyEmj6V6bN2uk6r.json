@@ -1,0 +1,9 @@
+{
+	"id": "jyEmj6V6bN2uk6r",
+	"json": "{\"id\":\"jyEmj6V6bN2uk6r\",\"url\":\"https://my.engr.illinois.edu/sitemanager/editpage.asp?id=118\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/sitemanager/editpage.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/sitemanager/editpage.asp?id=118\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:55.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/sitemanager/editpage.asp?id=118",
+	"url": "https://my.engr.illinois.edu/sitemanager/editpage.asp?id=118"
+}

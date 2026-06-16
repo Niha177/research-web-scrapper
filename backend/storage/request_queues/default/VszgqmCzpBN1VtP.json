@@ -1,0 +1,9 @@
+{
+	"id": "VszgqmCzpBN1VtP",
+	"json": "{\"id\":\"VszgqmCzpBN1VtP\",\"url\":\"https://ece.illinois.edu/academics/grad/msphd-manual/phd\",\"loadedUrl\":\"https://ece.illinois.edu/academics/grad/msphd-manual/phd\",\"uniqueKey\":\"https://ece.illinois.edu/academics/grad/msphd-manual/phd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:50.233Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ece.illinois.edu/academics/grad/msphd-manual/phd",
+	"url": "https://ece.illinois.edu/academics/grad/msphd-manual/phd"
+}

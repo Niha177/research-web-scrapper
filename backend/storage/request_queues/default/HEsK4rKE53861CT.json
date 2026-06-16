@@ -1,0 +1,9 @@
+{
+	"id": "HEsK4rKE53861CT",
+	"json": "{\"id\":\"HEsK4rKE53861CT\",\"url\":\"https://ceme.ece.illinois.edu/how-to-apply/\",\"loadedUrl\":\"https://ceme.ece.illinois.edu/how-to-apply/\",\"uniqueKey\":\"https://ceme.ece.illinois.edu/how-to-apply\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:05.229Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ceme.ece.illinois.edu/how-to-apply",
+	"url": "https://ceme.ece.illinois.edu/how-to-apply/"
+}

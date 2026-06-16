@@ -1,0 +1,9 @@
+{
+	"id": "TzogFbGthkeOD2q",
+	"json": "{\"id\":\"TzogFbGthkeOD2q\",\"url\":\"https://bioengineering.illinois.edu/academics/graduate/\",\"loadedUrl\":\"https://bioengineering.illinois.edu/academics/graduate\",\"uniqueKey\":\"https://bioengineering.illinois.edu/academics/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:13.514Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://bioengineering.illinois.edu/academics/graduate",
+	"url": "https://bioengineering.illinois.edu/academics/graduate/"
+}

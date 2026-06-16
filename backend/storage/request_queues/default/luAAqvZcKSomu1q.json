@@ -1,6 +1,6 @@
 {
 	"id": "luAAqvZcKSomu1q",
-	"json": "{\"id\":\"luAAqvZcKSomu1q\",\"url\":\"https://grainger.illinois.edu/admissions\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:23.255Z\"}",
+	"json": "{\"id\":\"luAAqvZcKSomu1q\",\"url\":\"https://grainger.illinois.edu/admissions\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:38.499Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

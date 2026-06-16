@@ -1,6 +1,6 @@
 {
 	"id": "ckgXXxlS7bAlQJL",
-	"json": "{\"id\":\"ckgXXxlS7bAlQJL\",\"url\":\"https://grainger.illinois.edu/about/diversity/social-justice\",\"loadedUrl\":\"https://grainger.illinois.edu/about/diversity/social-justice\",\"uniqueKey\":\"https://grainger.illinois.edu/about/diversity/social-justice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:04.860Z\"}",
+	"json": "{\"id\":\"ckgXXxlS7bAlQJL\",\"url\":\"https://grainger.illinois.edu/about/diversity/social-justice\",\"loadedUrl\":\"https://grainger.illinois.edu/about/diversity/social-justice\",\"uniqueKey\":\"https://grainger.illinois.edu/about/diversity/social-justice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:13.417Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

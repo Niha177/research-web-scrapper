@@ -1,0 +1,9 @@
+{
+	"id": "iNEFXi11So8mK2e",
+	"json": "{\"id\":\"iNEFXi11So8mK2e\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/electrical-engineering\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/electrical-engineering\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/electrical-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:51.348Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/electrical-engineering",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/electrical-engineering"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "unzWyhkGYpt3FOZ",
+	"json": "{\"id\":\"unzWyhkGYpt3FOZ\",\"url\":\"https://grainger.illinois.edu/research/areas/quantum\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/quantum\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/quantum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:35.322Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/areas/quantum",
+	"url": "https://grainger.illinois.edu/research/areas/quantum"
+}

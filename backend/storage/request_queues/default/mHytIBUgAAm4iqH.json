@@ -1,0 +1,9 @@
+{
+	"id": "mHytIBUgAAm4iqH",
+	"json": "{\"id\":\"mHytIBUgAAm4iqH\",\"url\":\"https://grainger.illinois.edu/giving/evs\",\"loadedUrl\":\"https://grainger.illinois.edu/giving/evs\",\"uniqueKey\":\"https://grainger.illinois.edu/giving/evs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:07.938Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/giving/evs",
+	"url": "https://grainger.illinois.edu/giving/evs"
+}

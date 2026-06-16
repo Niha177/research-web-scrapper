@@ -1,0 +1,9 @@
+{
+	"id": "tGJcGsgZXjd6aN3",
+	"json": "{\"id\":\"tGJcGsgZXjd6aN3\",\"url\":\"https://publish.illinois.edu/astroideas/\",\"loadedUrl\":\"https://publish.illinois.edu/astroideas/\",\"uniqueKey\":\"https://publish.illinois.edu/astroideas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:05.290Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://publish.illinois.edu/astroideas",
+	"url": "https://publish.illinois.edu/astroideas/"
+}

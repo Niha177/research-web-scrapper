@@ -1,0 +1,9 @@
+{
+	"id": "R9mnhTs4VbkEnkK",
+	"json": "{\"id\":\"R9mnhTs4VbkEnkK\",\"url\":\"https://mechanical.illinois.edu/undergraduate/senior-capstone-design-program\",\"loadedUrl\":\"https://mechse.illinois.edu/undergraduate/senior-capstone-design-program\",\"uniqueKey\":\"https://mechanical.illinois.edu/undergraduate/senior-capstone-design-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:22.379Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://mechanical.illinois.edu/undergraduate/senior-capstone-design-program",
+	"url": "https://mechanical.illinois.edu/undergraduate/senior-capstone-design-program"
+}

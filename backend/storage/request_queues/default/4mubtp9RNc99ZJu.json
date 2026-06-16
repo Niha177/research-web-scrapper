@@ -1,0 +1,9 @@
+{
+	"id": "4mubtp9RNc99ZJu",
+	"json": "{\"id\":\"4mubtp9RNc99ZJu\",\"url\":\"https://digitalag.illinois.edu/meng/degree-program/\",\"loadedUrl\":\"https://digitalag.illinois.edu/meng/degree-program/\",\"uniqueKey\":\"https://digitalag.illinois.edu/meng/degree-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:50.015Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://digitalag.illinois.edu/meng/degree-program",
+	"url": "https://digitalag.illinois.edu/meng/degree-program/"
+}

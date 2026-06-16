@@ -1,6 +1,6 @@
 {
 	"id": "i33Ph0oQBgBj6vA",
-	"json": "{\"id\":\"i33Ph0oQBgBj6vA\",\"url\":\"https://grainger.illinois.edu/about/chicago\",\"loadedUrl\":\"https://grainger.illinois.edu/about/chicago\",\"uniqueKey\":\"https://grainger.illinois.edu/about/chicago\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:04.407Z\"}",
+	"json": "{\"id\":\"i33Ph0oQBgBj6vA\",\"url\":\"https://grainger.illinois.edu/about/chicago\",\"loadedUrl\":\"https://grainger.illinois.edu/about/chicago\",\"uniqueKey\":\"https://grainger.illinois.edu/about/chicago\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:12.197Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

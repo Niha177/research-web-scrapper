@@ -1,0 +1,9 @@
+{
+	"id": "5qgtFiCEj2QGkDs",
+	"json": "{\"id\":\"5qgtFiCEj2QGkDs\",\"url\":\"https://grainger.illinois.edu/academics/online/current-students/web-self-service\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/current-students/web-self-service\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/current-students/web-self-service\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:04.390Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/online/current-students/web-self-service",
+	"url": "https://grainger.illinois.edu/academics/online/current-students/web-self-service"
+}

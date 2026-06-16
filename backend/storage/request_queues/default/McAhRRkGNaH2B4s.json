@@ -1,6 +1,6 @@
 {
 	"id": "McAhRRkGNaH2B4s",
-	"json": "{\"id\":\"McAhRRkGNaH2B4s\",\"url\":\"https://grainger.illinois.edu/admissions/graduate/merge\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/graduate/merge\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/graduate/merge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:38.712Z\"}",
+	"json": "{\"id\":\"McAhRRkGNaH2B4s\",\"url\":\"https://grainger.illinois.edu/admissions/graduate/merge\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/graduate/merge\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/graduate/merge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:50:55.860Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

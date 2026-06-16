@@ -1,0 +1,9 @@
+{
+	"id": "exgK1X4SYQuNUDe",
+	"json": "{\"id\":\"exgK1X4SYQuNUDe\",\"url\":\"https://ise.illinois.edu/graduate/degrees-and-programs/phd-systems-entrepreneurial-engineering\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/degrees-and-programs/phd-systems-entrepreneurial-engineering\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/degrees-and-programs/phd-systems-entrepreneurial-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:59.851Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/graduate/degrees-and-programs/phd-systems-entrepreneurial-engineering",
+	"url": "https://ise.illinois.edu/graduate/degrees-and-programs/phd-systems-entrepreneurial-engineering"
+}

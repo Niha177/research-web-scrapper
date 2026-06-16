@@ -1,0 +1,9 @@
+{
+	"id": "rl8MLLwsQw6md43",
+	"json": "{\"id\":\"rl8MLLwsQw6md43\",\"url\":\"https://energysystemsmeng.grainger.illinois.edu/program/online\",\"loadedUrl\":\"https://energysystemsmeng.grainger.illinois.edu/program/online\",\"uniqueKey\":\"https://energysystemsmeng.grainger.illinois.edu/program/online\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:55.057Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://energysystemsmeng.grainger.illinois.edu/program/online",
+	"url": "https://energysystemsmeng.grainger.illinois.edu/program/online"
+}

@@ -1,4 +1,4 @@
-SELECT * FROM scapedMajorSites
+SELECT * FROM collegeSite
 
 CREATE EXTENSION IF NOT EXISTS pg_trgm;
 
@@ -24,7 +24,7 @@ CREATE TABLE collegeSite(
 
 SELECT urls FROM collegeSite WHERE major = 'Computer Science'
 
-
+DELETE FROM scapedMajorSites WHERE major = 'Crop Sciences'
 
 
 

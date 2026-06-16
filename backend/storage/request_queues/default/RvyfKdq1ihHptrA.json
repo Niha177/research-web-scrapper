@@ -1,0 +1,9 @@
+{
+	"id": "RvyfKdq1ihHptrA",
+	"json": "{\"id\":\"RvyfKdq1ihHptrA\",\"url\":\"https://ise.illinois.edu/graduate/degrees-and-programs/master-science-industrial-engineering\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/degrees-and-programs/master-science-industrial-engineering\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/degrees-and-programs/master-science-industrial-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:34.481Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/graduate/degrees-and-programs/master-science-industrial-engineering",
+	"url": "https://ise.illinois.edu/graduate/degrees-and-programs/master-science-industrial-engineering"
+}

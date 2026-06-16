@@ -1,0 +1,9 @@
+{
+	"id": "xSbDHj9aIX4OKfq",
+	"json": "{\"id\":\"xSbDHj9aIX4OKfq\",\"url\":\"https://aerospace.illinois.edu/academics/graduate/online-ms-aerospace-engineering\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/online-ms-aerospace-engineering\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/graduate/online-ms-aerospace-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:35.099Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://aerospace.illinois.edu/academics/graduate/online-ms-aerospace-engineering",
+	"url": "https://aerospace.illinois.edu/academics/graduate/online-ms-aerospace-engineering"
+}

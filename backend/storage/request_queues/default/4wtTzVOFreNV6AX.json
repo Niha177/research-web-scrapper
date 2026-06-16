@@ -1,0 +1,9 @@
+{
+	"id": "4wtTzVOFreNV6AX",
+	"json": "{\"id\":\"4wtTzVOFreNV6AX\",\"url\":\"https://grainger.illinois.edu/research/areas/sustainability\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/sustainability\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/sustainability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:30.505Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/areas/sustainability",
+	"url": "https://grainger.illinois.edu/research/areas/sustainability"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "VvW4Gix0zl46TW6",
+	"json": "{\"id\":\"VvW4Gix0zl46TW6\",\"url\":\"https://tec.illinois.edu/\",\"loadedUrl\":\"https://landuyt.illinois.edu/\",\"uniqueKey\":\"https://tec.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:12.755Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://tec.illinois.edu",
+	"url": "https://tec.illinois.edu/"
+}

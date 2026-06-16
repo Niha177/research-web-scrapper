@@ -1,0 +1,9 @@
+{
+	"id": "JAp7yVCF7sMEk67",
+	"json": "{\"id\":\"JAp7yVCF7sMEk67\",\"url\":\"https://grainger.illinois.edu/academics/professional/custom-programs\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/professional/custom-programs\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/professional/custom-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:50:24.469Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/professional/custom-programs",
+	"url": "https://grainger.illinois.edu/academics/professional/custom-programs"
+}

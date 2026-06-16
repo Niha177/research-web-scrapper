@@ -1,0 +1,9 @@
+{
+	"id": "eLeXpAuZVAH8moG",
+	"json": "{\"id\":\"eLeXpAuZVAH8moG\",\"url\":\"https://grainger.illinois.edu/research/areas/digital-ag\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/digital-ag\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/digital-ag\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:29.428Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/areas/digital-ag",
+	"url": "https://grainger.illinois.edu/research/areas/digital-ag"
+}

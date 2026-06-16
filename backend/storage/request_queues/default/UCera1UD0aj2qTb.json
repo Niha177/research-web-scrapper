@@ -1,6 +1,6 @@
 {
 	"id": "UCera1UD0aj2qTb",
-	"json": "{\"id\":\"UCera1UD0aj2qTb\",\"url\":\"https://grainger.illinois.edu/academics/online/courses\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/courses\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/courses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:14:08.195Z\"}",
+	"json": "{\"id\":\"UCera1UD0aj2qTb\",\"url\":\"https://grainger.illinois.edu/academics/online/courses\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/courses\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/courses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:58.589Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

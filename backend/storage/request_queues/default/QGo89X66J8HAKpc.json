@@ -1,0 +1,9 @@
+{
+	"id": "QGo89X66J8HAKpc",
+	"json": "{\"id\":\"QGo89X66J8HAKpc\",\"url\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:28.203Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://aerospace.illinois.edu/academics/graduate/ms-degree-program",
+	"url": "https://aerospace.illinois.edu/academics/graduate/ms-degree-program"
+}

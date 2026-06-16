@@ -1,0 +1,9 @@
+{
+	"id": "irB5z6vrQkaTjhQ",
+	"json": "{\"id\":\"irB5z6vrQkaTjhQ\",\"url\":\"https://aerospacesystemsmeng.engineering.illinois.edu/\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/meng-degree\",\"uniqueKey\":\"https://aerospacesystemsmeng.engineering.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:27.774Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://aerospacesystemsmeng.engineering.illinois.edu",
+	"url": "https://aerospacesystemsmeng.engineering.illinois.edu/"
+}

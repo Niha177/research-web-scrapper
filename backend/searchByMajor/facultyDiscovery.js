@@ -16,44 +16,41 @@ export async function findInfo(major) {
             };
         },
     ],       
-        async requestHandler({request, $, enqueueLinks, log}) {
+        async requestHandler({request, page, enqueueLinks, log}) {
 
         const curUrl = request.url
 
-        if(curUrl.includes('duckduckgo.com/html')) {
+        
 
-            const result = $('#links ClearText, #links a.result__a, .result__url').first().attr('href');
-            console.log(result)
+            const results = await page.locator('a').all()
+            for(const result of results) {
 
-            if(result) {
-                //await crawler.addRequests([result])
-            } else {
-                console.log('not found')
+                const rawHref = result.getAttribute('href')
+                if(rawHref && typeof rawHref ==='string' && rawHref.includes('udge')) {
+
+                    try{
+
+                    } catch(err) {
+
+                    }
+                    
+                } else {
+                    console.log('not found')
+                    console.log(await result.getAttribute('href'))
+                
+                }
             }
 
             return;
 
-        }
-
-
-
-        let link = $(`a:contains("Tarek Abdelzaher")`)
-            link.each((i, el)=> {
-               let ret =  el.attribs.href
-
-               if(el.attribs.href) {
-                linkSet.push(ret)
-               }
-               
-            })
+        
         
 
-
         await enqueueLinks({
-            strategy: 'all'
+            strategy: 'same-domain'
         })
 
-        }, maxRequestsPerCrawl: 20
+        }, maxRequestsPerCrawl: 100
 
     })
 

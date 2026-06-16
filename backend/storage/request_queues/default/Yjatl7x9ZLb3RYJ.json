@@ -1,0 +1,9 @@
+{
+	"id": "Yjatl7x9ZLb3RYJ",
+	"json": "{\"id\":\"Yjatl7x9ZLb3RYJ\",\"url\":\"https://grainger.illinois.edu/academics/online/veterans\",\"loadedUrl\":\"https://chezveteranscenter.ahs.illinois.edu/\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/veterans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:03.130Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/online/veterans",
+	"url": "https://grainger.illinois.edu/academics/online/veterans"
+}

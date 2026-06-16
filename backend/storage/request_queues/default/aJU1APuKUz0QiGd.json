@@ -1,0 +1,9 @@
+{
+	"id": "aJU1APuKUz0QiGd",
+	"json": "{\"id\":\"aJU1APuKUz0QiGd\",\"url\":\"https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:48.410Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science",
+	"url": "https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science"
+}

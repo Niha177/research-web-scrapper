@@ -1,0 +1,9 @@
+{
+	"id": "zDeOVeOkrrDDSw2",
+	"json": "{\"id\":\"zDeOVeOkrrDDSw2\",\"url\":\"https://physics.illinois.edu/academics/graduates/\",\"loadedUrl\":\"https://physics.illinois.edu/academics/graduates\",\"uniqueKey\":\"https://physics.illinois.edu/academics/graduates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:00.478Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://physics.illinois.edu/academics/graduates",
+	"url": "https://physics.illinois.edu/academics/graduates/"
+}

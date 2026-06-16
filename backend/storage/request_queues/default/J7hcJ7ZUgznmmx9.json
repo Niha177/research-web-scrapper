@@ -1,0 +1,9 @@
+{
+	"id": "J7hcJ7ZUgznmmx9",
+	"json": "{\"id\":\"J7hcJ7ZUgznmmx9\",\"url\":\"https://cee.illinois.edu/academics/undergraduate-programs/bs-civil-engineering\",\"loadedUrl\":\"https://cee.illinois.edu/academics/undergraduate-programs/bs-civil-engineering\",\"uniqueKey\":\"https://cee.illinois.edu/academics/undergraduate-programs/bs-civil-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:43.059Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://cee.illinois.edu/academics/undergraduate-programs/bs-civil-engineering",
+	"url": "https://cee.illinois.edu/academics/undergraduate-programs/bs-civil-engineering"
+}

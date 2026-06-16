@@ -1,0 +1,9 @@
+{
+	"id": "KF2aqkag7jUzsS7",
+	"json": "{\"id\":\"KF2aqkag7jUzsS7\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/systems-engineering-design\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/systems-engineering-design\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/systems-engineering-design\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:01.911Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/systems-engineering-design",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/systems-engineering-design"
+}

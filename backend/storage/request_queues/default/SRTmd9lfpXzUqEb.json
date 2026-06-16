@@ -1,0 +1,9 @@
+{
+	"id": "SRTmd9lfpXzUqEb",
+	"json": "{\"id\":\"SRTmd9lfpXzUqEb\",\"url\":\"https://odos.illinois.edu/community-of-care/CAREcenter\",\"loadedUrl\":\"https://odos.illinois.edu/community-of-care/CAREcenter\",\"uniqueKey\":\"https://odos.illinois.edu/community-of-care/CAREcenter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:17.421Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://odos.illinois.edu/community-of-care/CAREcenter",
+	"url": "https://odos.illinois.edu/community-of-care/CAREcenter"
+}

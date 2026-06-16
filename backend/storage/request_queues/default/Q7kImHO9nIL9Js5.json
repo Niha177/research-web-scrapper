@@ -1,6 +1,6 @@
 {
 	"id": "Q7kImHO9nIL9Js5",
-	"json": "{\"id\":\"Q7kImHO9nIL9Js5\",\"url\":\"https://cs.illinois.edu/courses/profile/CS492\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/courses/cs492\",\"uniqueKey\":\"https://cs.illinois.edu/courses/profile/CS492\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T02:14:15.634Z\"}",
+	"json": "{\"id\":\"Q7kImHO9nIL9Js5\",\"url\":\"https://cs.illinois.edu/courses/profile/CS492\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/courses/cs492\",\"uniqueKey\":\"https://cs.illinois.edu/courses/profile/CS492\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:24.209Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

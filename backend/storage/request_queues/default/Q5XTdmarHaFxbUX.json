@@ -1,0 +1,9 @@
+{
+	"id": "Q5XTdmarHaFxbUX",
+	"json": "{\"id\":\"Q5XTdmarHaFxbUX\",\"url\":\"https://publish.illinois.edu/illinoissummerresearchprogramalliance/\",\"loadedUrl\":\"https://publish.illinois.edu/illinoissummerresearchprogramalliance/\",\"uniqueKey\":\"https://publish.illinois.edu/illinoissummerresearchprogramalliance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:05.786Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://publish.illinois.edu/illinoissummerresearchprogramalliance",
+	"url": "https://publish.illinois.edu/illinoissummerresearchprogramalliance/"
+}

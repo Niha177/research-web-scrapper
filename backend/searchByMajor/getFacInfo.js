@@ -1,5 +1,6 @@
 import { PlaywrightCrawler, Configuration} from 'crawlee'
 import {filterFacultyLinkResults} from './findInfo.js'
+import {mainPageLocate} from "./getMajorLink.js"
 
 export async function getFacultyInfo(links) {
 

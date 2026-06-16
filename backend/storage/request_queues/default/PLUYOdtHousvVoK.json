@@ -1,0 +1,9 @@
+{
+	"id": "PLUYOdtHousvVoK",
+	"json": "{\"id\":\"PLUYOdtHousvVoK\",\"url\":\"https://chezveteranscenter.ahs.illinois.edu/\",\"loadedUrl\":\"https://chezveteranscenter.ahs.illinois.edu/\",\"uniqueKey\":\"https://chezveteranscenter.ahs.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:09.395Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://chezveteranscenter.ahs.illinois.edu",
+	"url": "https://chezveteranscenter.ahs.illinois.edu/"
+}

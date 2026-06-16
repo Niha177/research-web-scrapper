@@ -1,0 +1,9 @@
+{
+	"id": "Ak4MSIirppjZs5o",
+	"json": "{\"id\":\"Ak4MSIirppjZs5o\",\"url\":\"https://grainger.illinois.edu/research/sri\",\"loadedUrl\":\"https://grainger.illinois.edu/research/sri\",\"uniqueKey\":\"https://grainger.illinois.edu/research/sri\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:17.485Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/research/sri",
+	"url": "https://grainger.illinois.edu/research/sri"
+}

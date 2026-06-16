@@ -16,7 +16,7 @@ export async function getMajorLink(collegeLink, major, queryText) {
     //////////////////////////////////////////////////////////
 
         const keywords = [major]
-        const recSites = /\\b(programs?|majors?|curriculums?|curricula)\\b/i
+        const recSites = /\b(programs?|majors?|curriculums?|curricula|degrees?|undergraduates?)\b/i
 
 
         let foundlinks = []
@@ -24,8 +24,8 @@ export async function getMajorLink(collegeLink, major, queryText) {
         const crawler = new PlaywrightCrawler({
 
             maxConcurrency: 5,
-            maxRequestsPerCrawl: 100,
-            requestHandlerTimeoutSecs: 15,
+            maxRequestsPerCrawl: 350,
+            requestHandlerTimeoutSecs: 45,
 
 
             launchContext: {
@@ -57,15 +57,31 @@ export async function getMajorLink(collegeLink, major, queryText) {
 
                         }
 
+                    const href = await link.getAttribute('href');
                     if(keywords.some(ele => ele.toLowerCase() === curText)) {
-                        const href = await link.getAttribute('href');
+                        
+
+                        const cleanHref = href.toLowerCase().replace(/[-_\s]/g, '')
+                        const cleanMajor = major.toLowerCase().replace(/[-_\s]/g, '')
                         if(href) {
                         
                             foundlinks.push(new URL(href, request.url).href)
                             console.log(foundlinks)
 
                         }
+                    /////////////////////////////////////
+                    } else {
+                        const href = link.getAttribute('href');
+
+                        const cleanHref = request.url.toLowerCase().replace(/[-_\s]/g, '')
+                        const cleanMajor = major.toLowerCase().replace(/[-_\s]/g, '')
+
+                        if(cleanHref.includes(cleanMajor)) {
+                            foundlinks.push(new URL(href, request.url).href)
+                            console.log(foundlinks)
+                        }
                     }
+                    /////////////////////////////////////
                     
                 }
 
@@ -123,7 +139,7 @@ export async function mainPageLocate(major) {
           VALUES ($1, $2, $3, CURRENT_TIMESTAMP)
           ON CONFLICT (major) 
           DO UPDATE SET
-            sourceUrl = EXCLUDED.sourceUrl,
+            sourceUrl = (SELECT ARRAY(SELECT DISTINCT unnest(scapedMajorSites.sourceUrl || EXCLUDED.sourceUrl))),
             urlData = EXCLUDED.urlData,
             last_scraped_at = CURRENT_TIMESTAMP
           `;
@@ -145,7 +161,7 @@ export async function mainPageLocate(major) {
                 const ignoreDomains = 
                 ['osfa', 'ilcollege2career', 
                     'illinisuccess', 
-                    'catalog.illinois.edu/undergraduate',
+                    //'catalog.illinois.edu/undergraduate',
                     'bookstore', 'icard']
                 //shift to more permenat solution....
 
@@ -201,7 +217,7 @@ export async function mainPageLocate(major) {
 
 }
 
-mainPageLocate('computer science')
+mainPageLocate('bioengineering')
 
 /*
 function fuzzyMatch(fullName, unknownAcronym) {

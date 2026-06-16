@@ -1,0 +1,9 @@
+{
+	"id": "jtw1INrgEMmbRfO",
+	"json": "{\"id\":\"jtw1INrgEMmbRfO\",\"url\":\"https://grainger.illinois.edu/corporate/student-recruitment/curriculum\",\"loadedUrl\":\"https://grainger.illinois.edu/corporate/student-recruitment/curriculum\",\"uniqueKey\":\"https://grainger.illinois.edu/corporate/student-recruitment/curriculum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:50:20.378Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/corporate/student-recruitment/curriculum",
+	"url": "https://grainger.illinois.edu/corporate/student-recruitment/curriculum"
+}
