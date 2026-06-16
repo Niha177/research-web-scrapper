@@ -1,9 +1,0 @@
-{
-	"id": "nLzbC9QVVLPp76N",
-	"json": "{\"id\":\"nLzbC9QVVLPp76N\",\"url\":\"https://illinois.edu/research/\",\"loadedUrl\":\"https://illinois.edu/research/\",\"uniqueKey\":\"https://illinois.edu/research\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:29:58.591Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/research",
-	"url": "https://illinois.edu/research/"
-}

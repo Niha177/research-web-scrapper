@@ -1,103 +1,97 @@
 import {searchByCollege} from './collegeLink.js'
 import { PlaywrightCrawler, Configuration} from 'crawlee'
 import {query} from '../createDb.js'
+import { mapMajorCode} from "../Find_area_study/mapCodeMajor.js"
 
 
-export async function getMajorLink(collegeLink, major) {
+export async function getMajorLink(collegeLink, major, queryText) {
 
 
     const config = Configuration.getGlobalConfig();
     config.set('purgeOnStart', true);
-    ///////////////////////////////////
+    //////////////////////////////////////////////////////////
 
-    const getNormName = await mapMajorCode(major)
-    const normName = getNormName.name
-
-    const sqlText = 'SELECT EXISTS (SELECT 1 FROM scapedMajorSites WHERE major = $1)'
-    //BOOKMARK
     
-    const dbResult = await query(sqlText, [normName])
 
-    if (!dbResult.rows[0].exists) {
-        console.log('dne')
-        const queryText = 
-         `INSERT INTO collegeSite (major, urls)
-          VALUES ($1, $2)`;
-    }
+    //////////////////////////////////////////////////////////
 
-    /////////////////////////////////
-
-    const keywords = [major]
-    const recSites = /\\b(programs?|majors?|curriculums?|curricula)\\b/i
+        const keywords = [major]
+        const recSites = /\\b(programs?|majors?|curriculums?|curricula)\\b/i
 
 
-    let foundlinks = []
+        let foundlinks = []
 
-    const crawler = new PlaywrightCrawler({
+        const crawler = new PlaywrightCrawler({
 
-        maxConcurrency: 5,
-        maxRequestsPerCrawl: 100,
-        requestHandlerTimeoutSecs: 15,
-
-
-        launchContext: {
-            launchOptions: {
-                ignoreHTTPSErrors: true,
-                args: [ '--disable-http2', '--no-sandbox', 
-                    '--disable-setuid-sandbox','--disable-dev-shm-usage']
-            }
-        },
-        async requestHandler({request, page, enqueueLinks, log }) {
-
-            const links = await page.locator('a').all()
+            maxConcurrency: 5,
+            maxRequestsPerCrawl: 100,
+            requestHandlerTimeoutSecs: 15,
 
 
-            for(const link of links) {
-                //const targeTtext = (await target.textContent()).toLowerCase()
-                const curText = (await link.textContent()|| '').toLowerCase()
-
-                    if(request.url === collegeLink && recSites.test(curText)) {
-                        const curhref = await link.getAttribute('href');
-
-                        await enqueueLinks({
-                            urls: [new URL(curhref, request.url).href],
-                            forefront: true,
-                            userData: {priority: 'High'}
-                        })
-
-                    }
-
-                if(keywords.some(ele => ele.toLowerCase() === curText)) {
-                    const href = await link.getAttribute('href');
-                    if(href) {
-                    
-                        foundlinks.push(new URL(href, request.url).href)
-                        console.log(foundlinks)
-
-                    }
+            launchContext: {
+                launchOptions: {
+                    ignoreHTTPSErrors: true,
+                    args: [ '--disable-http2', '--no-sandbox', 
+                        '--disable-setuid-sandbox','--disable-dev-shm-usage']
                 }
-                
-            }
+            },
+            async requestHandler({request, page, enqueueLinks, log }) {
 
-            await enqueueLinks({
-                strategy: 'all',
-                globs: ['https://*.illinois.edu/**'],
-                exclude: [
-                    /\/(news|stories|events|blog)\//i,
-                    /go\.illinois\.edu/i,
-                    /\/(tiktok|instagram|twitter|facebook|youtube)/i
-                ]
-            })
+                const links = await page.locator('a').all()
 
-        }, 
-    })
 
-    await crawler.run([collegeLink])
+                for(const link of links) {
+                    //const targeTtext = (await target.textContent()).toLowerCase()
+                    const curText = (await link.textContent()|| '').toLowerCase()
 
-    const results = [...new Set(foundlinks)]
-    console.log(results)
+                        if((request.url === collegeLink[0] ||
+                             request.url === (collegeLink.length === 2 ? collegeLink[1] : collegeLink[0])) 
+                             && recSites.test(curText)) {
+                            const curhref = await link.getAttribute('href');
 
-    return results
+                            await enqueueLinks({
+                                urls: [new URL(curhref, request.url).href],
+                                forefront: true,
+                                userData: {priority: 'High'}
+                            })
+
+                        }
+
+                    if(keywords.some(ele => ele.toLowerCase() === curText)) {
+                        const href = await link.getAttribute('href');
+                        if(href) {
+                        
+                            foundlinks.push(new URL(href, request.url).href)
+                            console.log(foundlinks)
+
+                        }
+                    }
+                    
+                }
+
+                await enqueueLinks({
+                    strategy: 'all',
+                    globs: ['https://*.illinois.edu/**'],
+                    exclude: [
+                        /\/(news|stories|events|blog)\//i,
+                        /go\.illinois\.edu/i,
+                        /\/(tiktok|instagram|twitter|facebook|youtube)/i
+                    ]
+                })
+
+            }, 
+        })
+
+        await crawler.run(collegeLink)
+
+        const results = [...new Set(foundlinks)]
+        console.log(results)
+
+
+
+        return results
+        
+    
 }
 
 export async function mainPageLocate(major) {
@@ -105,59 +99,109 @@ export async function mainPageLocate(major) {
     ///////
     const collegeLink = await searchByCollege(major)
     ///////
-
     const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-    const links = await getMajorLink(collegeLink, major)
 
-    delay(2000)
+    ////////////////////////////////////////////////
+    const getNormName = await mapMajorCode(major)
+    const normName = getNormName.name
 
-    const depWeb = /\b(department|website)s?\b/i
+    const sqlText = 
+    `SELECT EXISTS 
+        (SELECT 1 FROM scapedMajorSites 
+        WHERE major = $1
+        AND last_scraped_at AT TIME ZONE $2 > (NOW() AT TIME ZONE $2 - INTERVAL '30 days')
+        )`
+    //CHANGE INTERVAL TO 7 DAYS AT DEPLOYMENT
 
+    const dbResult = await query(sqlText, [normName, 'America/New_York'])
 
-
-    let website = [...links]
-
-    const crawler = new PlaywrightCrawler({
-
+    if (!dbResult.rows[0].exists) {
+        //console.log('dne')
+        const queryText = 
+         `INSERT INTO scapedMajorSites (major, sourceUrl, urlData, last_scraped_at)
+          VALUES ($1, $2, $3, CURRENT_TIMESTAMP)
+          ON CONFLICT (major) 
+          DO UPDATE SET
+            sourceUrl = EXCLUDED.sourceUrl,
+            urlData = EXCLUDED.urlData,
+            last_scraped_at = CURRENT_TIMESTAMP
+          `;
         
-        async requestHandler({request, page, enqueueLinks, log}) {
-            const ignoreDomains = 
-            ['osfa', 'ilcollege2career', 
-                'illinisuccess', 
-                'catalog.illinois.edu/undergraduate',
-                'bookstore', 'icard']
-            //shift to more permenat solution....
+      ////////////////////////////////////////////////
 
-            const links = await page.locator('a').all()
+        const links = await getMajorLink(collegeLink, major, queryText)
 
-            for(const link of links) {
-                const curText = (await link.textContent()|| '').toLowerCase()
+        delay(2000)
 
-                if(depWeb.test(curText) ) {
-                    const href = await link.getAttribute('href')
+        const depWeb = /\b(department|website)s?\b/i
 
-                    if(href && (href.startsWith('http://') || href.startsWith('https://'))) {
-                        if(!(ignoreDomains.some(dom => href.toLowerCase().includes(dom)))){
+        let website = [...links]
 
-                            website.push(href)
+        const crawler = new PlaywrightCrawler({
+
+            
+            async requestHandler({request, page, enqueueLinks, log}) {
+                const ignoreDomains = 
+                ['osfa', 'ilcollege2career', 
+                    'illinisuccess', 
+                    'catalog.illinois.edu/undergraduate',
+                    'bookstore', 'icard']
+                //shift to more permenat solution....
+
+                const links = await page.locator('a').all()
+
+                for(const link of links) {
+                    const curText = (await link.textContent()|| '').toLowerCase()
+
+                    if(depWeb.test(curText) ) {
+                        const href = await link.getAttribute('href')
+
+                        if(href && (href.startsWith('http://') || href.startsWith('https://'))) {
+                            if(!(ignoreDomains.some(dom => href.toLowerCase().includes(dom)))){
+
+                                website.push(href)
+                            }
+                            
                         }
-                         
                     }
                 }
+
+
             }
 
+        })
+        await crawler.run(links)
 
+        const results = [...new Set(website)]
+        console.log(results)
+
+         const metadata = {
+            site: 'illinois.edu'
+            //add more importance in future
         }
 
-    })
-    await crawler.run(links)
+        await query(queryText, [normName, results, JSON.stringify(metadata) ])
 
-    const results = [...new Set(website)]
-    console.log(results)
+        return results
+
+    } else {
+
+         const qryText = `SELECT sourceUrl FROM scapedMajorSites WHERE major = $1`
+
+        const existRes = await query(qryText, [normName])
+
+        const res = existRes.rows[0].sourceurl
+
+        console.log(res)
+        return res       
+    }
+
+
+
 }
 
-mainPageLocate('Civil Engineering')
+mainPageLocate('computer science')
 
 /*
 function fuzzyMatch(fullName, unknownAcronym) {

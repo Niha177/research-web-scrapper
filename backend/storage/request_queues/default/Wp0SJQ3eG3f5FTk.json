@@ -1,0 +1,9 @@
+{
+	"id": "Wp0SJQ3eG3f5FTk",
+	"json": "{\"id\":\"Wp0SJQ3eG3f5FTk\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/programs/iit-bombay\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/programs/iit-bombay\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/programs/iit-bombay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:55.071Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/programs/iit-bombay",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/programs/iit-bombay"
+}

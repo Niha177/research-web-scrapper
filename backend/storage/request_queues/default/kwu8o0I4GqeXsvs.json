@@ -1,9 +1,0 @@
-{
-	"id": "kwu8o0I4GqeXsvs",
-	"json": "{\"id\":\"kwu8o0I4GqeXsvs\",\"url\":\"https://illinois.edu/calendars/\",\"loadedUrl\":\"https://illinois.edu/calendars/\",\"uniqueKey\":\"https://illinois.edu/calendars\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:29:58.596Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/calendars",
-	"url": "https://illinois.edu/calendars/"
-}

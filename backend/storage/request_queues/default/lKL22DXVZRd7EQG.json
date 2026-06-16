@@ -1,0 +1,9 @@
+{
+	"id": "lKL22DXVZRd7EQG",
+	"json": "{\"id\":\"lKL22DXVZRd7EQG\",\"url\":\"https://grainger.illinois.edu/academics/online/current-students\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/current-students\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/current-students\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:14:10.693Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/online/current-students",
+	"url": "https://grainger.illinois.edu/academics/online/current-students"
+}

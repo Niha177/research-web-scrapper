@@ -1,9 +1,0 @@
-{
-	"id": "A5rm0CX6VBFjcAX",
-	"json": "{\"id\":\"A5rm0CX6VBFjcAX\",\"url\":\"https://las.illinois.edu/about/facts\",\"loadedUrl\":\"https://las.illinois.edu/about/facts\",\"uniqueKey\":\"https://las.illinois.edu/about/facts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:08.395Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/about/facts",
-	"url": "https://las.illinois.edu/about/facts"
-}

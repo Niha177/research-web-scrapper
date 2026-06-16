@@ -1,0 +1,9 @@
+{
+	"id": "J4197RyoDtJX7Bu",
+	"json": "{\"id\":\"J4197RyoDtJX7Bu\",\"url\":\"https://grainger.illinois.edu/academics/graduate/cpt\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate/cpt\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate/cpt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:14:07.176Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/graduate/cpt",
+	"url": "https://grainger.illinois.edu/academics/graduate/cpt"
+}

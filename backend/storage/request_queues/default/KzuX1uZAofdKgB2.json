@@ -1,9 +1,0 @@
-{
-	"id": "KzuX1uZAofdKgB2",
-	"json": "{\"id\":\"KzuX1uZAofdKgB2\",\"url\":\"https://las.illinois.edu/admissions/parents\",\"loadedUrl\":\"https://las.illinois.edu/admissions/parents\",\"uniqueKey\":\"https://las.illinois.edu/admissions/parents\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:13.679Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/admissions/parents",
-	"url": "https://las.illinois.edu/admissions/parents"
-}

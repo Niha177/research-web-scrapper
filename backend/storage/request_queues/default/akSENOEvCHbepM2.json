@@ -1,0 +1,9 @@
+{
+	"id": "akSENOEvCHbepM2",
+	"json": "{\"id\":\"akSENOEvCHbepM2\",\"url\":\"http://cs.illinois.edu/admissions/graduate\",\"loadedUrl\":\"https://siebelschool.illinois.edu/admissions/graduate\",\"uniqueKey\":\"http://cs.illinois.edu/admissions/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T02:14:17.157Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://cs.illinois.edu/admissions/graduate",
+	"url": "http://cs.illinois.edu/admissions/graduate"
+}

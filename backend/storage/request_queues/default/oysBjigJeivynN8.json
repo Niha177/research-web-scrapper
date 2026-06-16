@@ -1,9 +1,0 @@
-{
-	"id": "oysBjigJeivynN8",
-	"json": "{\"id\":\"oysBjigJeivynN8\",\"url\":\"https://las.illinois.edu/admissions/faqs\",\"loadedUrl\":\"https://las.illinois.edu/admissions/faqs\",\"uniqueKey\":\"https://las.illinois.edu/admissions/faqs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:10.574Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/admissions/faqs",
-	"url": "https://las.illinois.edu/admissions/faqs"
-}

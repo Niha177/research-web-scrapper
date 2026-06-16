@@ -1,9 +1,0 @@
-{
-	"id": "CL0ElBrEfwOcyOW",
-	"json": "{\"id\":\"CL0ElBrEfwOcyOW\",\"url\":\"https://illinois.edu/academics/colleges-and-schools/\",\"loadedUrl\":\"https://illinois.edu/academics/colleges-and-schools/\",\"uniqueKey\":\"https://illinois.edu/academics/colleges-and-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T00:29:58.494Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/academics/colleges-and-schools",
-	"url": "https://illinois.edu/academics/colleges-and-schools/"
-}

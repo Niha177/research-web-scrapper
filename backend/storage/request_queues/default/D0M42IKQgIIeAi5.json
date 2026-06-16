@@ -1,9 +1,0 @@
-{
-	"id": "D0M42IKQgIIeAi5",
-	"json": "{\"id\":\"D0M42IKQgIIeAi5\",\"url\":\"https://las.illinois.edu/academics\",\"loadedUrl\":\"https://las.illinois.edu/academics\",\"uniqueKey\":\"https://las.illinois.edu/academics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:11.474Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/academics",
-	"url": "https://las.illinois.edu/academics"
-}

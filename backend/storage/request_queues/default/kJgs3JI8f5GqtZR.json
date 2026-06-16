@@ -1,0 +1,9 @@
+{
+	"id": "kJgs3JI8f5GqtZR",
+	"json": "{\"id\":\"kJgs3JI8f5GqtZR\",\"url\":\"https://grainger.illinois.edu/about/policies-bylaws\",\"loadedUrl\":\"https://grainger.illinois.edu/about/policies-bylaws\",\"uniqueKey\":\"https://grainger.illinois.edu/about/policies-bylaws\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:18.126Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/about/policies-bylaws",
+	"url": "https://grainger.illinois.edu/about/policies-bylaws"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "oiYkjv2W6HvExMu",
-	"json": "{\"id\":\"oiYkjv2W6HvExMu\",\"url\":\"https://illinois.edu/about/leadership/\",\"loadedUrl\":\"https://illinois.edu/about/leadership/\",\"uniqueKey\":\"https://illinois.edu/about/leadership\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:29:58.985Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/about/leadership",
-	"url": "https://illinois.edu/about/leadership/"
-}

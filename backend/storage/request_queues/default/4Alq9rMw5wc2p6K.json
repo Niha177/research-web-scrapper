@@ -1,9 +1,0 @@
-{
-	"id": "4Alq9rMw5wc2p6K",
-	"json": "{\"id\":\"4Alq9rMw5wc2p6K\",\"url\":\"https://las.illinois.edu/admissions/lasinsider\",\"loadedUrl\":\"https://las.illinois.edu/admissions/lasinsider\",\"uniqueKey\":\"https://las.illinois.edu/admissions/lasinsider\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:10.515Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/admissions/lasinsider",
-	"url": "https://las.illinois.edu/admissions/lasinsider"
-}

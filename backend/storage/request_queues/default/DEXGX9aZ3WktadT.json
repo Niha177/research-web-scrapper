@@ -1,0 +1,9 @@
+{
+	"id": "DEXGX9aZ3WktadT",
+	"json": "{\"id\":\"DEXGX9aZ3WktadT\",\"url\":\"https://grainger.illinois.edu/about/strategic-plan\",\"loadedUrl\":\"https://grainger.illinois.edu/about/strategic-plan\",\"uniqueKey\":\"https://grainger.illinois.edu/about/strategic-plan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:02.318Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/about/strategic-plan",
+	"url": "https://grainger.illinois.edu/about/strategic-plan"
+}

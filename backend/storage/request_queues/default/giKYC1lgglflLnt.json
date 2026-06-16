@@ -1,0 +1,9 @@
+{
+	"id": "giKYC1lgglflLnt",
+	"json": "{\"id\":\"giKYC1lgglflLnt\",\"url\":\"https://grainger.illinois.edu/admissions/undergraduate/transfer\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/transfer\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/undergraduate/transfer\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:28.192Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/admissions/undergraduate/transfer",
+	"url": "https://grainger.illinois.edu/admissions/undergraduate/transfer"
+}

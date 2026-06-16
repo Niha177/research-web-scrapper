@@ -1,9 +1,0 @@
-{
-	"id": "w2wpS1pmy3VNw3y",
-	"json": "{\"id\":\"w2wpS1pmy3VNw3y\",\"url\":\"https://las.illinois.edu/giving\",\"loadedUrl\":\"https://las.illinois.edu/giving\",\"uniqueKey\":\"https://las.illinois.edu/giving\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:05.951Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/giving",
-	"url": "https://las.illinois.edu/giving"
-}

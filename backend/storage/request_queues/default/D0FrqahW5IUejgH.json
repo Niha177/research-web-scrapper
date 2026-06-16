@@ -1,9 +1,0 @@
-{
-	"id": "D0FrqahW5IUejgH",
-	"json": "{\"id\":\"D0FrqahW5IUejgH\",\"url\":\"https://las.illinois.edu/directory\",\"loadedUrl\":\"https://las.illinois.edu/directory\",\"uniqueKey\":\"https://las.illinois.edu/directory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T00:30:08.297Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://las.illinois.edu/directory",
-	"url": "https://las.illinois.edu/directory"
-}

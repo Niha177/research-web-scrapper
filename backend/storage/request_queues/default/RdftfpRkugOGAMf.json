@@ -1,0 +1,9 @@
+{
+	"id": "RdftfpRkugOGAMf",
+	"json": "{\"id\":\"RdftfpRkugOGAMf\",\"url\":\"https://grainger.illinois.edu/admissions/undergraduate/pathways/benefits\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/pathways/benefits\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/undergraduate/pathways/benefits\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T02:13:29.392Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/admissions/undergraduate/pathways/benefits",
+	"url": "https://grainger.illinois.edu/admissions/undergraduate/pathways/benefits"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "I25IYqHdZdaIlWm",
-	"json": "{\"id\":\"I25IYqHdZdaIlWm\",\"url\":\"https://illinois.edu/about/rankings/\",\"loadedUrl\":\"https://illinois.edu/about/rankings/\",\"uniqueKey\":\"https://illinois.edu/about/rankings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:29:58.607Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://illinois.edu/about/rankings",
-	"url": "https://illinois.edu/about/rankings/"
-}
