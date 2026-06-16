@@ -1,9 +1,0 @@
-{
-	"id": "TdInio45TlcU3Ex",
-	"json": "{\"id\":\"TdInio45TlcU3Ex\",\"url\":\"https://ise.illinois.edu/directory/profile/chrys\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/chrys\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/chrys\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:05.685Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/chrys",
-	"url": "https://ise.illinois.edu/directory/profile/chrys"
-}

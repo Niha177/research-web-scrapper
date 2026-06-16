@@ -1,9 +1,0 @@
-{
-	"id": "2cRhpdqdXAZlu22",
-	"json": "{\"id\":\"2cRhpdqdXAZlu22\",\"url\":\"https://one.illinois.edu/graingerundeclared/declaring-a-major/\",\"loadedUrl\":\"https://one.illinois.edu/graingerundeclared/declaring-a-major/\",\"uniqueKey\":\"https://one.illinois.edu/graingerundeclared/declaring-a-major\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:50.682Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://one.illinois.edu/graingerundeclared/declaring-a-major",
-	"url": "https://one.illinois.edu/graingerundeclared/declaring-a-major/"
-}

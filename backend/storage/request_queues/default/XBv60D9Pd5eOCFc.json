@@ -1,9 +1,0 @@
-{
-	"id": "XBv60D9Pd5eOCFc",
-	"json": "{\"id\":\"XBv60D9Pd5eOCFc\",\"url\":\"https://ae3.grainger.illinois.edu/programs/collins-scholars\",\"loadedUrl\":\"https://ae3.grainger.illinois.edu/programs/collins-scholars\",\"uniqueKey\":\"https://ae3.grainger.illinois.edu/programs/collins-scholars\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:37.399Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ae3.grainger.illinois.edu/programs/collins-scholars",
-	"url": "https://ae3.grainger.illinois.edu/programs/collins-scholars"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "tHAkS98J3RjBhN6",
-	"json": "{\"id\":\"tHAkS98J3RjBhN6\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering-data-science\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering-data-science\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering-data-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:52.622Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering-data-science",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering-data-science"
-}

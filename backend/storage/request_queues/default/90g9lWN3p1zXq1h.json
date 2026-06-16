@@ -1,9 +1,0 @@
-{
-	"id": "90g9lWN3p1zXq1h",
-	"json": "{\"id\":\"90g9lWN3p1zXq1h\",\"url\":\"https://grainger.illinois.edu\",\"loadedUrl\":\"https://grainger.illinois.edu/\",\"uniqueKey\":\"https://grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:43:12.016Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu",
-	"url": "https://grainger.illinois.edu"
-}

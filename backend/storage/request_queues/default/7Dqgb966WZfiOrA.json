@@ -1,9 +1,0 @@
-{
-	"id": "7Dqgb966WZfiOrA",
-	"json": "{\"id\":\"7Dqgb966WZfiOrA\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/programs/senior-design\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/programs#tile34937\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/programs/senior-design\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:46.920Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/programs/senior-design",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/programs/senior-design"
-}

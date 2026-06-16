@@ -1,9 +1,0 @@
-{
-	"id": "PB2HYrCfgON0z1d",
-	"json": "{\"id\":\"PB2HYrCfgON0z1d\",\"url\":\"https://my.engr.illinois.edu/resources/shared-services\",\"loadedUrl\":\"https://my.engr.illinois.edu/resources/shared-services\",\"uniqueKey\":\"https://my.engr.illinois.edu/resources/shared-services\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:34.733Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/resources/shared-services",
-	"url": "https://my.engr.illinois.edu/resources/shared-services"
-}

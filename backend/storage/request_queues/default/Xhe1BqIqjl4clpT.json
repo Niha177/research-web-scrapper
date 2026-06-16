@@ -1,9 +1,0 @@
-{
-	"id": "Xhe1BqIqjl4clpT",
-	"json": "{\"id\":\"Xhe1BqIqjl4clpT\",\"url\":\"http://catalog.illinois.edu/undergraduate/minors/\",\"loadedUrl\":\"https://catalog.illinois.edu/undergraduate/minors/\",\"uniqueKey\":\"http://catalog.illinois.edu/undergraduate/minors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:54.179Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://catalog.illinois.edu/undergraduate/minors",
-	"url": "http://catalog.illinois.edu/undergraduate/minors/"
-}

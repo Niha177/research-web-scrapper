@@ -1,0 +1,9 @@
+{
+	"id": "PKqhiKoar6S8V7t",
+	"json": "{\"id\":\"PKqhiKoar6S8V7t\",\"url\":\"https://duckduckgo.com/l/?uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty&rut=0be4647edaba84cf1b953af58a37e539b983a71147abe67928d7e76980e9b30d\",\"loadedUrl\":\"https://ece.illinois.edu/about/directory/faculty\",\"uniqueKey\":\"https://duckduckgo.com/l?rut=0be4647edaba84cf1b953af58a37e539b983a71147abe67928d7e76980e9b30d&uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":7}},\"handledAt\":\"2026-06-16T23:34:08.823Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://duckduckgo.com/l?rut=0be4647edaba84cf1b953af58a37e539b983a71147abe67928d7e76980e9b30d&uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty",
+	"url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty&rut=0be4647edaba84cf1b953af58a37e539b983a71147abe67928d7e76980e9b30d"
+}

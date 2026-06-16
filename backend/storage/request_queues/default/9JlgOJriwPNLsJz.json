@@ -1,9 +1,0 @@
-{
-	"id": "9JlgOJriwPNLsJz",
-	"json": "{\"id\":\"9JlgOJriwPNLsJz\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:43:59.476Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "EIGfop4eHJbfZwY",
-	"json": "{\"id\":\"EIGfop4eHJbfZwY\",\"url\":\"https://ise.illinois.edu/directory/profile/avinashg\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/avinashg\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/avinashg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:40.472Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/avinashg",
-	"url": "https://ise.illinois.edu/directory/profile/avinashg"
-}

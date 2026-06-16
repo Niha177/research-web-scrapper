@@ -1,9 +1,0 @@
-{
-	"id": "ru7gaHFy8wWhOMu",
-	"json": "{\"id\":\"ru7gaHFy8wWhOMu\",\"url\":\"https://ise.illinois.edu/directory/profile/karthe\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/karthe\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/karthe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:30.857Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/karthe",
-	"url": "https://ise.illinois.edu/directory/profile/karthe"
-}

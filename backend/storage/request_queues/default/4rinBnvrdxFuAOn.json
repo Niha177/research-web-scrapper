@@ -1,9 +1,0 @@
-{
-	"id": "4rinBnvrdxFuAOn",
-	"json": "{\"id\":\"4rinBnvrdxFuAOn\",\"url\":\"https://my.engr.illinois.edu/student-success\",\"loadedUrl\":\"https://my.engr.illinois.edu/portal/account/login?ReturnUrl=%2Fstudent-success\",\"uniqueKey\":\"https://my.engr.illinois.edu/student-success\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:29.276Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/student-success",
-	"url": "https://my.engr.illinois.edu/student-success"
-}

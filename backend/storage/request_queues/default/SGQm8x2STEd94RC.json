@@ -1,9 +1,0 @@
-{
-	"id": "SGQm8x2STEd94RC",
-	"json": "{\"id\":\"SGQm8x2STEd94RC\",\"url\":\"https://ise.illinois.edu/news/2026-ise-student-conference-recap\",\"loadedUrl\":\"https://ise.illinois.edu/news/2026-ise-student-conference-recap\",\"uniqueKey\":\"https://ise.illinois.edu/news/2026-ise-student-conference-recap\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:19.065Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/news/2026-ise-student-conference-recap",
-	"url": "https://ise.illinois.edu/news/2026-ise-student-conference-recap"
-}

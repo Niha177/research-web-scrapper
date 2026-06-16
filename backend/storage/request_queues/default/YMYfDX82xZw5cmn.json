@@ -1,9 +1,0 @@
-{
-	"id": "YMYfDX82xZw5cmn",
-	"json": "{\"id\":\"YMYfDX82xZw5cmn\",\"url\":\"https://grainger.illinois.edu/admissions/undergraduate/nsr\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/nsr\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/undergraduate/nsr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:55.903Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/undergraduate/nsr",
-	"url": "https://grainger.illinois.edu/admissions/undergraduate/nsr"
-}

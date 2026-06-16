@@ -1,9 +1,0 @@
-{
-	"id": "oqdGfT7xtoa0Mw1",
-	"json": "{\"id\":\"oqdGfT7xtoa0Mw1\",\"url\":\"https://calendars.illinois.edu/list/5081?listType=summary\",\"loadedUrl\":\"https://calendars.illinois.edu/list/5081?listType=summary\",\"uniqueKey\":\"https://calendars.illinois.edu/list/5081?listType=summary\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:34.064Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://calendars.illinois.edu/list/5081?listType=summary",
-	"url": "https://calendars.illinois.edu/list/5081?listType=summary"
-}

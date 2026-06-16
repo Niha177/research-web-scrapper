@@ -1,9 +1,0 @@
-{
-	"id": "xx3kl9WWLQeWP5b",
-	"json": "{\"id\":\"xx3kl9WWLQeWP5b\",\"url\":\"https://ise.illinois.edu/directory/profile/touri1\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/touri1\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/touri1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:03.888Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/touri1",
-	"url": "https://ise.illinois.edu/directory/profile/touri1"
-}

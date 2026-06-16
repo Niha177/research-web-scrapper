@@ -1,9 +1,0 @@
-{
-	"id": "bSTeys1UPbfHggM",
-	"json": "{\"id\":\"bSTeys1UPbfHggM\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-declaration\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-declaration\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-declaration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: requestHandler timed out after 45 seconds.\\n    at Timeout._onTimeout (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@apify/timeout/cjs/index.cjs:64:68)\\n    at listOnTimeout (node:internal/timers:605:17)\\n    at process.processTimers (node:internal/timers:541:7)\"],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:37.509Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 1,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-declaration",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-declaration"
-}

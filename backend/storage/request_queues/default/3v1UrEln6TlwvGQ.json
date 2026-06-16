@@ -1,9 +1,0 @@
-{
-	"id": "3v1UrEln6TlwvGQ",
-	"json": "{\"id\":\"3v1UrEln6TlwvGQ\",\"url\":\"https://grainger.illinois.edu/admissions/visit-campus\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/plan-a-visit\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/visit-campus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:30.436Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/visit-campus",
-	"url": "https://grainger.illinois.edu/admissions/visit-campus"
-}

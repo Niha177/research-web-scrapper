@@ -1,9 +1,0 @@
-{
-	"id": "DwPydObvyW6T9UZ",
-	"json": "{\"id\":\"DwPydObvyW6T9UZ\",\"url\":\"https://grainger.illinois.edu/academics/graduation\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduation\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:37.233Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/graduation",
-	"url": "https://grainger.illinois.edu/academics/graduation"
-}

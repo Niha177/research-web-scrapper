@@ -1,9 +1,0 @@
-{
-	"id": "L6yByoy2MJ6UXzI",
-	"json": "{\"id\":\"L6yByoy2MJ6UXzI\",\"url\":\"https://matse.illinois.edu/engage/senior-design-projects\",\"loadedUrl\":\"https://matse.illinois.edu/engage/senior-design-projects\",\"uniqueKey\":\"https://matse.illinois.edu/engage/senior-design-projects\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:35.672Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://matse.illinois.edu/engage/senior-design-projects",
-	"url": "https://matse.illinois.edu/engage/senior-design-projects"
-}

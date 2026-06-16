@@ -1,9 +1,0 @@
-{
-	"id": "uEl6qH4RUrfImSo",
-	"json": "{\"id\":\"uEl6qH4RUrfImSo\",\"url\":\"https://cs.illinois.edu/academics/graduate/ms-program\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/ms-program\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/ms-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:56.608Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://cs.illinois.edu/academics/graduate/ms-program",
-	"url": "https://cs.illinois.edu/academics/graduate/ms-program"
-}

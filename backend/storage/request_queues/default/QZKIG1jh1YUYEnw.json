@@ -1,9 +1,0 @@
-{
-	"id": "QZKIG1jh1YUYEnw",
-	"json": "{\"id\":\"QZKIG1jh1YUYEnw\",\"url\":\"https://graingerengineering.myprintdesk.net/\",\"loadedUrl\":\"https://graingerengineering.myprintdesk.net/\",\"uniqueKey\":\"https://graingerengineering.myprintdesk.net\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:52.541Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://graingerengineering.myprintdesk.net",
-	"url": "https://graingerengineering.myprintdesk.net/"
-}

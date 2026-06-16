@@ -1,9 +1,0 @@
-{
-	"id": "z24QtG5ws9oxPBt",
-	"json": "{\"id\":\"z24QtG5ws9oxPBt\",\"url\":\"https://grainger.illinois.edu/academics/graduate/degree-programs\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate/degree-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:33.136Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/graduate/degree-programs",
-	"url": "https://grainger.illinois.edu/academics/graduate/degree-programs"
-}

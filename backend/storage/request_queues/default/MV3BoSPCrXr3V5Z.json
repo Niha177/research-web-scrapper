@@ -1,0 +1,9 @@
+{
+	"id": "MV3BoSPCrXr3V5Z",
+	"json": "{\"id\":\"MV3BoSPCrXr3V5Z\",\"url\":\"https://duckduckgo.com/l/?uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2F&rut=62befed34b8b784b4797095f33a5ca68a847f4ed28ecd6b15e9862026f47e308\",\"loadedUrl\":\"https://siebelschool.illinois.edu/\",\"uniqueKey\":\"https://duckduckgo.com/l?rut=62befed34b8b784b4797095f33a5ca68a847f4ed28ecd6b15e9862026f47e308&uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2F\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":7}},\"handledAt\":\"2026-06-16T23:34:12.508Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://duckduckgo.com/l?rut=62befed34b8b784b4797095f33a5ca68a847f4ed28ecd6b15e9862026f47e308&uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2F",
+	"url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2F&rut=62befed34b8b784b4797095f33a5ca68a847f4ed28ecd6b15e9862026f47e308"
+}

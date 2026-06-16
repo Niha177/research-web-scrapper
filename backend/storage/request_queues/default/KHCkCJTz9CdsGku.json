@@ -1,9 +1,0 @@
-{
-	"id": "KHCkCJTz9CdsGku",
-	"json": "{\"id\":\"KHCkCJTz9CdsGku\",\"url\":\"https://ece.illinois.edu/academics/courses/ece298ab\",\"loadedUrl\":\"https://ece.illinois.edu/academics/courses/ece298ab\",\"uniqueKey\":\"https://ece.illinois.edu/academics/courses/ece298ab\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:38.322Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ece.illinois.edu/academics/courses/ece298ab",
-	"url": "https://ece.illinois.edu/academics/courses/ece298ab"
-}

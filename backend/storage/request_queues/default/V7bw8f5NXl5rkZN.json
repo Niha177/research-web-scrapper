@@ -1,9 +1,0 @@
-{
-	"id": "V7bw8f5NXl5rkZN",
-	"json": "{\"id\":\"V7bw8f5NXl5rkZN\",\"url\":\"https://aerospace.illinois.edu/academics/undergraduate/5-year-bs-ms-program\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/undergraduate/5-year-bs-ms-program\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/undergraduate/5-year-bs-ms-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:47.759Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://aerospace.illinois.edu/academics/undergraduate/5-year-bs-ms-program",
-	"url": "https://aerospace.illinois.edu/academics/undergraduate/5-year-bs-ms-program"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "BKzlrYTiozvupN4",
-	"json": "{\"id\":\"BKzlrYTiozvupN4\",\"url\":\"https://publish.illinois.edu/micro-ccs/\",\"loadedUrl\":\"https://publish.illinois.edu/micro-ccs/\",\"uniqueKey\":\"https://publish.illinois.edu/micro-ccs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:38.746Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://publish.illinois.edu/micro-ccs",
-	"url": "https://publish.illinois.edu/micro-ccs/"
-}

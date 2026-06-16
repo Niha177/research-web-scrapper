@@ -1,9 +1,0 @@
-{
-	"id": "wFeGaaY67Y02wI5",
-	"json": "{\"id\":\"wFeGaaY67Y02wI5\",\"url\":\"https://admissions.illinois.edu/apply/\",\"loadedUrl\":\"https://www.admissions.illinois.edu/apply\",\"uniqueKey\":\"https://admissions.illinois.edu/apply\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:55.045Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://admissions.illinois.edu/apply",
-	"url": "https://admissions.illinois.edu/apply/"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "HUbhmqr9Jm5GoCk",
-	"json": "{\"id\":\"HUbhmqr9Jm5GoCk\",\"url\":\"https://ise.illinois.edu/undergraduate/senior-engineering-program\",\"loadedUrl\":\"https://ise.illinois.edu/undergraduate/senior-engineering-program\",\"uniqueKey\":\"https://ise.illinois.edu/undergraduate/senior-engineering-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:16.516Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/undergraduate/senior-engineering-program",
-	"url": "https://ise.illinois.edu/undergraduate/senior-engineering-program"
-}

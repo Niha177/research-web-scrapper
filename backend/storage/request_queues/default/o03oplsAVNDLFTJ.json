@@ -1,9 +1,0 @@
-{
-	"id": "o03oplsAVNDLFTJ",
-	"json": "{\"id\":\"o03oplsAVNDLFTJ\",\"url\":\"https://enroll.illinois.edu/register/?id=4415bbb6-951e-4c28-844c-a789423d8759\",\"loadedUrl\":\"https://enroll.illinois.edu/register/?id=4415bbb6-951e-4c28-844c-a789423d8759\",\"uniqueKey\":\"https://enroll.illinois.edu/register?id=4415bbb6-951e-4c28-844c-a789423d8759\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:53.948Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://enroll.illinois.edu/register?id=4415bbb6-951e-4c28-844c-a789423d8759",
-	"url": "https://enroll.illinois.edu/register/?id=4415bbb6-951e-4c28-844c-a789423d8759"
-}

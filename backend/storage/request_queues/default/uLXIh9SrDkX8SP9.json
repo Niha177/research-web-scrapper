@@ -1,0 +1,9 @@
+{
+	"id": "uLXIh9SrDkX8SP9",
+	"json": "{\"id\":\"uLXIh9SrDkX8SP9\",\"url\":\"https://duckduckgo.com/l/?uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2Fabout%2Fpeople%2Fall%2Dfaculty&rut=747a322be1fe844ef7d3c8540e4b780099eaa8a99894497a23d55bcdf6d05d1d\",\"loadedUrl\":\"https://siebelschool.illinois.edu/about/people/all-faculty\",\"uniqueKey\":\"https://duckduckgo.com/l?rut=747a322be1fe844ef7d3c8540e4b780099eaa8a99894497a23d55bcdf6d05d1d&uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2Fabout%2Fpeople%2Fall-faculty\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":7}},\"handledAt\":\"2026-06-16T23:34:02.633Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://duckduckgo.com/l?rut=747a322be1fe844ef7d3c8540e4b780099eaa8a99894497a23d55bcdf6d05d1d&uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2Fabout%2Fpeople%2Fall-faculty",
+	"url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fsiebelschool.illinois.edu%2Fabout%2Fpeople%2Fall%2Dfaculty&rut=747a322be1fe844ef7d3c8540e4b780099eaa8a99894497a23d55bcdf6d05d1d"
+}

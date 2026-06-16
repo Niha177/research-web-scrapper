@@ -1,9 +1,0 @@
-{
-	"id": "luAAqvZcKSomu1q",
-	"json": "{\"id\":\"luAAqvZcKSomu1q\",\"url\":\"https://grainger.illinois.edu/admissions\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:42.607Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions",
-	"url": "https://grainger.illinois.edu/admissions"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "pSFWlVdPc4YTeb7",
-	"json": "{\"id\":\"pSFWlVdPc4YTeb7\",\"url\":\"https://my.engr.illinois.edu/usersearch/\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/usersearch/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/usersearch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:24.844Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/usersearch",
-	"url": "https://my.engr.illinois.edu/usersearch/"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "ctZRTQdfJQSy3cL",
-	"json": "{\"id\":\"ctZRTQdfJQSy3cL\",\"url\":\"https://grainger.illinois.edu/academics/entrepreneurship\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/entrepreneurship\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/entrepreneurship\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:22.548Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/entrepreneurship",
-	"url": "https://grainger.illinois.edu/academics/entrepreneurship"
-}

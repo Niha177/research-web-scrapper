@@ -120,41 +120,6 @@ export async function findFacultyInfo(major) {
     }
 }
 
-//findFacultyInfo('Biochemistry')
-
-
-/*
-export async function filterFacultyLinkResults(major) {
-
-    const searchLinks = await searchByCollege(major)
-
-    let res =[]
-
-    const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-    let first = await findFacultyInfo(searchLinks[0])
-    res.push(...first)
-
-    
-
-    if(searchLinks.length > 1) {
-
-        await delay(3000); 
-         let second = await findFacultyInfo(searchLinks[1])
-         res.push(...second)
-    }
-    
-
-    console.log(res)
-    return res
-}
-    */
-
-
-
-
-
-
 
 export async function findKeyWords(major) {
 

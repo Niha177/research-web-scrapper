@@ -1,9 +1,0 @@
-{
-	"id": "XRx2rYb5GIMhLCx",
-	"json": "{\"id\":\"XRx2rYb5GIMhLCx\",\"url\":\"https://ise.illinois.edu/_sitemanager/viewphoto.aspx?id=112192&s=1920&h=1200\",\"loadedUrl\":\"https://ise.illinois.edu/_sitemanager/viewphoto.aspx?id=112192&s=1920&h=1200\",\"uniqueKey\":\"https://ise.illinois.edu/_sitemanager/viewphoto.aspx?h=1200&id=112192&s=1920\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:13.157Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/_sitemanager/viewphoto.aspx?h=1200&id=112192&s=1920",
-	"url": "https://ise.illinois.edu/_sitemanager/viewphoto.aspx?id=112192&s=1920&h=1200"
-}

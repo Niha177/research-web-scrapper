@@ -1,9 +1,0 @@
-{
-	"id": "mibKDp6fG3edJ8w",
-	"json": "{\"id\":\"mibKDp6fG3edJ8w\",\"url\":\"https://my.engr.illinois.edu/resources/policies\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/resources/policies\",\"uniqueKey\":\"https://my.engr.illinois.edu/resources/policies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:34.872Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/resources/policies",
-	"url": "https://my.engr.illinois.edu/resources/policies"
-}

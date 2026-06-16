@@ -1,9 +1,0 @@
-{
-	"id": "R4sK0SkorQYBdbz",
-	"json": "{\"id\":\"R4sK0SkorQYBdbz\",\"url\":\"https://www.vpaa.uillinois.edu/resources/cookies\",\"loadedUrl\":\"https://www.vpaa.uillinois.edu/resources/cookies\",\"uniqueKey\":\"https://www.vpaa.uillinois.edu/resources/cookies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:52.423Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.vpaa.uillinois.edu/resources/cookies",
-	"url": "https://www.vpaa.uillinois.edu/resources/cookies"
-}

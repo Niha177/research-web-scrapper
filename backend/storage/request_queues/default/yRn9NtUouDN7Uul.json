@@ -1,0 +1,9 @@
+{
+	"id": "yRn9NtUouDN7Uul",
+	"json": "{\"id\":\"yRn9NtUouDN7Uul\",\"url\":\"https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgrainger.illinois.edu%2Fabout%2Fdirectory&rut=41cc6783e33d5b285dd6cd35013239d308027282203dc6799e10a5e908d0f8df\",\"loadedUrl\":\"https://grainger.illinois.edu/about/directory\",\"uniqueKey\":\"https://duckduckgo.com/l?rut=41cc6783e33d5b285dd6cd35013239d308027282203dc6799e10a5e908d0f8df&uddg=https%3A%2F%2Fgrainger.illinois.edu%2Fabout%2Fdirectory\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":7}},\"handledAt\":\"2026-06-16T23:34:04.121Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://duckduckgo.com/l?rut=41cc6783e33d5b285dd6cd35013239d308027282203dc6799e10a5e908d0f8df&uddg=https%3A%2F%2Fgrainger.illinois.edu%2Fabout%2Fdirectory",
+	"url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgrainger.illinois.edu%2Fabout%2Fdirectory&rut=41cc6783e33d5b285dd6cd35013239d308027282203dc6799e10a5e908d0f8df"
+}

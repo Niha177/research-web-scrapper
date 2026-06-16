@@ -1,9 +1,0 @@
-{
-	"id": "dyVXFa4PtSWjgUl",
-	"json": "{\"id\":\"dyVXFa4PtSWjgUl\",\"url\":\"https://grainger.illinois.edu/research/centers-labs\",\"loadedUrl\":\"https://grainger.illinois.edu/research/institutes-centers\",\"uniqueKey\":\"https://grainger.illinois.edu/research/centers-labs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:33.554Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/research/centers-labs",
-	"url": "https://grainger.illinois.edu/research/centers-labs"
-}

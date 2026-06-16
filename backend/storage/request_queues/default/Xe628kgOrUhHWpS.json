@@ -1,9 +1,0 @@
-{
-	"id": "Xe628kgOrUhHWpS",
-	"json": "{\"id\":\"Xe628kgOrUhHWpS\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/advising\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/advising\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/advising\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:01.191Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/advising",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/advising"
-}

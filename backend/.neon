@@ -1,0 +1,10 @@
+{
+  "orgId": "org-late-bar-54808125",
+  "projectId": "sweet-moon-17007594",
+  "_init": {
+    "features": [
+      "database",
+      "auth"
+    ]
+  }
+}

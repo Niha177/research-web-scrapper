@@ -1,0 +1,9 @@
+{
+	"id": "t09yRsx8XlP8Cdl",
+	"json": "{\"id\":\"t09yRsx8XlP8Cdl\",\"url\":\"https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdirectory.illinois.edu%2Fsearch&rut=a411067a55d1d82d6e78d77021ec576643317a2f3ede5bd58db1731ccff1d3d7\",\"loadedUrl\":\"https://directory.illinois.edu/search\",\"uniqueKey\":\"https://duckduckgo.com/l?rut=a411067a55d1d82d6e78d77021ec576643317a2f3ede5bd58db1731ccff1d3d7&uddg=https%3A%2F%2Fdirectory.illinois.edu%2Fsearch\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":7}},\"handledAt\":\"2026-06-16T23:34:08.864Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://duckduckgo.com/l?rut=a411067a55d1d82d6e78d77021ec576643317a2f3ede5bd58db1731ccff1d3d7&uddg=https%3A%2F%2Fdirectory.illinois.edu%2Fsearch",
+	"url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdirectory.illinois.edu%2Fsearch&rut=a411067a55d1d82d6e78d77021ec576643317a2f3ede5bd58db1731ccff1d3d7"
+}

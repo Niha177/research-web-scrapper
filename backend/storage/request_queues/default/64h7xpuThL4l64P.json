@@ -1,9 +1,0 @@
-{
-	"id": "64h7xpuThL4l64P",
-	"json": "{\"id\":\"64h7xpuThL4l64P\",\"url\":\"https://aerospace.illinois.edu/academics/graduate/phd-program\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/phd-program\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/graduate/phd-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:49.142Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://aerospace.illinois.edu/academics/graduate/phd-program",
-	"url": "https://aerospace.illinois.edu/academics/graduate/phd-program"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "HEBtUG7FGYDx93J",
-	"json": "{\"id\":\"HEBtUG7FGYDx93J\",\"url\":\"https://my.engr.illinois.edu/avtools/\",\"loadedUrl\":\"https://my.engr.illinois.edu/portal/account/login?ReturnUrl=%2Favtools%2F\",\"uniqueKey\":\"https://my.engr.illinois.edu/avtools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:21.857Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/avtools",
-	"url": "https://my.engr.illinois.edu/avtools/"
-}

@@ -1,0 +1,9 @@
+{
+	"id": "aNZK3oYJfzaXX6j",
+	"json": "{\"id\":\"aNZK3oYJfzaXX6j\",\"url\":\"https://html.duckduckgo.com/html/\",\"loadedUrl\":\"https://html.duckduckgo.com/html/\",\"uniqueKey\":\"https://html.duckduckgo.com/html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-16T23:34:00.735Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://html.duckduckgo.com/html",
+	"url": "https://html.duckduckgo.com/html/"
+}

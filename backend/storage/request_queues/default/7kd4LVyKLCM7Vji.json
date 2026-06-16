@@ -1,9 +1,0 @@
-{
-	"id": "7kd4LVyKLCM7Vji",
-	"json": "{\"id\":\"7kd4LVyKLCM7Vji\",\"url\":\"https://abe.illinois.edu/graduate\",\"loadedUrl\":\"https://abe.illinois.edu/academics/graduate-degrees\",\"uniqueKey\":\"https://abe.illinois.edu/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:32.943Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://abe.illinois.edu/graduate",
-	"url": "https://abe.illinois.edu/graduate"
-}

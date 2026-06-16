@@ -1,0 +1,9 @@
+{
+	"id": "381eXvQ5Q7O1DeE",
+	"json": "{\"id\":\"381eXvQ5Q7O1DeE\",\"url\":\"https://duckduckgo.com/l/?uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty%2Fdchen&rut=45d01dfd7365fac7ac5c1adcc7841ede0dd0dfd9e56da8e35a4c12df2c7c6f0d\",\"loadedUrl\":\"https://ece.illinois.edu/about/directory/faculty/dchen\",\"uniqueKey\":\"https://duckduckgo.com/l?rut=45d01dfd7365fac7ac5c1adcc7841ede0dd0dfd9e56da8e35a4c12df2c7c6f0d&uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty%2Fdchen\",\"method\":\"GET\",\"noRetry\":true,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":7}},\"handledAt\":\"2026-06-16T23:34:09.123Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://duckduckgo.com/l?rut=45d01dfd7365fac7ac5c1adcc7841ede0dd0dfd9e56da8e35a4c12df2c7c6f0d&uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty%2Fdchen",
+	"url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fece.illinois.edu%2Fabout%2Fdirectory%2Ffaculty%2Fdchen&rut=45d01dfd7365fac7ac5c1adcc7841ede0dd0dfd9e56da8e35a4c12df2c7c6f0d"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "YpWS4wiDakeMAEO",
-	"json": "{\"id\":\"YpWS4wiDakeMAEO\",\"url\":\"https://physics.illinois.edu/research/reu/\",\"loadedUrl\":\"https://physics.illinois.edu/research/reu\",\"uniqueKey\":\"https://physics.illinois.edu/research/reu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:42.077Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://physics.illinois.edu/research/reu",
-	"url": "https://physics.illinois.edu/research/reu/"
-}

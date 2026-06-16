@@ -1,9 +1,0 @@
-{
-	"id": "JYgkX8Kh27dnIyR",
-	"json": "{\"id\":\"JYgkX8Kh27dnIyR\",\"url\":\"https://ise.illinois.edu/directory/profile/fenglm\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/fenglm\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/fenglm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:36.301Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/fenglm",
-	"url": "https://ise.illinois.edu/directory/profile/fenglm"
-}

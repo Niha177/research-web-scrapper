@@ -1,9 +1,0 @@
-{
-	"id": "NWH607sE4fKtpZ2",
-	"json": "{\"id\":\"NWH607sE4fKtpZ2\",\"url\":\"https://ise.illinois.edu/graduate/contact-information\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/contact-information\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/contact-information\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:20.090Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/graduate/contact-information",
-	"url": "https://ise.illinois.edu/graduate/contact-information"
-}

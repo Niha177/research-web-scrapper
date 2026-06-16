@@ -1,9 +1,0 @@
-{
-	"id": "cIHNNE3RBaI4Uc5",
-	"json": "{\"id\":\"cIHNNE3RBaI4Uc5\",\"url\":\"https://grainger.illinois.edu/academics/online/degree-programs\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/degree-programs\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/degree-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:43:29.653Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/online/degree-programs",
-	"url": "https://grainger.illinois.edu/academics/online/degree-programs"
-}

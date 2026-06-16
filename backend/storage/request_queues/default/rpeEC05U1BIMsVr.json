@@ -1,9 +1,0 @@
-{
-	"id": "rpeEC05U1BIMsVr",
-	"json": "{\"id\":\"rpeEC05U1BIMsVr\",\"url\":\"https://ise.illinois.edu/about/safety\",\"loadedUrl\":\"https://ise.illinois.edu/about/safety\",\"uniqueKey\":\"https://ise.illinois.edu/about/safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:47:52.028Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/about/safety",
-	"url": "https://ise.illinois.edu/about/safety"
-}

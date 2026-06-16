@@ -1,9 +1,0 @@
-{
-	"id": "qCl0Yk5GusB7joZ",
-	"json": "{\"id\":\"qCl0Yk5GusB7joZ\",\"url\":\"https://my.engr.illinois.edu/coursechanges\",\"loadedUrl\":\"https://my.engr.illinois.edu/portal/Account/Login?ReturnUrl=%2fcoursechanges\",\"uniqueKey\":\"https://my.engr.illinois.edu/coursechanges\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:27.312Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/coursechanges",
-	"url": "https://my.engr.illinois.edu/coursechanges"
-}
