@@ -1,0 +1,9 @@
+{
+	"id": "11IDUrHaUZuDu35",
+	"json": "{\"id\":\"11IDUrHaUZuDu35\",\"url\":\"https://my.engr.illinois.edu/attendance/\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/attendance/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/attendance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:23.198Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/attendance",
+	"url": "https://my.engr.illinois.edu/attendance/"
+}

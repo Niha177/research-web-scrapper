@@ -1,0 +1,9 @@
+{
+	"id": "4QBDYGJiXHB8VHC",
+	"json": "{\"id\":\"4QBDYGJiXHB8VHC\",\"url\":\"https://grainger.illinois.edu/news/stories/52469\",\"loadedUrl\":\"https://grainger.illinois.edu/news/stories/52469\",\"uniqueKey\":\"https://grainger.illinois.edu/news/stories/52469\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:43.255Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/news/stories/52469",
+	"url": "https://grainger.illinois.edu/news/stories/52469"
+}

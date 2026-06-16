@@ -1,0 +1,9 @@
+{
+	"id": "PXxwciunpOTr4Ia",
+	"json": "{\"id\":\"PXxwciunpOTr4Ia\",\"url\":\"https://courses.illinois.edu/schedule/2025/fall//SE/420\",\"loadedUrl\":\"https://courses.illinois.edu/schedule/2025/fall//SE/420\",\"uniqueKey\":\"https://courses.illinois.edu/schedule/2025/fall//SE/420\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:16.552Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://courses.illinois.edu/schedule/2025/fall//SE/420",
+	"url": "https://courses.illinois.edu/schedule/2025/fall//SE/420"
+}

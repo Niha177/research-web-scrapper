@@ -1,6 +1,6 @@
 {
 	"id": "C0vtHuGSe1EYLn0",
-	"json": "{\"id\":\"C0vtHuGSe1EYLn0\",\"url\":\"https://grainger.illinois.edu/_sitemanager/viewphoto.aspx?id=331&s=1920&h=1200\",\"loadedUrl\":\"https://grainger.illinois.edu/_sitemanager/viewphoto.aspx?id=331&s=1920&h=1200\",\"uniqueKey\":\"https://grainger.illinois.edu/_sitemanager/viewphoto.aspx?h=1200&id=331&s=1920\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:01.992Z\"}",
+	"json": "{\"id\":\"C0vtHuGSe1EYLn0\",\"url\":\"https://grainger.illinois.edu/_sitemanager/viewphoto.aspx?id=331&s=1920&h=1200\",\"loadedUrl\":\"https://grainger.illinois.edu/_sitemanager/viewphoto.aspx?id=331&s=1920&h=1200\",\"uniqueKey\":\"https://grainger.illinois.edu/_sitemanager/viewphoto.aspx?h=1200&id=331&s=1920\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:33.112Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

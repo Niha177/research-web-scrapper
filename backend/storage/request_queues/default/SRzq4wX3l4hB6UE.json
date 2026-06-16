@@ -1,0 +1,9 @@
+{
+	"id": "SRzq4wX3l4hB6UE",
+	"json": "{\"id\":\"SRzq4wX3l4hB6UE\",\"url\":\"https://my.engr.illinois.edu/bridget32/\",\"loadedUrl\":\"https://my.engr.illinois.edu/portal/account/login?ReturnUrl=%2Fbridget32%2F\",\"uniqueKey\":\"https://my.engr.illinois.edu/bridget32\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:28.273Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/bridget32",
+	"url": "https://my.engr.illinois.edu/bridget32/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3N1s8OtJKDwru65",
+	"json": "{\"id\":\"3N1s8OtJKDwru65\",\"url\":\"https://www.vpaa.uillinois.edu/resources/web_privacy\",\"loadedUrl\":\"https://www.vpaa.uillinois.edu/resources/web_privacy\",\"uniqueKey\":\"https://www.vpaa.uillinois.edu/resources/web_privacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:52.448Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.vpaa.uillinois.edu/resources/web_privacy",
+	"url": "https://www.vpaa.uillinois.edu/resources/web_privacy"
+}

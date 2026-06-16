@@ -1,0 +1,9 @@
+{
+	"id": "hm3ubYIAcg0PMf1",
+	"json": "{\"id\":\"hm3ubYIAcg0PMf1\",\"url\":\"https://ise.illinois.edu/directory/profile/roydong\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/roydong\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/roydong\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:32.048Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/roydong",
+	"url": "https://ise.illinois.edu/directory/profile/roydong"
+}

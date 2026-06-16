@@ -1,9 +1,0 @@
-{
-	"id": "zxWYzbxXpgX6bsT",
-	"json": "{\"id\":\"zxWYzbxXpgX6bsT\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering-map\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering-map\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering-map\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T15:54:21.013Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering-map",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering-map"
-}

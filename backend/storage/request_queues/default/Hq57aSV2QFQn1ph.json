@@ -1,6 +1,6 @@
 {
 	"id": "Hq57aSV2QFQn1ph",
-	"json": "{\"id\":\"Hq57aSV2QFQn1ph\",\"url\":\"https://npre.illinois.edu/academics/graduate/phd-degree\",\"loadedUrl\":\"https://npre.illinois.edu/academics/graduate/phd-degree\",\"uniqueKey\":\"https://npre.illinois.edu/academics/graduate/phd-degree\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:59.030Z\"}",
+	"json": "{\"id\":\"Hq57aSV2QFQn1ph\",\"url\":\"https://npre.illinois.edu/academics/graduate/phd-degree\",\"loadedUrl\":\"https://npre.illinois.edu/academics/graduate/phd-degree\",\"uniqueKey\":\"https://npre.illinois.edu/academics/graduate/phd-degree\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:07.531Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,6 +1,6 @@
 {
 	"id": "AROvpfP7T33EDaJ",
-	"json": "{\"id\":\"AROvpfP7T33EDaJ\",\"url\":\"https://adr.grainger.illinois.edu/\",\"loadedUrl\":\"https://adr.grainger.illinois.edu/\",\"uniqueKey\":\"https://adr.grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:33.508Z\"}",
+	"json": "{\"id\":\"AROvpfP7T33EDaJ\",\"url\":\"https://adr.grainger.illinois.edu/\",\"loadedUrl\":\"https://adr.grainger.illinois.edu/\",\"uniqueKey\":\"https://adr.grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:54.120Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

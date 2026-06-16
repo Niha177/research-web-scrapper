@@ -1,0 +1,9 @@
+{
+	"id": "maxMTjb5kaS3Cc4",
+	"json": "{\"id\":\"maxMTjb5kaS3Cc4\",\"url\":\"https://ise.illinois.edu/mottier\",\"loadedUrl\":\"https://ise.illinois.edu/mottier\",\"uniqueKey\":\"https://ise.illinois.edu/mottier\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:16.136Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/mottier",
+	"url": "https://ise.illinois.edu/mottier"
+}

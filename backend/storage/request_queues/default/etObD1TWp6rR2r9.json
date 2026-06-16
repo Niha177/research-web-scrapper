@@ -1,9 +1,0 @@
-{
-	"id": "etObD1TWp6rR2r9",
-	"json": "{\"id\":\"etObD1TWp6rR2r9\",\"url\":\"https://bioengineering.illinois.edu/academics/undergraduate/advising/minors/minor-course-sequence.html\",\"loadedUrl\":\"https://bioengineering.illinois.edu/academics/undergraduate/advising\",\"uniqueKey\":\"https://bioengineering.illinois.edu/academics/undergraduate/advising/minors/minor-course-sequence.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T15:54:19.889Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://bioengineering.illinois.edu/academics/undergraduate/advising/minors/minor-course-sequence.html",
-	"url": "https://bioengineering.illinois.edu/academics/undergraduate/advising/minors/minor-course-sequence.html"
-}

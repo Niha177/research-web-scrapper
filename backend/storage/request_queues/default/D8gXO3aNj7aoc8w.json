@@ -1,6 +1,6 @@
 {
 	"id": "D8gXO3aNj7aoc8w",
-	"json": "{\"id\":\"D8gXO3aNj7aoc8w\",\"url\":\"https://tec.illinois.edu/academics/certificates/strategic-technology\",\"loadedUrl\":\"https://landuyt.illinois.edu/academics/certificates/strategic-technology\",\"uniqueKey\":\"https://tec.illinois.edu/academics/certificates/strategic-technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:04.555Z\"}",
+	"json": "{\"id\":\"D8gXO3aNj7aoc8w\",\"url\":\"https://tec.illinois.edu/academics/certificates/strategic-technology\",\"loadedUrl\":\"https://landuyt.illinois.edu/academics/certificates/strategic-technology\",\"uniqueKey\":\"https://tec.illinois.edu/academics/certificates/strategic-technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:13.081Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

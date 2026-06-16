@@ -1,0 +1,9 @@
+{
+	"id": "pil4CeOJdVkL9Rn",
+	"json": "{\"id\":\"pil4CeOJdVkL9Rn\",\"url\":\"https://my.engr.illinois.edu/classplanning/\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/classplanning/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/classplanning\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:27.917Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/classplanning",
+	"url": "https://my.engr.illinois.edu/classplanning/"
+}

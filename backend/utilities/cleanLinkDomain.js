@@ -23,8 +23,16 @@ export async function cleanLinks(major) {
         const subdomain = hostname.split('.')[0]
         const testmaj = major.toLowerCase()
 
+        let cleanStr
+
         if(fuzzyMatch(testmaj,subdomain)) {
-            cleanResults.unshift(hostname)
+
+            /*cleanStr = hostname
+            if (!/^https?:\/\//i.test(hostname)) {
+
+                 cleanStr = `https://${hostname}`;
+            } */
+            cleanResults.unshift(url)
             continue;
         }
 
@@ -35,11 +43,25 @@ export async function cleanLinks(major) {
         const mainHost = new URL(mainUrl[0]).hostname
 
         if(hostname === mainHost) {
-           extraResults.push(hostname)
+            /*cleanStr = hostname
+            if (!/^https?:\/\//i.test(hostname)) {
+
+                cleanStr = `https://${hostname}`;
+            }*/
+           extraResults.push(url)
         }
 
     }
     const finalResults = [...new Set(cleanResults), ...new Set(extraResults)]
+    console.log(finalResults)
+
+    if(finalResults.length === 1) {
+
+        const percent = Math.ceil(urls.length * 0.15)
+        const topPercent = urls.slice(0, percent)
+
+        finalResults.push(...topPercent)
+    }
 
     if(finalResults.length === 0) {
         finalResults.push(mainUrl[0])
@@ -50,9 +72,14 @@ export async function cleanLinks(major) {
         finalResults.push(...topPercent)
     }
     console.log(finalResults)
+
+    const safeFinalResults = finalResults.filter(url => typeof url === 'string' && url.trim() !== '' && url.startsWith('http'));
+    return safeFinalResults
 }
 
-cleanLinks('Bioengineering')
+cleanLinks('Actuarial Science')
+
+
 
 function fuzzyMatch(fullName, acronym) {
 

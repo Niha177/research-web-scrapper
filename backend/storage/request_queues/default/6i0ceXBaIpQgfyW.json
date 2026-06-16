@@ -1,0 +1,9 @@
+{
+	"id": "6i0ceXBaIpQgfyW",
+	"json": "{\"id\":\"6i0ceXBaIpQgfyW\",\"url\":\"https://myillini.illinois.edu/Programs/MajorDetail/10KP0127BS\",\"loadedUrl\":\"https://myillini.illinois.edu/Programs/MajorDetail/10KP0127BS\",\"uniqueKey\":\"https://myillini.illinois.edu/Programs/MajorDetail/10KP0127BS\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:47:51.209Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://myillini.illinois.edu/Programs/MajorDetail/10KP0127BS",
+	"url": "https://myillini.illinois.edu/Programs/MajorDetail/10KP0127BS"
+}

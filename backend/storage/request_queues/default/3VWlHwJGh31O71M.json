@@ -1,6 +1,6 @@
 {
 	"id": "3VWlHwJGh31O71M",
-	"json": "{\"id\":\"3VWlHwJGh31O71M\",\"url\":\"https://cs.illinois.edu/academics/graduate/fifth-year-masters-programs\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/fifth-year-masters-programs\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/fifth-year-masters-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:46.554Z\"}",
+	"json": "{\"id\":\"3VWlHwJGh31O71M\",\"url\":\"https://cs.illinois.edu/academics/graduate/fifth-year-masters-programs\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/fifth-year-masters-programs\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/fifth-year-masters-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:56.731Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

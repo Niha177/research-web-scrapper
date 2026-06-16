@@ -1,0 +1,9 @@
+{
+	"id": "tytpZxPZm1Qf1GG",
+	"json": "{\"id\":\"tytpZxPZm1Qf1GG\",\"url\":\"https://wyse.engineering.illinois.edu/#sthash.8WZ33lmb.6VXAO1SK.dpbs\",\"loadedUrl\":\"https://wyse.grainger.illinois.edu/#sthash.8WZ33lmb.6VXAO1SK.dpbs\",\"uniqueKey\":\"https://wyse.engineering.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:48.035Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://wyse.engineering.illinois.edu",
+	"url": "https://wyse.engineering.illinois.edu/#sthash.8WZ33lmb.6VXAO1SK.dpbs"
+}

@@ -1,6 +1,6 @@
 {
 	"id": "5fdMJkCEg7eZAbU",
-	"json": "{\"id\":\"5fdMJkCEg7eZAbU\",\"url\":\"https://mckinley.illinois.edu/\",\"loadedUrl\":\"https://mckinley.illinois.edu/\",\"uniqueKey\":\"https://mckinley.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:17.273Z\"}",
+	"json": "{\"id\":\"5fdMJkCEg7eZAbU\",\"url\":\"https://mckinley.illinois.edu/\",\"loadedUrl\":\"https://mckinley.illinois.edu/\",\"uniqueKey\":\"https://mckinley.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:30.589Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

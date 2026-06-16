@@ -1,0 +1,9 @@
+{
+	"id": "Q8lzNQ4E9czZt9t",
+	"json": "{\"id\":\"Q8lzNQ4E9czZt9t\",\"url\":\"https://ise.illinois.edu/undergraduate/resources/advising\",\"loadedUrl\":\"https://ise.illinois.edu/undergraduate/resources/advising\",\"uniqueKey\":\"https://ise.illinois.edu/undergraduate/resources/advising\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:13.261Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/undergraduate/resources/advising",
+	"url": "https://ise.illinois.edu/undergraduate/resources/advising"
+}

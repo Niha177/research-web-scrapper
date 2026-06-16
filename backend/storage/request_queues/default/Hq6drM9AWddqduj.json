@@ -1,0 +1,9 @@
+{
+	"id": "Hq6drM9AWddqduj",
+	"json": "{\"id\":\"Hq6drM9AWddqduj\",\"url\":\"https://www.istem.illinois.edu/\",\"loadedUrl\":\"https://citl.illinois.edu/i-stem\",\"uniqueKey\":\"https://www.istem.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:48.780Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.istem.illinois.edu",
+	"url": "https://www.istem.illinois.edu/"
+}

@@ -1,6 +1,6 @@
 {
 	"id": "clYiAL6rKDASwJq",
-	"json": "{\"id\":\"clYiAL6rKDASwJq\",\"url\":\"https://healthtech.ahs.illinois.edu/ms-in-health-technology/\",\"loadedUrl\":\"https://healthtech.ahs.illinois.edu/ms-in-health-technology/\",\"uniqueKey\":\"https://healthtech.ahs.illinois.edu/ms-in-health-technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:30.208Z\"}",
+	"json": "{\"id\":\"clYiAL6rKDASwJq\",\"url\":\"https://healthtech.ahs.illinois.edu/ms-in-health-technology/\",\"loadedUrl\":\"https://healthtech.ahs.illinois.edu/ms-in-health-technology/\",\"uniqueKey\":\"https://healthtech.ahs.illinois.edu/ms-in-health-technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:42.592Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

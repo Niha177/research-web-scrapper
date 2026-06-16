@@ -1,6 +1,6 @@
 {
 	"id": "QxyWx1Yqgn78hY6",
-	"json": "{\"id\":\"QxyWx1Yqgn78hY6\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/phd-programs\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:57.204Z\"}",
+	"json": "{\"id\":\"QxyWx1Yqgn78hY6\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/phd-programs\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:04.365Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

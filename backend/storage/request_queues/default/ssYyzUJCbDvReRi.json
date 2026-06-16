@@ -1,0 +1,9 @@
+{
+	"id": "ssYyzUJCbDvReRi",
+	"json": "{\"id\":\"ssYyzUJCbDvReRi\",\"url\":\"https://ise.illinois.edu/corporate-partners/after-hours\",\"loadedUrl\":\"https://ise.illinois.edu/corporate-partners/after-hours\",\"uniqueKey\":\"https://ise.illinois.edu/corporate-partners/after-hours\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:53.117Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/corporate-partners/after-hours",
+	"url": "https://ise.illinois.edu/corporate-partners/after-hours"
+}

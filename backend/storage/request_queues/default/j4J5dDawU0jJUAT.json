@@ -1,9 +1,0 @@
-{
-	"id": "j4J5dDawU0jJUAT",
-	"json": "{\"id\":\"j4J5dDawU0jJUAT\",\"url\":\"https://isgc.aerospace.illinois.edu/students/undergraduate-research-opportunities-program/\",\"loadedUrl\":\"https://isgc.aerospace.illinois.edu/students/undergraduate-research-opportunities-program/\",\"uniqueKey\":\"https://isgc.aerospace.illinois.edu/students/undergraduate-research-opportunities-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:07.384Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://isgc.aerospace.illinois.edu/students/undergraduate-research-opportunities-program",
-	"url": "https://isgc.aerospace.illinois.edu/students/undergraduate-research-opportunities-program/"
-}

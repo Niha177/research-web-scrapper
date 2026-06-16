@@ -1,0 +1,9 @@
+{
+	"id": "Jq6GCigWWDHvvkT",
+	"json": "{\"id\":\"Jq6GCigWWDHvvkT\",\"url\":\"http://ise.illinois.edu\",\"loadedUrl\":\"https://ise.illinois.edu/\",\"uniqueKey\":\"http://ise.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:49:16.474Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://ise.illinois.edu",
+	"url": "http://ise.illinois.edu"
+}

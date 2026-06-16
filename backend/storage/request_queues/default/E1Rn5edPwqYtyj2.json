@@ -1,6 +1,6 @@
 {
 	"id": "E1Rn5edPwqYtyj2",
-	"json": "{\"id\":\"E1Rn5edPwqYtyj2\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/eu-faq\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/eu-faq\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/eu-faq\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:48.757Z\"}",
+	"json": "{\"id\":\"E1Rn5edPwqYtyj2\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/eu-faq\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/eu-faq\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/eu-faq\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:58.500Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

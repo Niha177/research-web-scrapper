@@ -84,7 +84,7 @@ export async function checkExistsDbCollege(major) {
     const dbResult = await query(sqlText, [normName])
 
     if (!dbResult.rows[0].exists) {
-        console.log('dne')
+       
     }
 }
 

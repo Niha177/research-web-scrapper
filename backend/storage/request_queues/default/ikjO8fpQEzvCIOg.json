@@ -1,6 +1,6 @@
 {
 	"id": "ikjO8fpQEzvCIOg",
-	"json": "{\"id\":\"ikjO8fpQEzvCIOg\",\"url\":\"https://cs.illinois.edu/academics/graduate/phd-program\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/phd-program/phd-requirements\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/phd-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:48.689Z\"}",
+	"json": "{\"id\":\"ikjO8fpQEzvCIOg\",\"url\":\"https://cs.illinois.edu/academics/graduate/phd-program\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/phd-program/phd-requirements\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/phd-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:58.942Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

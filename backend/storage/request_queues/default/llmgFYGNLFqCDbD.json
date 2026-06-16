@@ -1,6 +1,6 @@
 {
 	"id": "llmgFYGNLFqCDbD",
-	"json": "{\"id\":\"llmgFYGNLFqCDbD\",\"url\":\"https://calendars.illinois.edu/detail/5081?eventId=33544128\",\"loadedUrl\":\"https://calendars.illinois.edu/detail/5081?eventId=33544128\",\"uniqueKey\":\"https://calendars.illinois.edu/detail/5081?eventId=33544128\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:19.791Z\"}",
+	"json": "{\"id\":\"llmgFYGNLFqCDbD\",\"url\":\"https://calendars.illinois.edu/detail/5081?eventId=33544128\",\"loadedUrl\":\"https://calendars.illinois.edu/detail/5081?eventId=33544128\",\"uniqueKey\":\"https://calendars.illinois.edu/detail/5081?eventId=33544128\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:33.424Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

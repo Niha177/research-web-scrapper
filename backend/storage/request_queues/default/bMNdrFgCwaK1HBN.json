@@ -1,0 +1,9 @@
+{
+	"id": "bMNdrFgCwaK1HBN",
+	"json": "{\"id\":\"bMNdrFgCwaK1HBN\",\"url\":\"https://ise.illinois.edu/research/impact-areas/health-technology\",\"loadedUrl\":\"https://ise.illinois.edu/research/impact-areas/health-technology\",\"uniqueKey\":\"https://ise.illinois.edu/research/impact-areas/health-technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:28.308Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/research/impact-areas/health-technology",
+	"url": "https://ise.illinois.edu/research/impact-areas/health-technology"
+}

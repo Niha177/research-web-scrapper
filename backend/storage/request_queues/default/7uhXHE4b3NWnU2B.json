@@ -1,0 +1,9 @@
+{
+	"id": "7uhXHE4b3NWnU2B",
+	"json": "{\"id\":\"7uhXHE4b3NWnU2B\",\"url\":\"https://my.engr.illinois.edu/speaker_signup/\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/speaker_signup/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/speaker_signup\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:24.339Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/speaker_signup",
+	"url": "https://my.engr.illinois.edu/speaker_signup/"
+}

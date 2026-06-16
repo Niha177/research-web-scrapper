@@ -1,0 +1,9 @@
+{
+	"id": "NuAUBIWCXHMzba6",
+	"json": "{\"id\":\"NuAUBIWCXHMzba6\",\"url\":\"http://catalog.illinois.edu/graduate/engineering/concentration/computational-science-engineering/\",\"loadedUrl\":\"https://catalog.illinois.edu/graduate/engineering/concentration/computational-science-engineering/\",\"uniqueKey\":\"http://catalog.illinois.edu/graduate/engineering/concentration/computational-science-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:48.737Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://catalog.illinois.edu/graduate/engineering/concentration/computational-science-engineering",
+	"url": "http://catalog.illinois.edu/graduate/engineering/concentration/computational-science-engineering/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wxxqoLXXYLAhh2g",
+	"json": "{\"id\":\"wxxqoLXXYLAhh2g\",\"url\":\"https://ise.illinois.edu/undergraduate/resources\",\"loadedUrl\":\"https://ise.illinois.edu/undergraduate/resources\",\"uniqueKey\":\"https://ise.illinois.edu/undergraduate/resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:12.856Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/undergraduate/resources",
+	"url": "https://ise.illinois.edu/undergraduate/resources"
+}

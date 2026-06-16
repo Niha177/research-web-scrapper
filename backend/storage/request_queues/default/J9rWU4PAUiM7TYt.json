@@ -1,0 +1,9 @@
+{
+	"id": "J9rWU4PAUiM7TYt",
+	"json": "{\"id\":\"J9rWU4PAUiM7TYt\",\"url\":\"https://ise.illinois.edu/directory/profile/pingfeng\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/pingfeng\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/pingfeng\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:07.858Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/pingfeng",
+	"url": "https://ise.illinois.edu/directory/profile/pingfeng"
+}

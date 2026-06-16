@@ -1,6 +1,6 @@
 {
 	"id": "LxFSA4X3lrYANo5",
-	"json": "{\"id\":\"LxFSA4X3lrYANo5\",\"url\":\"https://abe.illinois.edu/academics/graduate-degrees/phd-agricultural-and-biological-engineering\",\"loadedUrl\":\"https://abe.illinois.edu/academics/graduate-degrees/phd-agricultural-and-biological-engineering\",\"uniqueKey\":\"https://abe.illinois.edu/academics/graduate-degrees/phd-agricultural-and-biological-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:37.173Z\"}",
+	"json": "{\"id\":\"LxFSA4X3lrYANo5\",\"url\":\"https://abe.illinois.edu/academics/graduate-degrees/phd-agricultural-and-biological-engineering\",\"loadedUrl\":\"https://abe.illinois.edu/academics/graduate-degrees/phd-agricultural-and-biological-engineering\",\"uniqueKey\":\"https://abe.illinois.edu/academics/graduate-degrees/phd-agricultural-and-biological-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:49.530Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

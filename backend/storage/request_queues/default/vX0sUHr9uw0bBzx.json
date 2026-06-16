@@ -1,6 +1,6 @@
 {
 	"id": "vX0sUHr9uw0bBzx",
-	"json": "{\"id\":\"vX0sUHr9uw0bBzx\",\"url\":\"https://grainger.illinois.edu/academics/graduate/funding/surge\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate/funding/surge\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate/funding/surge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:50:42.556Z\"}",
+	"json": "{\"id\":\"vX0sUHr9uw0bBzx\",\"url\":\"https://grainger.illinois.edu/academics/graduate/funding/surge\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate/funding/surge\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate/funding/surge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:43:32.626Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

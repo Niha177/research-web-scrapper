@@ -1,6 +1,6 @@
 {
 	"id": "uCT6YcufAj5QL2Q",
-	"json": "{\"id\":\"uCT6YcufAj5QL2Q\",\"url\":\"https://grainger.illinois.edu/research/areas\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:23.716Z\"}",
+	"json": "{\"id\":\"uCT6YcufAj5QL2Q\",\"url\":\"https://grainger.illinois.edu/research/areas\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:41.539Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

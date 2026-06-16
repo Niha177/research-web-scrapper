@@ -1,6 +1,6 @@
 {
 	"id": "OKXXjuotdZXwK6t",
-	"json": "{\"id\":\"OKXXjuotdZXwK6t\",\"url\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/ms-degree-non-thesis-campus\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/ms-degree-non-thesis-campus\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/ms-degree-non-thesis-campus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:53.969Z\"}",
+	"json": "{\"id\":\"OKXXjuotdZXwK6t\",\"url\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/ms-degree-non-thesis-campus\",\"loadedUrl\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/ms-degree-non-thesis-campus\",\"uniqueKey\":\"https://aerospace.illinois.edu/academics/graduate/ms-degree-program/ms-degree-non-thesis-campus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:10.049Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

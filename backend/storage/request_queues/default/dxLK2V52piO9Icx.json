@@ -1,6 +1,6 @@
 {
 	"id": "dxLK2V52piO9Icx",
-	"json": "{\"id\":\"dxLK2V52piO9Icx\",\"url\":\"https://grainger.illinois.edu/calendars/seminars\",\"loadedUrl\":\"https://grainger.illinois.edu/calendars/seminars\",\"uniqueKey\":\"https://grainger.illinois.edu/calendars/seminars\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:18.178Z\"}",
+	"json": "{\"id\":\"dxLK2V52piO9Icx\",\"url\":\"https://grainger.illinois.edu/calendars/seminars\",\"loadedUrl\":\"https://grainger.illinois.edu/calendars/seminars\",\"uniqueKey\":\"https://grainger.illinois.edu/calendars/seminars\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:39.012Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

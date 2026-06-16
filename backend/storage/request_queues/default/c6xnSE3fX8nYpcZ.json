@@ -1,0 +1,9 @@
+{
+	"id": "c6xnSE3fX8nYpcZ",
+	"json": "{\"id\":\"c6xnSE3fX8nYpcZ\",\"url\":\"https://my.engr.illinois.edu/resources/equipment-exchange\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/resources/equipment-exchange\",\"uniqueKey\":\"https://my.engr.illinois.edu/resources/equipment-exchange\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:33.408Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/resources/equipment-exchange",
+	"url": "https://my.engr.illinois.edu/resources/equipment-exchange"
+}

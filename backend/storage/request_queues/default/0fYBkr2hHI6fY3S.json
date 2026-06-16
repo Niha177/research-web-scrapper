@@ -1,6 +1,6 @@
 {
 	"id": "0fYBkr2hHI6fY3S",
-	"json": "{\"id\":\"0fYBkr2hHI6fY3S\",\"url\":\"https://cee.illinois.edu/academics/graduate-programs/cee-online/cee-online-certificate-program\",\"loadedUrl\":\"https://cee.illinois.edu/academics/graduate-programs/cee-online/cee-online-certificate-program\",\"uniqueKey\":\"https://cee.illinois.edu/academics/graduate-programs/cee-online/cee-online-certificate-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:05.029Z\"}",
+	"json": "{\"id\":\"0fYBkr2hHI6fY3S\",\"url\":\"https://cee.illinois.edu/academics/graduate-programs/cee-online/cee-online-certificate-program\",\"loadedUrl\":\"https://cee.illinois.edu/academics/graduate-programs/cee-online/cee-online-certificate-program\",\"uniqueKey\":\"https://cee.illinois.edu/academics/graduate-programs/cee-online/cee-online-certificate-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:13.624Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

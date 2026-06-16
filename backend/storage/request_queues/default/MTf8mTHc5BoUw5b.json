@@ -1,0 +1,9 @@
+{
+	"id": "MTf8mTHc5BoUw5b",
+	"json": "{\"id\":\"MTf8mTHc5BoUw5b\",\"url\":\"https://grainger.illinois.edu/news/stories/engineering-friendship\",\"loadedUrl\":\"https://grainger.illinois.edu/news/stories/engineering-friendship\",\"uniqueKey\":\"https://grainger.illinois.edu/news/stories/engineering-friendship\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:58.395Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/news/stories/engineering-friendship",
+	"url": "https://grainger.illinois.edu/news/stories/engineering-friendship"
+}

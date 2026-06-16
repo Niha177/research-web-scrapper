@@ -1,0 +1,9 @@
+{
+	"id": "yOeCK10ZwUUJzTb",
+	"json": "{\"id\":\"yOeCK10ZwUUJzTb\",\"url\":\"https://advising.grainger.illinois.edu/\",\"loadedUrl\":\"https://advising.grainger.illinois.edu/\",\"uniqueKey\":\"https://advising.grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:49.860Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://advising.grainger.illinois.edu",
+	"url": "https://advising.grainger.illinois.edu/"
+}

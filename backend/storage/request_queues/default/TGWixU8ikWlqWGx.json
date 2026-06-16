@@ -1,0 +1,9 @@
+{
+	"id": "TGWixU8ikWlqWGx",
+	"json": "{\"id\":\"TGWixU8ikWlqWGx\",\"url\":\"https://ise.illinois.edu/graduate/courses/SE525\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/courses/SE525\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/courses/SE525\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:49:16.359Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/graduate/courses/SE525",
+	"url": "https://ise.illinois.edu/graduate/courses/SE525"
+}

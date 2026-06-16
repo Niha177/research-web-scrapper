@@ -1,6 +1,6 @@
 {
 	"id": "2Nya5JvWeES2m9a",
-	"json": "{\"id\":\"2Nya5JvWeES2m9a\",\"url\":\"https://registrar.illinois.edu/g-tuition-rates-2324/\",\"loadedUrl\":\"https://registrar.illinois.edu/tuition-fees/tuition-fee-rates/tf-rates-academic-year/g-tuition-rates-2324/\",\"uniqueKey\":\"https://registrar.illinois.edu/g-tuition-rates-2324\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:20.885Z\"}",
+	"json": "{\"id\":\"2Nya5JvWeES2m9a\",\"url\":\"https://registrar.illinois.edu/g-tuition-rates-2324/\",\"loadedUrl\":\"https://registrar.illinois.edu/tuition-fees/tuition-fee-rates/tf-rates-academic-year/g-tuition-rates-2324/\",\"uniqueKey\":\"https://registrar.illinois.edu/g-tuition-rates-2324\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:34.428Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

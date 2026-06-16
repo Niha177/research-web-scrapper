@@ -1,30 +1,54 @@
 {
-  "requestsFinished": 33,
-  "requestsFailed": 0,
-  "requestsRetries": 0,
+  "requestsFinished": 158,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 148,
-  "requestMinDurationMillis": 83,
-  "requestMaxDurationMillis": 3093,
-  "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 28463,
-  "crawlerStartedAt": "2026-06-16T15:54:09.528Z",
-  "crawlerFinishedAt": "2026-06-16T15:54:22.792Z",
-  "statsPersistedAt": "2026-06-16T15:54:22.792Z",
-  "crawlerRuntimeMillis": 13394,
-  "crawlerLastStartTimestamp": 1781625249398,
+  "requestsFinishedPerMinute": 111,
+  "requestMinDurationMillis": 74,
+  "requestMaxDurationMillis": 16085,
+  "requestTotalFailedDurationMillis": 238,
+  "requestTotalFinishedDurationMillis": 470068,
+  "crawlerStartedAt": "2026-06-16T21:47:37.849Z",
+  "crawlerFinishedAt": "2026-06-16T21:49:02.763Z",
+  "statsPersistedAt": "2026-06-16T21:49:02.763Z",
+  "crawlerRuntimeMillis": 85103,
+  "crawlerLastStartTimestamp": 1781646457660,
   "requestRetryHistogram": [
-    33
+    158,
+    null,
+    null,
+    1
   ],
   "statsId": 1,
-  "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 863,
-  "requestTotalDurationMillis": 28463,
-  "requestsTotal": 33,
+  "requestAvgFailedDurationMillis": 238,
+  "requestAvgFinishedDurationMillis": 2975,
+  "requestTotalDurationMillis": 470306,
+  "requestsTotal": 159,
   "requestsWithStatusCode": {
-    "200": 27,
-    "404": 6
+    "200": 155,
+    "404": 2,
+    "595": 1
   },
-  "errors": {},
-  "retryErrors": {}
+  "errors": {
+    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://grainger.illinois.edu/academics/undergraduate/programs/gfx": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://grainger.illinois.edu/academics/undergraduate/programs/gfx": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
 }

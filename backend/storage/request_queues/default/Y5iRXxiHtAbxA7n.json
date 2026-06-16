@@ -1,0 +1,9 @@
+{
+	"id": "Y5iRXxiHtAbxA7n",
+	"json": "{\"id\":\"Y5iRXxiHtAbxA7n\",\"url\":\"https://my.engr.illinois.edu/vacation\",\"loadedUrl\":\"https://login.microsoftonline.com/44467e6f-462c-4ea2-823f-7800de5434e3/saml2?SAMLRequest=fVLLbtswEPwVgneJNE1LNmE5cGMUNZA2Rqz00EtB0auYAMlVSSpN%2F77wq0gvOe%2FszM7MLu%2FevCOvEJPF0NBJySmBYPBgw0tDn9vPxZzerZZJeycGtR7zMTzBrxFSJm%2FehaQuk4aOMSjUySYVtIekslH79dcHJUquhogZDTpK1ilBzBbDPYY0eoh7iK%2FWwPPTQ0OPOQ9JMZaOtuvQQT6W1jkb0KYSDiOzh4ENEXvrgJ0vYScFwXaP%2B5bt94%2BUbCBlG3Q%2Be7nROXyxofTWREzYZwzOBigNeialrGqo%2BkJWwhQStCjmYtoX9ZzzA8zkVMKUnQ1Sst009KesRS26mV4A9B2vZF3VsprySnKjFzXvKNmmNMI2pKxDbqjgoip4VUyqVkzUjKvJopzzxQ9KdtdIPtlwifqj%2FLoLKKkvbbsrTnYp%2BX6rTJScXgtSZ%2FX4vpmPifWtDro6wbw2oGww6D0GNdrRnHJfsvfk%2F37hm%2Faw3ezQWfOHrJ3D3%2FcRdIaG5jgCZavr3v9fs%2FoL&RelayState=e1s1\",\"uniqueKey\":\"https://my.engr.illinois.edu/vacation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:20.234Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/vacation",
+	"url": "https://my.engr.illinois.edu/vacation"
+}

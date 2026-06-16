@@ -1,0 +1,9 @@
+{
+	"id": "ERA17bM8G2DG8iH",
+	"json": "{\"id\":\"ERA17bM8G2DG8iH\",\"url\":\"https://calendars.illinois.edu/detail/3605?eventId=33553524\",\"loadedUrl\":\"https://calendars.illinois.edu/detail/3605?eventId=33553524\",\"uniqueKey\":\"https://calendars.illinois.edu/detail/3605?eventId=33553524\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:15.191Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://calendars.illinois.edu/detail/3605?eventId=33553524",
+	"url": "https://calendars.illinois.edu/detail/3605?eventId=33553524"
+}

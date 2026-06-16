@@ -1,0 +1,9 @@
+{
+	"id": "vzGv46l4UKkxqsA",
+	"json": "{\"id\":\"vzGv46l4UKkxqsA\",\"url\":\"http://catalog.illinois.edu/graduate/engineering/concentration/advanced-analytics-industrial-enterprise-systems-engineering/\",\"loadedUrl\":\"https://catalog.illinois.edu/graduate/engineering/concentration/advanced-analytics-industrial-enterprise-systems-engineering/\",\"uniqueKey\":\"http://catalog.illinois.edu/graduate/engineering/concentration/advanced-analytics-industrial-enterprise-systems-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:47.929Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://catalog.illinois.edu/graduate/engineering/concentration/advanced-analytics-industrial-enterprise-systems-engineering",
+	"url": "http://catalog.illinois.edu/graduate/engineering/concentration/advanced-analytics-industrial-enterprise-systems-engineering/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aqYGAA16NS9QxeX",
+	"json": "{\"id\":\"aqYGAA16NS9QxeX\",\"url\":\"https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-concentration#sidebarnav_inner\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-concentration#sidebarnav_inner\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-concentration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:18.750Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-concentration",
+	"url": "https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-concentration#sidebarnav_inner"
+}

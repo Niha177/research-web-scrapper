@@ -1,0 +1,9 @@
+{
+	"id": "6mkVOvUSMESB5Ew",
+	"json": "{\"id\":\"6mkVOvUSMESB5Ew\",\"url\":\"https://illinois.edu/campus-emergencies/\",\"loadedUrl\":\"https://illinois.edu/campus-emergencies/\",\"uniqueKey\":\"https://illinois.edu/campus-emergencies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:51.803Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://illinois.edu/campus-emergencies",
+	"url": "https://illinois.edu/campus-emergencies/"
+}

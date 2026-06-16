@@ -1,0 +1,9 @@
+{
+	"id": "4SBFJEZYeadGxbf",
+	"json": "{\"id\":\"4SBFJEZYeadGxbf\",\"url\":\"https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science\",\"uniqueKey\":\"https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:55.811Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science",
+	"url": "https://cs.illinois.edu/academics/undergraduate/degree-program-options/minor-computer-science"
+}

@@ -1,6 +1,6 @@
 {
 	"id": "iUpp9jI8xA8Dlnr",
-	"json": "{\"id\":\"iUpp9jI8xA8Dlnr\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-mechanical-engineering\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/ms-programs/ms-mechanical-engineering\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-mechanical-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:34.623Z\"}",
+	"json": "{\"id\":\"iUpp9jI8xA8Dlnr\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-mechanical-engineering\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/ms-programs/ms-mechanical-engineering\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-mechanical-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:46.975Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

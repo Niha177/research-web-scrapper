@@ -1,0 +1,9 @@
+{
+	"id": "rM7lXZ3PBoaY9pf",
+	"json": "{\"id\":\"rM7lXZ3PBoaY9pf\",\"url\":\"https://my.engr.illinois.edu/travel\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/travel/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/travel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:21.798Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/travel",
+	"url": "https://my.engr.illinois.edu/travel"
+}

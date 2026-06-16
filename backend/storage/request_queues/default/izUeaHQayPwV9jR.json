@@ -1,9 +1,0 @@
-{
-	"id": "izUeaHQayPwV9jR",
-	"json": "{\"id\":\"izUeaHQayPwV9jR\",\"url\":\"https://bioengineering.illinois.edu/admissions/graduate/programs/[object%20Promise]\",\"loadedUrl\":\"https://bioengineering.illinois.edu/admissions/graduate/programs/[object%20Promise]\",\"uniqueKey\":\"https://bioengineering.illinois.edu/admissions/graduate/programs/[object%20Promise]\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T15:54:21.634Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://bioengineering.illinois.edu/admissions/graduate/programs/[object%20Promise]",
-	"url": "https://bioengineering.illinois.edu/admissions/graduate/programs/[object%20Promise]"
-}

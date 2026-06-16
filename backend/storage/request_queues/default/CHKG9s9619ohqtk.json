@@ -1,0 +1,9 @@
+{
+	"id": "CHKG9s9619ohqtk",
+	"json": "{\"id\":\"CHKG9s9619ohqtk\",\"url\":\"https://my.engr.illinois.edu/rosters\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/rosters/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/rosters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:29.033Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/rosters",
+	"url": "https://my.engr.illinois.edu/rosters"
+}

@@ -1,6 +1,6 @@
 {
 	"id": "cohW1y9PgeD894D",
-	"json": "{\"id\":\"cohW1y9PgeD894D\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/ms-programs\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:56.602Z\"}",
+	"json": "{\"id\":\"cohW1y9PgeD894D\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/ms-programs\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:03.927Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

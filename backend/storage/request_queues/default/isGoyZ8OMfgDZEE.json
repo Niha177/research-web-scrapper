@@ -1,0 +1,9 @@
+{
+	"id": "isGoyZ8OMfgDZEE",
+	"json": "{\"id\":\"isGoyZ8OMfgDZEE\",\"url\":\"https://my.engr.illinois.edu/ugradrecs\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/ugradrecs/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/ugradrecs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:29.813Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/ugradrecs",
+	"url": "https://my.engr.illinois.edu/ugradrecs"
+}

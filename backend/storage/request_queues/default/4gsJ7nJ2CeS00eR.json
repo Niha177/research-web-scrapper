@@ -1,6 +1,6 @@
 {
 	"id": "4gsJ7nJ2CeS00eR",
-	"json": "{\"id\":\"4gsJ7nJ2CeS00eR\",\"url\":\"https://chbe.illinois.edu/academics/masters\",\"loadedUrl\":\"https://chbe.illinois.edu/academics/masters\",\"uniqueKey\":\"https://chbe.illinois.edu/academics/masters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:43.070Z\"}",
+	"json": "{\"id\":\"4gsJ7nJ2CeS00eR\",\"url\":\"https://chbe.illinois.edu/academics/masters\",\"loadedUrl\":\"https://chbe.illinois.edu/academics/masters\",\"uniqueKey\":\"https://chbe.illinois.edu/academics/masters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:53.838Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

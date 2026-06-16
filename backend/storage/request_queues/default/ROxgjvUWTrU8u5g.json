@@ -1,9 +1,0 @@
-{
-	"id": "ROxgjvUWTrU8u5g",
-	"json": "{\"id\":\"ROxgjvUWTrU8u5g\",\"url\":\"https://vetmed.illinois.edu/suretox/\",\"loadedUrl\":\"https://vetmed.illinois.edu/suretox/\",\"uniqueKey\":\"https://vetmed.illinois.edu/suretox\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:07.652Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://vetmed.illinois.edu/suretox",
-	"url": "https://vetmed.illinois.edu/suretox/"
-}

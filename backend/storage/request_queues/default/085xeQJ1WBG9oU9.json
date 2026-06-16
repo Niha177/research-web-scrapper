@@ -1,6 +1,6 @@
 {
 	"id": "085xeQJ1WBG9oU9",
-	"json": "{\"id\":\"085xeQJ1WBG9oU9\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:50:50.330Z\"}",
+	"json": "{\"id\":\"085xeQJ1WBG9oU9\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:43:56.534Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

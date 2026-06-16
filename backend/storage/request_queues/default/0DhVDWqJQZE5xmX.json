@@ -1,6 +1,6 @@
 {
 	"id": "0DhVDWqJQZE5xmX",
-	"json": "{\"id\":\"0DhVDWqJQZE5xmX\",\"url\":\"https://ece.illinois.edu/academics/grad/online-meng-degree-information\",\"loadedUrl\":\"https://ece.illinois.edu/academics/grad/online-meng-degree-information\",\"uniqueKey\":\"https://ece.illinois.edu/academics/grad/online-meng-degree-information\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:33.882Z\"}",
+	"json": "{\"id\":\"0DhVDWqJQZE5xmX\",\"url\":\"https://ece.illinois.edu/academics/grad/online-meng-degree-information\",\"loadedUrl\":\"https://ece.illinois.edu/academics/grad/online-meng-degree-information\",\"uniqueKey\":\"https://ece.illinois.edu/academics/grad/online-meng-degree-information\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:46.085Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

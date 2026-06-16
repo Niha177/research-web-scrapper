@@ -1,6 +1,6 @@
 {
 	"id": "SJYtAwIU6fGK2HP",
-	"json": "{\"id\":\"SJYtAwIU6fGK2HP\",\"url\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"loadedUrl\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"uniqueKey\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:08.892Z\"}",
+	"json": "{\"id\":\"SJYtAwIU6fGK2HP\",\"url\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"loadedUrl\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"uniqueKey\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:43:55.175Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

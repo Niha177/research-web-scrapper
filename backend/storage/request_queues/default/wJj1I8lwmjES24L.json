@@ -1,6 +1,6 @@
 {
 	"id": "wJj1I8lwmjES24L",
-	"json": "{\"id\":\"wJj1I8lwmjES24L\",\"url\":\"https://grainger.illinois.edu/academics/professional/industry-partners\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/professional/industry-partners\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/professional/industry-partners\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:36.842Z\"}",
+	"json": "{\"id\":\"wJj1I8lwmjES24L\",\"url\":\"https://grainger.illinois.edu/academics/professional/industry-partners\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/professional/industry-partners\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/professional/industry-partners\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:48.546Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

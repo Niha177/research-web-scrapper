@@ -1,0 +1,9 @@
+{
+	"id": "FUWYpSA2a3Ef8NM",
+	"json": "{\"id\":\"FUWYpSA2a3Ef8NM\",\"url\":\"https://ise.illinois.edu/alumni\",\"loadedUrl\":\"https://ise.illinois.edu/alumni\",\"uniqueKey\":\"https://ise.illinois.edu/alumni\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:44.246Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/alumni",
+	"url": "https://ise.illinois.edu/alumni"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eJWHHP62Z2y55yu",
+	"json": "{\"id\":\"eJWHHP62Z2y55yu\",\"url\":\"https://ise.illinois.edu/directory/profile/gkrishna\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/gkrishna\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/gkrishna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:48.267Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/gkrishna",
+	"url": "https://ise.illinois.edu/directory/profile/gkrishna"
+}

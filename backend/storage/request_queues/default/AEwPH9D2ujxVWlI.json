@@ -1,6 +1,6 @@
 {
 	"id": "AEwPH9D2ujxVWlI",
-	"json": "{\"id\":\"AEwPH9D2ujxVWlI\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/phd-programs/phd-theoretical-and-applied-mechanics\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:01.725Z\"}",
+	"json": "{\"id\":\"AEwPH9D2ujxVWlI\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/phd-programs/phd-theoretical-and-applied-mechanics\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:09.217Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

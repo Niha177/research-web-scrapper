@@ -1,0 +1,9 @@
+{
+	"id": "Nl5IdDe3Zfc5M1B",
+	"json": "{\"id\":\"Nl5IdDe3Zfc5M1B\",\"url\":\"https://ise.illinois.edu/directory/profile/rsree\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/rsree\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/rsree\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:59.814Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/rsree",
+	"url": "https://ise.illinois.edu/directory/profile/rsree"
+}

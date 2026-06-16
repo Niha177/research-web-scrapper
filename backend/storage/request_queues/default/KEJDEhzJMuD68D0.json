@@ -1,6 +1,6 @@
 {
 	"id": "KEJDEhzJMuD68D0",
-	"json": "{\"id\":\"KEJDEhzJMuD68D0\",\"url\":\"https://choose.illinois.edu/register/interest-engg\",\"loadedUrl\":\"https://choose.illinois.edu/register/interest-engg\",\"uniqueKey\":\"https://choose.illinois.edu/register/interest-engg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:19.726Z\"}",
+	"json": "{\"id\":\"KEJDEhzJMuD68D0\",\"url\":\"https://choose.illinois.edu/register/interest-engg\",\"loadedUrl\":\"https://choose.illinois.edu/register/interest-engg\",\"uniqueKey\":\"https://choose.illinois.edu/register/interest-engg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:32.804Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

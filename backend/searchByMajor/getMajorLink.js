@@ -1,5 +1,5 @@
 import {searchByCollege} from './collegeLink.js'
-import { PlaywrightCrawler, Configuration} from 'crawlee'
+import { PlaywrightCrawler, Configuration, Request} from 'crawlee'
 import {query} from '../createDb.js'
 import { mapMajorCode} from "../Find_area_study/mapCodeMajor.js"
 
@@ -7,8 +7,11 @@ import { mapMajorCode} from "../Find_area_study/mapCodeMajor.js"
 export async function getMajorLink(collegeLink, major, queryText) {
 
 
+    const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    
     const config = Configuration.getGlobalConfig();
     config.set('purgeOnStart', true);
+    await delay(1000)
     //////////////////////////////////////////////////////////
 
     
@@ -24,7 +27,7 @@ export async function getMajorLink(collegeLink, major, queryText) {
         const crawler = new PlaywrightCrawler({
 
             maxConcurrency: 5,
-            maxRequestsPerCrawl: 350,
+            maxRequestsPerCrawl: 320,
             requestHandlerTimeoutSecs: 45,
 
 
@@ -49,11 +52,14 @@ export async function getMajorLink(collegeLink, major, queryText) {
                              && recSites.test(curText)) {
                             const curhref = await link.getAttribute('href');
 
-                            await enqueueLinks({
-                                urls: [new URL(curhref, request.url).href],
-                                forefront: true,
-                                userData: {priority: 'High'}
-                            })
+                            if(curhref) {
+                                    await enqueueLinks({
+                                    urls: [new URL(curhref, request.url).href],
+                                    forefront: true,
+                                    userData: {priority: 'High'}
+                                })
+                            }
+
 
                         }
 
@@ -61,8 +67,8 @@ export async function getMajorLink(collegeLink, major, queryText) {
                     if(keywords.some(ele => ele.toLowerCase() === curText)) {
                         
 
-                        const cleanHref = href.toLowerCase().replace(/[-_\s]/g, '')
-                        const cleanMajor = major.toLowerCase().replace(/[-_\s]/g, '')
+                        //const cleanHref = href.toLowerCase().replace(/[-_\s]/g, '')
+                        //const cleanMajor = major.toLowerCase().replace(/[-_\s]/g, '')
                         if(href) {
                         
                             foundlinks.push(new URL(href, request.url).href)
@@ -71,12 +77,12 @@ export async function getMajorLink(collegeLink, major, queryText) {
                         }
                     /////////////////////////////////////
                     } else {
-                        const href = link.getAttribute('href');
+                        const href = await link.getAttribute('href');
 
                         const cleanHref = request.url.toLowerCase().replace(/[-_\s]/g, '')
                         const cleanMajor = major.toLowerCase().replace(/[-_\s]/g, '')
 
-                        if(cleanHref.includes(cleanMajor)) {
+                        if(href && cleanHref.includes(cleanMajor)) {
                             foundlinks.push(new URL(href, request.url).href)
                             console.log(foundlinks)
                         }
@@ -92,13 +98,27 @@ export async function getMajorLink(collegeLink, major, queryText) {
                         /\/(news|stories|events|blog)\//i,
                         /go\.illinois\.edu/i,
                         /\/(tiktok|instagram|twitter|facebook|youtube)/i
-                    ]
-                })
+                    ], 
+                    transformRequestFunction(request) {
+                    
+                    if (!request.url || request.url.includes('[object')) {
+                        return false; 
+                    }
+                    return request;
+                }
+            })
 
             }, 
         })
 
         await crawler.run(collegeLink)
+
+
+        const storageManager = config['storageManager']; 
+
+        if (storageManager && typeof storageManager.closeAll === 'function') {
+            await storageManager.closeAll();
+        }
 
         const results = [...new Set(foundlinks)]
         console.log(results)
@@ -145,14 +165,25 @@ export async function mainPageLocate(major) {
           `;
         
       ////////////////////////////////////////////////
-
+        await delay(3000)
         const links = await getMajorLink(collegeLink, major, queryText)
 
-        delay(2000)
+
 
         const depWeb = /\b(department|website)s?\b/i
 
-        let website = [...links]
+        const valLinks = [...new Set(links)].filter(url => {
+            try {
+                const parsed = new URL(url)
+                return (parsed.protocol === 'https:' || parsed.protocol === 'http:') 
+                    && !parsed.hash  
+                    && parsed.hostname !== ''
+            } catch {
+                return false
+            }
+        })
+
+        let website = [...valLinks]
 
         const crawler = new PlaywrightCrawler({
 
@@ -187,7 +218,8 @@ export async function mainPageLocate(major) {
             }
 
         })
-        await crawler.run(links)
+        const validLinks = links.filter(url => url.startsWith('http://') || url.startsWith('https://'))
+        await crawler.run(valLinks)
 
         const results = [...new Set(website)]
         console.log(results)
@@ -217,7 +249,7 @@ export async function mainPageLocate(major) {
 
 }
 
-mainPageLocate('Mathematics')
+//mainPageLocate('Mathematics')
 
 /*
 

@@ -1,0 +1,9 @@
+{
+	"id": "WIFbBd6pNu96zOb",
+	"json": "{\"id\":\"WIFbBd6pNu96zOb\",\"url\":\"https://ise.illinois.edu/directory/profile/etesami1\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/etesami1\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/etesami1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:35.011Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/etesami1",
+	"url": "https://ise.illinois.edu/directory/profile/etesami1"
+}

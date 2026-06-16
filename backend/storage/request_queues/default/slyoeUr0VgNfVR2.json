@@ -1,0 +1,9 @@
+{
+	"id": "slyoeUr0VgNfVR2",
+	"json": "{\"id\":\"slyoeUr0VgNfVR2\",\"url\":\"https://my.engr.illinois.edu/statements\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/statements/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/statements\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:21.434Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/statements",
+	"url": "https://my.engr.illinois.edu/statements"
+}

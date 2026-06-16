@@ -1,0 +1,9 @@
+{
+	"id": "U0bpc6SBG6Hrp6b",
+	"json": "{\"id\":\"U0bpc6SBG6Hrp6b\",\"url\":\"https://ise.illinois.edu/graduate/admissions/tuition-fees\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/admissions/tuition-fees\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/admissions/tuition-fees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:16.992Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/graduate/admissions/tuition-fees",
+	"url": "https://ise.illinois.edu/graduate/admissions/tuition-fees"
+}

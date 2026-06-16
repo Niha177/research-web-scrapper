@@ -1,6 +1,6 @@
 {
 	"id": "yOL6aGj1ewSXkrR",
-	"json": "{\"id\":\"yOL6aGj1ewSXkrR\",\"url\":\"https://npre.illinois.edu/academics/graduate/MS-degree\",\"loadedUrl\":\"https://npre.illinois.edu/academics/graduate/MS-degree\",\"uniqueKey\":\"https://npre.illinois.edu/academics/graduate/MS-degree\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:59.052Z\"}",
+	"json": "{\"id\":\"yOL6aGj1ewSXkrR\",\"url\":\"https://npre.illinois.edu/academics/graduate/MS-degree\",\"loadedUrl\":\"https://npre.illinois.edu/academics/graduate/MS-degree\",\"uniqueKey\":\"https://npre.illinois.edu/academics/graduate/MS-degree\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:07.479Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

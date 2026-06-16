@@ -1,6 +1,6 @@
 {
 	"id": "dGHk2I0cMxVIv28",
-	"json": "{\"id\":\"dGHk2I0cMxVIv28\",\"url\":\"https://news.illinois.edu/three-illinois-faculty-elected-to-american-academy-of-arts-and-sciences/\",\"loadedUrl\":\"https://news.illinois.edu/three-illinois-faculty-elected-to-american-academy-of-arts-and-sciences/\",\"uniqueKey\":\"https://news.illinois.edu/three-illinois-faculty-elected-to-american-academy-of-arts-and-sciences\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:11.327Z\"}",
+	"json": "{\"id\":\"dGHk2I0cMxVIv28\",\"url\":\"https://news.illinois.edu/three-illinois-faculty-elected-to-american-academy-of-arts-and-sciences/\",\"loadedUrl\":\"https://news.illinois.edu/three-illinois-faculty-elected-to-american-academy-of-arts-and-sciences/\",\"uniqueKey\":\"https://news.illinois.edu/three-illinois-faculty-elected-to-american-academy-of-arts-and-sciences\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:25.794Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

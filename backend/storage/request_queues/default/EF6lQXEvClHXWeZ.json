@@ -1,0 +1,9 @@
+{
+	"id": "EF6lQXEvClHXWeZ",
+	"json": "{\"id\":\"EF6lQXEvClHXWeZ\",\"url\":\"https://calendars.illinois.edu/list/3284\",\"loadedUrl\":\"https://calendars.illinois.edu/list/3284\",\"uniqueKey\":\"https://calendars.illinois.edu/list/3284\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:49.664Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://calendars.illinois.edu/list/3284",
+	"url": "https://calendars.illinois.edu/list/3284"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "6Y1iLAKYsdcPTlB",
-	"json": "{\"id\":\"6Y1iLAKYsdcPTlB\",\"url\":\"https://go.bioengineering.illinois.edu/DailyVisits\",\"loadedUrl\":\"https://forms.illinois.edu/sec/1816877130\",\"uniqueKey\":\"https://go.bioengineering.illinois.edu/DailyVisits\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T15:54:20.769Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://go.bioengineering.illinois.edu/DailyVisits",
-	"url": "https://go.bioengineering.illinois.edu/DailyVisits"
-}

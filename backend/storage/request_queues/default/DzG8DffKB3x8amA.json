@@ -1,0 +1,9 @@
+{
+	"id": "DzG8DffKB3x8amA",
+	"json": "{\"id\":\"DzG8DffKB3x8amA\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/programs/techmgmt\",\"loadedUrl\":\"https://techmgmt.illinois.edu/\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/programs/techmgmt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:42.217Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/programs/techmgmt",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/programs/techmgmt"
+}

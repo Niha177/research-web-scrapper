@@ -1,0 +1,9 @@
+{
+	"id": "lYQGsZw3qZm10aQ",
+	"json": "{\"id\":\"lYQGsZw3qZm10aQ\",\"url\":\"https://ise.illinois.edu/directory/profile/xyz\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/xyz\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/xyz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:10.661Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/xyz",
+	"url": "https://ise.illinois.edu/directory/profile/xyz"
+}

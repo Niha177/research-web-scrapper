@@ -1,0 +1,9 @@
+{
+	"id": "haCkWBpu0kzOSnx",
+	"json": "{\"id\":\"haCkWBpu0kzOSnx\",\"url\":\"https://ise.illinois.edu/directory/profile/yiwen\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/yiwen\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/yiwen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:33.152Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/yiwen",
+	"url": "https://ise.illinois.edu/directory/profile/yiwen"
+}

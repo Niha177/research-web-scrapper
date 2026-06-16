@@ -1,0 +1,9 @@
+{
+	"id": "MhOYX1PzaHwPlpp",
+	"json": "{\"id\":\"MhOYX1PzaHwPlpp\",\"url\":\"https://my.engr.illinois.edu/timetracker\",\"loadedUrl\":\"https://my.engr.illinois.edu/portal/Account/Login?ReturnUrl=%2ftimetracker%2fHome%2fRedirectAuthenticatedUser\",\"uniqueKey\":\"https://my.engr.illinois.edu/timetracker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:19.840Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/timetracker",
+	"url": "https://my.engr.illinois.edu/timetracker"
+}

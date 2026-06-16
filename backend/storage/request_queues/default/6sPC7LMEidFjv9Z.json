@@ -1,9 +1,0 @@
-{
-	"id": "6sPC7LMEidFjv9Z",
-	"json": "{\"id\":\"6sPC7LMEidFjv9Z\",\"url\":\"https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10961\",\"loadedUrl\":\"https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10961\",\"uniqueKey\":\"https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10961\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:54:09.242Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10961",
-	"url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10961"
-}

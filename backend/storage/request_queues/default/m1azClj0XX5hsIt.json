@@ -1,0 +1,9 @@
+{
+	"id": "m1azClj0XX5hsIt",
+	"json": "{\"id\":\"m1azClj0XX5hsIt\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/programs/study-abroad\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/programs#tile34913\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/programs/study-abroad\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:48.280Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/programs/study-abroad",
+	"url": "https://grainger.illinois.edu/academics/undergraduate/programs/study-abroad"
+}

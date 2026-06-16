@@ -1,0 +1,9 @@
+{
+	"id": "Ia8bTWr5O5nSSiQ",
+	"json": "{\"id\":\"Ia8bTWr5O5nSSiQ\",\"url\":\"https://my.engr.illinois.edu/coursewebsites\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/coursewebsites/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/coursewebsites\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:28.431Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/coursewebsites",
+	"url": "https://my.engr.illinois.edu/coursewebsites"
+}

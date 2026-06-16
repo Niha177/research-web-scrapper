@@ -1,6 +1,6 @@
 {
 	"id": "Gp4eJgtS0wrAZYd",
-	"json": "{\"id\":\"Gp4eJgtS0wrAZYd\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:41.464Z\"}",
+	"json": "{\"id\":\"Gp4eJgtS0wrAZYd\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/bioengineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:52.126Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

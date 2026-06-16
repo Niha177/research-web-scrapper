@@ -1,38 +1,38 @@
 {
   "requestsFinished": 354,
   "requestsFailed": 0,
-  "requestsRetries": 1,
+  "requestsRetries": 2,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 88,
-  "requestMinDurationMillis": 143,
-  "requestMaxDurationMillis": 53261,
+  "requestsFinishedPerMinute": 79,
+  "requestMinDurationMillis": 129,
+  "requestMaxDurationMillis": 42382,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 1063443,
-  "crawlerStartedAt": "2026-06-16T15:50:09.156Z",
-  "crawlerFinishedAt": "2026-06-16T15:54:09.396Z",
-  "statsPersistedAt": "2026-06-16T15:54:09.396Z",
-  "crawlerRuntimeMillis": 240357,
-  "crawlerLastStartTimestamp": 1781625009039,
+  "requestTotalFinishedDurationMillis": 1174567,
+  "crawlerStartedAt": "2026-06-16T21:43:07.291Z",
+  "crawlerFinishedAt": "2026-06-16T21:47:37.657Z",
+  "statsPersistedAt": "2026-06-16T21:47:37.657Z",
+  "crawlerRuntimeMillis": 270441,
+  "crawlerLastStartTimestamp": 1781646187216,
   "requestRetryHistogram": [
-    353,
-    1
+    352,
+    2
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 3004,
-  "requestTotalDurationMillis": 1063443,
+  "requestAvgFinishedDurationMillis": 3318,
+  "requestTotalDurationMillis": 1174567,
   "requestsTotal": 354,
   "requestsWithStatusCode": {
-    "200": 343,
+    "200": 345,
     "404": 11
   },
   "errors": {},
   "retryErrors": {
-    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:165:17": {
+    "/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@apify/timeout/cjs/index.cjs:64:68": {
       "missing error code": {
-        "TimeoutError": {
-          "page.goto: Timeout 60000ms exceeded.": {
-            "count": 1
+        "Error": {
+          "requestHandler timed out after 45 seconds.": {
+            "count": 2
           }
         }
       }

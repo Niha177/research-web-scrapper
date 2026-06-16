@@ -1,6 +1,6 @@
 {
 	"id": "xVwGUlGzAmu3qyR",
-	"json": "{\"id\":\"xVwGUlGzAmu3qyR\",\"url\":\"https://plasmameng.engineering.illinois.edu/\",\"loadedUrl\":\"https://npre.illinois.edu/academics/graduate/plasma\",\"uniqueKey\":\"https://plasmameng.engineering.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:32.995Z\"}",
+	"json": "{\"id\":\"xVwGUlGzAmu3qyR\",\"url\":\"https://plasmameng.engineering.illinois.edu/\",\"loadedUrl\":\"https://npre.illinois.edu/academics/graduate/plasma\",\"uniqueKey\":\"https://plasmameng.engineering.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:44.906Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

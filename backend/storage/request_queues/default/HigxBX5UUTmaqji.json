@@ -1,0 +1,9 @@
+{
+	"id": "HigxBX5UUTmaqji",
+	"json": "{\"id\":\"HigxBX5UUTmaqji\",\"url\":\"https://www.youtube.com/channel/UCRjvSnTB2tOqfO5AXvOHGGw\",\"loadedUrl\":\"https://www.youtube.com/channel/UCRjvSnTB2tOqfO5AXvOHGGw\",\"uniqueKey\":\"https://www.youtube.com/channel/UCRjvSnTB2tOqfO5AXvOHGGw\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:49:00.763Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.youtube.com/channel/UCRjvSnTB2tOqfO5AXvOHGGw",
+	"url": "https://www.youtube.com/channel/UCRjvSnTB2tOqfO5AXvOHGGw"
+}

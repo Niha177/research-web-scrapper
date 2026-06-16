@@ -1,6 +1,6 @@
 {
 	"id": "c8jWkYIVfTCs44i",
-	"json": "{\"id\":\"c8jWkYIVfTCs44i\",\"url\":\"https://grad.illinois.edu/admissions/apply\",\"loadedUrl\":\"https://grad.illinois.edu/admissions/apply-now\",\"uniqueKey\":\"https://grad.illinois.edu/admissions/apply\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:53:21.316Z\"}",
+	"json": "{\"id\":\"c8jWkYIVfTCs44i\",\"url\":\"https://grad.illinois.edu/admissions/apply\",\"loadedUrl\":\"https://grad.illinois.edu/admissions/apply-now\",\"uniqueKey\":\"https://grad.illinois.edu/admissions/apply\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:34.635Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

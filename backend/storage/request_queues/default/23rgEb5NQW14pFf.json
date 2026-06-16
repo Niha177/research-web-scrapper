@@ -1,0 +1,9 @@
+{
+	"id": "23rgEb5NQW14pFf",
+	"json": "{\"id\":\"23rgEb5NQW14pFf\",\"url\":\"https://my.engr.illinois.edu/costshare\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/costshare/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/costshare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:20.320Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/costshare",
+	"url": "https://my.engr.illinois.edu/costshare"
+}

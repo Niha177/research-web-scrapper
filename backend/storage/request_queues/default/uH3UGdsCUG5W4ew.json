@@ -1,0 +1,9 @@
+{
+	"id": "uH3UGdsCUG5W4ew",
+	"json": "{\"id\":\"uH3UGdsCUG5W4ew\",\"url\":\"https://my.engr.illinois.edu/blogs/\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/blogs/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/blogs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:23.270Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/blogs",
+	"url": "https://my.engr.illinois.edu/blogs/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3xjF2i81NO4QTix",
+	"json": "{\"id\":\"3xjF2i81NO4QTix\",\"url\":\"https://ise.illinois.edu/directory/profile/stolyar\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/stolyar\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/stolyar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:02.939Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/stolyar",
+	"url": "https://ise.illinois.edu/directory/profile/stolyar"
+}

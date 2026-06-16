@@ -1,6 +1,6 @@
 {
 	"id": "AFxhRsoBUGCFquy",
-	"json": "{\"id\":\"AFxhRsoBUGCFquy\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/transferring-to-eu\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/transferring-to-eu\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/transferring-to-eu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:51:48.399Z\"}",
+	"json": "{\"id\":\"AFxhRsoBUGCFquy\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/transferring-to-eu\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/transferring-to-eu\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/transferring-to-eu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:57.732Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

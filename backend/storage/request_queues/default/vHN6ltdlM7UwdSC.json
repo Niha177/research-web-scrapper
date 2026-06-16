@@ -1,0 +1,9 @@
+{
+	"id": "vHN6ltdlM7UwdSC",
+	"json": "{\"id\":\"vHN6ltdlM7UwdSC\",\"url\":\"https://ise.illinois.edu/news/notes\",\"loadedUrl\":\"https://ise.illinois.edu/news/notes\",\"uniqueKey\":\"https://ise.illinois.edu/news/notes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:41.193Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/news/notes",
+	"url": "https://ise.illinois.edu/news/notes"
+}

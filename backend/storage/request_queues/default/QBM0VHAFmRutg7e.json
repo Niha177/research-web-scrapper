@@ -1,6 +1,6 @@
 {
 	"id": "QBM0VHAFmRutg7e",
-	"json": "{\"id\":\"QBM0VHAFmRutg7e\",\"url\":\"https://grainger.illinois.edu/academics/graduate\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T15:50:46.229Z\"}",
+	"json": "{\"id\":\"QBM0VHAFmRutg7e\",\"url\":\"https://grainger.illinois.edu/academics/graduate\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"priority\":\"High\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T21:43:45.925Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

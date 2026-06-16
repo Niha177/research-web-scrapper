@@ -1,0 +1,9 @@
+{
+	"id": "8q5gUv3UKfvA9yX",
+	"json": "{\"id\":\"8q5gUv3UKfvA9yX\",\"url\":\"https://ise.illinois.edu/directory/profile/jtalliso\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/jtalliso\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/jtalliso\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:32.075Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://ise.illinois.edu/directory/profile/jtalliso",
+	"url": "https://ise.illinois.edu/directory/profile/jtalliso"
+}

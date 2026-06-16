@@ -1,9 +1,0 @@
-{
-	"id": "l5vw5ecxwn7Slen",
-	"json": "{\"id\":\"l5vw5ecxwn7Slen\",\"url\":\"http://bioemeng.illinois.edu/online-program/\",\"loadedUrl\":\"https://bioengineering.illinois.edu/admissions/graduate/programs/meng\",\"uniqueKey\":\"http://bioemeng.illinois.edu/online-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T15:54:18.176Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://bioemeng.illinois.edu/online-program",
-	"url": "http://bioemeng.illinois.edu/online-program/"
-}

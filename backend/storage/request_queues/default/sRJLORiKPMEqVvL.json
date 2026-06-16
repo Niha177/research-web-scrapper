@@ -1,0 +1,9 @@
+{
+	"id": "sRJLORiKPMEqVvL",
+	"json": "{\"id\":\"sRJLORiKPMEqVvL\",\"url\":\"https://my.engr.illinois.edu/inventory\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/inventory/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/inventory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:22.375Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://my.engr.illinois.edu/inventory",
+	"url": "https://my.engr.illinois.edu/inventory"
+}

@@ -1,6 +1,6 @@
 {
 	"id": "aJwOee6hIBfArn1",
-	"json": "{\"id\":\"aJwOee6hIBfArn1\",\"url\":\"https://grainger.illinois.edu/academics/online/registration\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/registration\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/registration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T15:52:00.069Z\"}",
+	"json": "{\"id\":\"aJwOee6hIBfArn1\",\"url\":\"https://grainger.illinois.edu/academics/online/registration\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/registration\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/registration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:10.527Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

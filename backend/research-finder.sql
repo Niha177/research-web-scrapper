@@ -1,4 +1,6 @@
+SELECT * FROM facultyLinks
 SELECT * FROM scapedMajorSites
+SELECT * FROM collegeSite
 
 CREATE EXTENSION IF NOT EXISTS pg_trgm;
 
@@ -18,11 +20,21 @@ CREATE TABLE collegeSite(
      urls TEXT[]
 )
 
+CREATE TABLE facultyLinks(
+
+     id SERIAL PRIMARY KEY,
+     major TEXT UNIQUE NOT NULL,
+     sourceUrl TEXT[],
+     urlData JSONB,
+     last_scraped_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP    
+)
 
 
 
+DELETE FROM 
+WHERE major = 'Industrial Engineering';
 
-SELECT urls FROM collegeSite WHERE major = 'Bioengineering'
+SELECT urls FROM collegeSite WHERE major = 'Actuarial Science'
 
 
 

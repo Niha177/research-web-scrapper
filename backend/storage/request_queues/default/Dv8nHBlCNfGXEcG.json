@@ -1,0 +1,9 @@
+{
+	"id": "Dv8nHBlCNfGXEcG",
+	"json": "{\"id\":\"Dv8nHBlCNfGXEcG\",\"url\":\"https://spi2.illinois.edu/\",\"loadedUrl\":\"https://spi2.illinois.edu/\",\"uniqueKey\":\"https://spi2.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:38.118Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://spi2.illinois.edu",
+	"url": "https://spi2.illinois.edu/"
+}

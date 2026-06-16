@@ -1,0 +1,9 @@
+{
+	"id": "N30eze5sJ4c2A6h",
+	"json": "{\"id\":\"N30eze5sJ4c2A6h\",\"url\":\"https://advising.grainger.illinois.edu/degree-programs/changing-majors\",\"loadedUrl\":\"https://advising.grainger.illinois.edu/degree-programs/changing-majors\",\"uniqueKey\":\"https://advising.grainger.illinois.edu/degree-programs/changing-majors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:49.750Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://advising.grainger.illinois.edu/degree-programs/changing-majors",
+	"url": "https://advising.grainger.illinois.edu/degree-programs/changing-majors"
+}
