@@ -1,9 +1,0 @@
-{
-	"id": "Yf5tImlLTh96OYZ",
-	"json": "{\"id\":\"Yf5tImlLTh96OYZ\",\"url\":\"https://courses.grainger.illinois.edu/\",\"loadedUrl\":\"https://courses.grainger.illinois.edu/\",\"uniqueKey\":\"https://courses.grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:02.590Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://courses.grainger.illinois.edu",
-	"url": "https://courses.grainger.illinois.edu/"
-}

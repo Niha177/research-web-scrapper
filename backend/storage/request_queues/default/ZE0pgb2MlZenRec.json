@@ -1,9 +1,0 @@
-{
-	"id": "ZE0pgb2MlZenRec",
-	"json": "{\"id\":\"ZE0pgb2MlZenRec\",\"url\":\"https://admissions.illinois.edu/Home/myillini-apply\",\"loadedUrl\":\"https://www.admissions.illinois.edu/myillini-apply\",\"uniqueKey\":\"https://admissions.illinois.edu/Home/myillini-apply\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:06.643Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://admissions.illinois.edu/Home/myillini-apply",
-	"url": "https://admissions.illinois.edu/Home/myillini-apply"
-}

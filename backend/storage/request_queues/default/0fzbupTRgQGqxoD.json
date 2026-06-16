@@ -1,9 +1,0 @@
-{
-	"id": "0fzbupTRgQGqxoD",
-	"json": "{\"id\":\"0fzbupTRgQGqxoD\",\"url\":\"https://grainger.illinois.edu/research/postdoc-opportunities/postdoc-benefits\",\"loadedUrl\":\"https://grainger.illinois.edu/research/postdoc-opportunities/postdoc-benefits\",\"uniqueKey\":\"https://grainger.illinois.edu/research/postdoc-opportunities/postdoc-benefits\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:30.261Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/research/postdoc-opportunities/postdoc-benefits",
-	"url": "https://grainger.illinois.edu/research/postdoc-opportunities/postdoc-benefits"
-}

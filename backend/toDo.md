@@ -1,0 +1,2 @@
+- normalize major input by fetching correct name from databse
+-error handeling for nonexisting major

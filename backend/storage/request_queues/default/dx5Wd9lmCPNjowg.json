@@ -1,9 +1,0 @@
-{
-	"id": "dx5Wd9lmCPNjowg",
-	"json": "{\"id\":\"dx5Wd9lmCPNjowg\",\"url\":\"https://grainger.illinois.edu/admissions/undergraduate/choosing-a-major\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/choosing-a-major\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/undergraduate/choosing-a-major\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:17.954Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/undergraduate/choosing-a-major",
-	"url": "https://grainger.illinois.edu/admissions/undergraduate/choosing-a-major"
-}

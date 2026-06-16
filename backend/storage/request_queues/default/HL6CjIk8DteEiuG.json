@@ -1,9 +1,9 @@
 {
 	"id": "HL6CjIk8DteEiuG",
-	"json": "{\"id\":\"HL6CjIk8DteEiuG\",\"url\":\"https://illinois.edu/about/accessibility/\",\"loadedUrl\":\"https://illinois.edu/about/accessibility/\",\"uniqueKey\":\"https://illinois.edu/about/accessibility\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Request blocked - received 403 status code.\\n    at CheerioCrawler._throwOnBlockedRequest (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/basic/internals/basic-crawler.js:910:19)\\n    at CheerioCrawler._runRequestHandler (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/http/internals/http-crawler.js:324:22)\\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\\n    at async CheerioCrawler._runRequestHandler (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@crawlee/cheerio/internals/cheerio-crawler.js:153:9)\\n    at async wrap (/Users/niharikabattarusetty/full-projects/web-scrapper/backend/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:01.750Z\"}",
+	"json": "{\"id\":\"HL6CjIk8DteEiuG\",\"url\":\"https://illinois.edu/about/accessibility/\",\"loadedUrl\":\"https://illinois.edu/about/accessibility/\",\"uniqueKey\":\"https://illinois.edu/about/accessibility\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:16:29.493Z\"}",
 	"method": "GET",
 	"orderNo": null,
-	"retryCount": 1,
+	"retryCount": 0,
 	"uniqueKey": "https://illinois.edu/about/accessibility",
 	"url": "https://illinois.edu/about/accessibility/"
 }

@@ -1,9 +1,0 @@
-{
-	"id": "Ddz4WgnSvXvVH1I",
-	"json": "{\"id\":\"Ddz4WgnSvXvVH1I\",\"url\":\"https://grainger.illinois.edu/research/undergraduate\",\"loadedUrl\":\"https://grainger.illinois.edu/research/undergraduate\",\"uniqueKey\":\"https://grainger.illinois.edu/research/undergraduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:19.676Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/research/undergraduate",
-	"url": "https://grainger.illinois.edu/research/undergraduate"
-}

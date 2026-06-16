@@ -1,9 +1,0 @@
-{
-	"id": "Q7kImHO9nIL9Js5",
-	"json": "{\"id\":\"Q7kImHO9nIL9Js5\",\"url\":\"https://cs.illinois.edu/courses/profile/CS492\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/courses/cs492\",\"uniqueKey\":\"https://cs.illinois.edu/courses/profile/CS492\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-15T23:15:43.839Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://cs.illinois.edu/courses/profile/CS492",
-	"url": "https://cs.illinois.edu/courses/profile/CS492"
-}

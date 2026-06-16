@@ -1,9 +1,0 @@
-{
-	"id": "vlQT9DczMtg2w7x",
-	"json": "{\"id\":\"vlQT9DczMtg2w7x\",\"url\":\"https://counselingcenter.illinois.edu/\",\"loadedUrl\":\"https://counselingcenter.illinois.edu/\",\"uniqueKey\":\"https://counselingcenter.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:03.134Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://counselingcenter.illinois.edu",
-	"url": "https://counselingcenter.illinois.edu/"
-}

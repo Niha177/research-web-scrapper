@@ -1,9 +1,0 @@
-{
-	"id": "mJVNbitI4tGWAO9",
-	"json": "{\"id\":\"mJVNbitI4tGWAO9\",\"url\":\"https://grainger.illinois.edu/admissions/online-registration/online\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/online-registration/online\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/online-registration/online\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:26.855Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/online-registration/online",
-	"url": "https://grainger.illinois.edu/admissions/online-registration/online"
-}

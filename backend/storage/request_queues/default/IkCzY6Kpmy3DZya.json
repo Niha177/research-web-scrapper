@@ -1,9 +1,0 @@
-{
-	"id": "IkCzY6Kpmy3DZya",
-	"json": "{\"id\":\"IkCzY6Kpmy3DZya\",\"url\":\"https://grainger.illinois.edu/academics/online/current-students/troubleshooting-lectures\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/current-students/troubleshooting-lectures\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/current-students/troubleshooting-lectures\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:51.104Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/online/current-students/troubleshooting-lectures",
-	"url": "https://grainger.illinois.edu/academics/online/current-students/troubleshooting-lectures"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "IJ9A52rjIr0NRM8",
-	"json": "{\"id\":\"IJ9A52rjIr0NRM8\",\"url\":\"https://grainger.illinois.edu/admissions/undergraduate/pathways\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/pathways\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/undergraduate/pathways\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:19.127Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/undergraduate/pathways",
-	"url": "https://grainger.illinois.edu/admissions/undergraduate/pathways"
-}

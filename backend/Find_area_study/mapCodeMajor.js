@@ -22,6 +22,7 @@ export async function checkMajor(major) {
 
 
 
+
 function getFullName(arr) {
     
     return arr.map((item) => {
@@ -36,7 +37,7 @@ function getFullName(arr) {
 export async function mapMajorCode(major) {
 
     const queryText =
-     `SELECT code, similarity(name, $1) AS match_score
+     `SELECT code, name, similarity(name, $1) AS match_score
     FROM majors
     ORDER BY match_score DESC
     LIMIT 1;
@@ -47,16 +48,20 @@ export async function mapMajorCode(major) {
      if (dbResult.rows && dbResult.rows.length > 0) {
 
         const matchedCode = dbResult.rows[0].code;
+        const normName = dbResult.rows[0].name
 
-        console.log(matchedCode)
+        const resObj = {code: matchedCode, name: normName}
+        //console.log(resObj)
 
-        return matchedCode
+        return resObj
 
         //
     } else {
         return null
     }
 }
+
+
 
 
 
@@ -72,13 +77,15 @@ export async function mapPlusMajors(major) {
     const codeMain = await mapMajorCode(part1)
     const codeSupp = await mapMajorCode(part2)
 
-    return [codeMain, codeSupp]
+    return [codeMain.code, codeSupp.code]
 
 }
 
 export async function mapRegMajor(major) {
 
-    const codeMain =[await mapMajorCode(major)]
+    const codeArr = await mapMajorCode(major)
+    const codeMain = [codeArr.code]
+
     return codeMain
 }
 

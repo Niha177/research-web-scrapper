@@ -1,9 +1,0 @@
-{
-	"id": "085xeQJ1WBG9oU9",
-	"json": "{\"id\":\"085xeQJ1WBG9oU9\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:32.839Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/engineering-undeclared/major-exploration"
-}

@@ -1,6 +1,6 @@
 {
 	"id": "cdA43phR2SZqZJ3",
-	"json": "{\"id\":\"cdA43phR2SZqZJ3\",\"url\":\"https://illinois.edu/admissions/\",\"loadedUrl\":\"https://illinois.edu/admissions/\",\"uniqueKey\":\"https://illinois.edu/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:02.492Z\"}",
+	"json": "{\"id\":\"cdA43phR2SZqZJ3\",\"url\":\"https://illinois.edu/admissions/\",\"loadedUrl\":\"https://illinois.edu/admissions/\",\"uniqueKey\":\"https://illinois.edu/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-06-16T00:16:29.476Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,9 +1,0 @@
-{
-	"id": "cjKRqJKS2eICgEz",
-	"json": "{\"id\":\"cjKRqJKS2eICgEz\",\"url\":\"https://grainger.illinois.edu/academics/professional/professional-degree-programs\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/professional/professional-degree-programs\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/professional/professional-degree-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:56.860Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/professional/professional-degree-programs",
-	"url": "https://grainger.illinois.edu/academics/professional/professional-degree-programs"
-}

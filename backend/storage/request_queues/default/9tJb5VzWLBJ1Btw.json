@@ -1,9 +1,0 @@
-{
-	"id": "9tJb5VzWLBJ1Btw",
-	"json": "{\"id\":\"9tJb5VzWLBJ1Btw\",\"url\":\"https://grainger.illinois.edu/corporate/contacts\",\"loadedUrl\":\"https://grainger.illinois.edu/corporate/contacts\",\"uniqueKey\":\"https://grainger.illinois.edu/corporate/contacts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:15:37.632Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/corporate/contacts",
-	"url": "https://grainger.illinois.edu/corporate/contacts"
-}

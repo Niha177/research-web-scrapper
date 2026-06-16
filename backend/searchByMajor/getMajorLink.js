@@ -2,7 +2,7 @@ import {searchByCollege} from './collegeLink.js'
 import { PlaywrightCrawler, Configuration} from 'crawlee'
 import {query} from '../createDb.js'
 
-//NORMALIZE MAJOR NAME
+
 export async function getMajorLink(collegeLink, major) {
 
 
@@ -11,6 +11,7 @@ export async function getMajorLink(collegeLink, major) {
     ///////////////////////////////////
 
     //const queryText = 'SELECT name FROM majors WHERE name = $1'
+    //NORMALIZE MAJOR NAME
 
     /////////////////////////////////
 
@@ -139,21 +140,10 @@ export async function mainPageLocate(collegeLink, major) {
 
     const results = [...new Set(website)]
     console.log(results)
-
-
-
-
-    //await page.getByRole('link', {name: depWeb}).waitFor({state:'attached'})
-
-    //const findDepSite =  page.getByRole('link', {name: depWeb}).first().getAttribute('href')
-    //if(findDepSite) {
-        //foundlinks.push(findDepSite)
-    //}
 }
 
 mainPageLocate('https://grainger.illinois.edu/', 'Computer Science')
 
-//https://giesbusiness.illinois.edu/
 
 function fuzzyMatch(fullName, unknownAcronym) {
 

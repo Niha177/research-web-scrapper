@@ -1,9 +1,0 @@
-{
-	"id": "lgHcthuuP6aM3em",
-	"json": "{\"id\":\"lgHcthuuP6aM3em\",\"url\":\"https://grainger.illinois.edu/admissions/undergraduate/first-year\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/undergraduate/first-year\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/undergraduate/first-year\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:09.878Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/undergraduate/first-year",
-	"url": "https://grainger.illinois.edu/admissions/undergraduate/first-year"
-}

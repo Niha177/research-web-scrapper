@@ -1,9 +1,0 @@
-{
-	"id": "SJYtAwIU6fGK2HP",
-	"json": "{\"id\":\"SJYtAwIU6fGK2HP\",\"url\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"loadedUrl\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"uniqueKey\":\"https://grainger.illinois.edu/research/undergraduate/reu-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:40.122Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/research/undergraduate/reu-program",
-	"url": "https://grainger.illinois.edu/research/undergraduate/reu-program"
-}

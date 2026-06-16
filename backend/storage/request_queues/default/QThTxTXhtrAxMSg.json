@@ -1,9 +1,0 @@
-{
-	"id": "QThTxTXhtrAxMSg",
-	"json": "{\"id\":\"QThTxTXhtrAxMSg\",\"url\":\"https://grainger.illinois.edu/about/directory/administration\",\"loadedUrl\":\"https://grainger.illinois.edu/about/directory/administration\",\"uniqueKey\":\"https://grainger.illinois.edu/about/directory/administration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-15T23:14:08.604Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/about/directory/administration",
-	"url": "https://grainger.illinois.edu/about/directory/administration"
-}
