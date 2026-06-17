@@ -1,9 +1,0 @@
-{
-	"id": "ouqMC0olY9fyBFN",
-	"json": "{\"id\":\"ouqMC0olY9fyBFN\",\"url\":\"https://safety.grainger.illinois.edu/\",\"loadedUrl\":\"https://safety.grainger.illinois.edu/\",\"uniqueKey\":\"https://safety.grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:28.299Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://safety.grainger.illinois.edu",
-	"url": "https://safety.grainger.illinois.edu/"
-}

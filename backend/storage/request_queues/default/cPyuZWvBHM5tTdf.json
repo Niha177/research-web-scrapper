@@ -1,0 +1,9 @@
+{
+	"id": "cPyuZWvBHM5tTdf",
+	"json": "{\"id\":\"cPyuZWvBHM5tTdf\",\"url\":\"https://linguistics.illinois.edu/directory/profile/xunyan\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/profile/xunyan\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/profile/xunyan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:35.252Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/profile/xunyan",
+	"url": "https://linguistics.illinois.edu/directory/profile/xunyan"
+}

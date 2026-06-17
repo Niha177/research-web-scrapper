@@ -1,9 +1,0 @@
-{
-	"id": "FY0D0tYKBnlnian",
-	"json": "{\"id\":\"FY0D0tYKBnlnian\",\"url\":\"https://ise.illinois.edu/graduate/degrees-and-programs/master-science-systems-entrepreneurial-engineering\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/degrees-and-programs/master-science-systems-entrepreneurial-engineering\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/degrees-and-programs/master-science-systems-entrepreneurial-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:45.720Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/graduate/degrees-and-programs/master-science-systems-entrepreneurial-engineering",
-	"url": "https://ise.illinois.edu/graduate/degrees-and-programs/master-science-systems-entrepreneurial-engineering"
-}

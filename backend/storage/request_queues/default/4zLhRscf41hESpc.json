@@ -1,0 +1,9 @@
+{
+	"id": "4zLhRscf41hESpc",
+	"json": "{\"id\":\"4zLhRscf41hESpc\",\"url\":\"https://linguistics.illinois.edu/directory/profile/karkafi\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/profile/karkafi\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/profile/karkafi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:30.807Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/profile/karkafi",
+	"url": "https://linguistics.illinois.edu/directory/profile/karkafi"
+}

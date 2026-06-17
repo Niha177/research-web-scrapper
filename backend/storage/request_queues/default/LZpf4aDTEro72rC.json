@@ -1,9 +1,0 @@
-{
-	"id": "LZpf4aDTEro72rC",
-	"json": "{\"id\":\"LZpf4aDTEro72rC\",\"url\":\"https://humanresources.illinois.edu/job-seekers/\",\"loadedUrl\":\"https://humanresources.illinois.edu/job-seekers/\",\"uniqueKey\":\"https://humanresources.illinois.edu/job-seekers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:33.566Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://humanresources.illinois.edu/job-seekers",
-	"url": "https://humanresources.illinois.edu/job-seekers/"
-}

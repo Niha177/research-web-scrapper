@@ -1,9 +1,0 @@
-{
-	"id": "xPB37BFGpKoSHqh",
-	"json": "{\"id\":\"xPB37BFGpKoSHqh\",\"url\":\"https://bioengineering.illinois.edu/academics/graduate/msbic/online\",\"loadedUrl\":\"https://bioengineering.illinois.edu/academics/graduate/msbic/online\",\"uniqueKey\":\"https://bioengineering.illinois.edu/academics/graduate/msbic/online\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:52.021Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://bioengineering.illinois.edu/academics/graduate/msbic/online",
-	"url": "https://bioengineering.illinois.edu/academics/graduate/msbic/online"
-}

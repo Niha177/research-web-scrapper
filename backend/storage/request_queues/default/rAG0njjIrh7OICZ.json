@@ -1,9 +1,0 @@
-{
-	"id": "rAG0njjIrh7OICZ",
-	"json": "{\"id\":\"rAG0njjIrh7OICZ\",\"url\":\"https://grainger.illinois.edu/admissions/costs/graduate\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate/funding\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/costs/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:35.514Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/costs/graduate",
-	"url": "https://grainger.illinois.edu/admissions/costs/graduate"
-}

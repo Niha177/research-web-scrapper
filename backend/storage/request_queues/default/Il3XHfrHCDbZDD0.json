@@ -1,9 +1,0 @@
-{
-	"id": "Il3XHfrHCDbZDD0",
-	"json": "{\"id\":\"Il3XHfrHCDbZDD0\",\"url\":\"https://grainger.illinois.edu/academics/online/current-students/student-resources\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/online/current-students/student-resources\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/online/current-students/student-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:17.222Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/online/current-students/student-resources",
-	"url": "https://grainger.illinois.edu/academics/online/current-students/student-resources"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "n68jNHgMX6ojjvx",
-	"json": "{\"id\":\"n68jNHgMX6ojjvx\",\"url\":\"https://grainger.illinois.edu/academics/graduate/student-organizations\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate/student-organizations\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate/student-organizations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:06.238Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/graduate/student-organizations",
-	"url": "https://grainger.illinois.edu/academics/graduate/student-organizations"
-}

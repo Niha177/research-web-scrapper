@@ -1,9 +1,0 @@
-{
-	"id": "I4adiLewjM45SCt",
-	"json": "{\"id\":\"I4adiLewjM45SCt\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/neural-engineering\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/neural-engineering\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/neural-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:05.507Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/neural-engineering",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/neural-engineering"
-}

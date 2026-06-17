@@ -1,9 +1,0 @@
-{
-	"id": "5RLJ0mG8GzdZBQh",
-	"json": "{\"id\":\"5RLJ0mG8GzdZBQh\",\"url\":\"https://grainger.illinois.edu/news/blog/student-visits\",\"loadedUrl\":\"https://grainger.illinois.edu/news/blog/student-visits\",\"uniqueKey\":\"https://grainger.illinois.edu/news/blog/student-visits\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:58.787Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/news/blog/student-visits",
-	"url": "https://grainger.illinois.edu/news/blog/student-visits"
-}

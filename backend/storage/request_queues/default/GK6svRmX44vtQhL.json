@@ -1,9 +1,0 @@
-{
-	"id": "GK6svRmX44vtQhL",
-	"json": "{\"id\":\"GK6svRmX44vtQhL\",\"url\":\"https://ise.illinois.edu/undergraduate/courses/se420\",\"loadedUrl\":\"https://ise.illinois.edu/undergraduate/courses/se420\",\"uniqueKey\":\"https://ise.illinois.edu/undergraduate/courses/se420\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:49:18.569Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/undergraduate/courses/se420",
-	"url": "https://ise.illinois.edu/undergraduate/courses/se420"
-}

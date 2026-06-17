@@ -1,9 +1,0 @@
-{
-	"id": "vgHrLtnYIgulV3h",
-	"json": "{\"id\":\"vgHrLtnYIgulV3h\",\"url\":\"https://grainger.illinois.edu/academics\",\"loadedUrl\":\"https://grainger.illinois.edu/academics\",\"uniqueKey\":\"https://grainger.illinois.edu/academics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:53.857Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics",
-	"url": "https://grainger.illinois.edu/academics"
-}

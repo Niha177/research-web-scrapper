@@ -4,15 +4,19 @@ import {query} from '../createDb.js'
 
 
 export async function findInfo(major) {
-    const searchLinks = ['https://grainger.illinois.edu/']//await searchByCollege(major)
+   // const searchLinks = ['https://grainger.illinois.edu/']//await searchByCollege(major)
     let reaserch = []
 
-    if(major.includes(' ')) {
-        major.replace(' ', '+')
-    }
+
+
+
 //////////////////////////////////////////////
     const getNormName = await mapMajorCode(major)
     const normName = getNormName.name
+
+    if(normName.includes(' ')) {
+        normName.replace(' ', '+')
+    }
 
     const sqlText = 'SELECT EXISTS (SELECT 1 FROM easyFacultyLinks WHERE major = $1)'
     const dbResult = await query(sqlText, [normName])
@@ -78,7 +82,7 @@ export async function findInfo(major) {
 
         })
 
-        await crawler.run([`https://html.duckduckgo.com/html/?q=+${major}+faculty+university%20of%20illinois%20urbana%20champaign+site:illinois.edu`])
+        await crawler.run([`https://html.duckduckgo.com/html/?q=+${normName}+faculty+university%20of%20illinois%20urbana%20champaign+site:illinois.edu`])
 
         console.log(reaserch)
         const result = [...new Set(reaserch)]
@@ -105,5 +109,4 @@ export async function findInfo(major) {
     }
 }
 
-findInfo("computer engineering")
-//
+findInfo("linguistcs")

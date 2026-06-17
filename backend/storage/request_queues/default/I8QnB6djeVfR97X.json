@@ -1,9 +1,0 @@
-{
-	"id": "I8QnB6djeVfR97X",
-	"json": "{\"id\":\"I8QnB6djeVfR97X\",\"url\":\"https://ise.illinois.edu/research/data-analytics\",\"loadedUrl\":\"https://ise.illinois.edu/research/data-analytics\",\"uniqueKey\":\"https://ise.illinois.edu/research/data-analytics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:40.212Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/research/data-analytics",
-	"url": "https://ise.illinois.edu/research/data-analytics"
-}

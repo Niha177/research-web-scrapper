@@ -1,9 +1,0 @@
-{
-	"id": "ehY64rO4eNhUMS0",
-	"json": "{\"id\":\"ehY64rO4eNhUMS0\",\"url\":\"https://my.engr.illinois.edu/nfa\",\"loadedUrl\":\"https://my.engr.illinois.edu/portal/account/login?ReturnUrl=%2Fnfa\",\"uniqueKey\":\"https://my.engr.illinois.edu/nfa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:20.763Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/nfa",
-	"url": "https://my.engr.illinois.edu/nfa"
-}

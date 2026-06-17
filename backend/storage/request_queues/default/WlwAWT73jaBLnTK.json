@@ -1,9 +1,0 @@
-{
-	"id": "WlwAWT73jaBLnTK",
-	"json": "{\"id\":\"WlwAWT73jaBLnTK\",\"url\":\"https://ise.illinois.edu/directory/profile/d-block\",\"loadedUrl\":\"https://ise.illinois.edu/directory\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/d-block\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:17.530Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/d-block",
-	"url": "https://ise.illinois.edu/directory/profile/d-block"
-}

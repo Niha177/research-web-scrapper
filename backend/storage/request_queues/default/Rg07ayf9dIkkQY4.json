@@ -1,9 +1,0 @@
-{
-	"id": "Rg07ayf9dIkkQY4",
-	"json": "{\"id\":\"Rg07ayf9dIkkQY4\",\"url\":\"https://grainger.illinois.edu/alumni/hall-of-fame\",\"loadedUrl\":\"https://grainger.illinois.edu/alumni/hall-of-fame#dept=2025\",\"uniqueKey\":\"https://grainger.illinois.edu/alumni/hall-of-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:25.170Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/alumni/hall-of-fame",
-	"url": "https://grainger.illinois.edu/alumni/hall-of-fame"
-}

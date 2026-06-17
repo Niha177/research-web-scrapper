@@ -1,9 +1,0 @@
-{
-	"id": "uN0XlYaaKubaRjs",
-	"json": "{\"id\":\"uN0XlYaaKubaRjs\",\"url\":\"https://abe.illinois.edu/academics/graduate-degrees/master-science-agricultural-and-biological-engineering\",\"loadedUrl\":\"https://abe.illinois.edu/academics/graduate-degrees/master-science-agricultural-and-biological-engineering\",\"uniqueKey\":\"https://abe.illinois.edu/academics/graduate-degrees/master-science-agricultural-and-biological-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:49.527Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://abe.illinois.edu/academics/graduate-degrees/master-science-agricultural-and-biological-engineering",
-	"url": "https://abe.illinois.edu/academics/graduate-degrees/master-science-agricultural-and-biological-engineering"
-}

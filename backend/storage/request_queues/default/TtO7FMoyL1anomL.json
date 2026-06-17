@@ -1,9 +1,0 @@
-{
-	"id": "TtO7FMoyL1anomL",
-	"json": "{\"id\":\"TtO7FMoyL1anomL\",\"url\":\"https://ise.illinois.edu/alumni/alumni-awards/past-awardees\",\"loadedUrl\":\"https://ise.illinois.edu/alumni/alumni-awards/past-awardees\",\"uniqueKey\":\"https://ise.illinois.edu/alumni/alumni-awards/past-awardees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:46.105Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/alumni/alumni-awards/past-awardees",
-	"url": "https://ise.illinois.edu/alumni/alumni-awards/past-awardees"
-}

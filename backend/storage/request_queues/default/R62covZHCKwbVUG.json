@@ -1,9 +1,0 @@
-{
-	"id": "R62covZHCKwbVUG",
-	"json": "{\"id\":\"R62covZHCKwbVUG\",\"url\":\"https://my.engr.illinois.edu/employees/professional-development/training-resources\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/employees/professional-development/training-resources\",\"uniqueKey\":\"https://my.engr.illinois.edu/employees/professional-development/training-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:31.929Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/employees/professional-development/training-resources",
-	"url": "https://my.engr.illinois.edu/employees/professional-development/training-resources"
-}

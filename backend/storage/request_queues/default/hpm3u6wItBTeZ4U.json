@@ -1,9 +1,0 @@
-{
-	"id": "hpm3u6wItBTeZ4U",
-	"json": "{\"id\":\"hpm3u6wItBTeZ4U\",\"url\":\"https://grainger.illinois.edu/research/undergraduate/course-credit\",\"loadedUrl\":\"https://grainger.illinois.edu/research/undergraduate/course-credit\",\"uniqueKey\":\"https://grainger.illinois.edu/research/undergraduate/course-credit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:39.104Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/research/undergraduate/course-credit",
-	"url": "https://grainger.illinois.edu/research/undergraduate/course-credit"
-}

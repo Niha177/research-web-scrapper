@@ -1,9 +1,0 @@
-{
-	"id": "AYoxtTEaz0rl65h",
-	"json": "{\"id\":\"AYoxtTEaz0rl65h\",\"url\":\"https://grainger.illinois.edu/giving\",\"loadedUrl\":\"https://grainger.illinois.edu/giving\",\"uniqueKey\":\"https://grainger.illinois.edu/giving\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:25.788Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/giving",
-	"url": "https://grainger.illinois.edu/giving"
-}

@@ -1,0 +1,9 @@
+{
+	"id": "uk3oC7nvYMXv4Xt",
+	"json": "{\"id\":\"uk3oC7nvYMXv4Xt\",\"url\":\"https://linguistics.illinois.edu/directory/profile/humaidan\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/profile/humaidan\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/profile/humaidan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:31.787Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/profile/humaidan",
+	"url": "https://linguistics.illinois.edu/directory/profile/humaidan"
+}

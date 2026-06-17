@@ -1,9 +1,0 @@
-{
-	"id": "UGQbjXEWAmSektR",
-	"json": "{\"id\":\"UGQbjXEWAmSektR\",\"url\":\"https://ipeng.grainger.illinois.edu/\",\"loadedUrl\":\"https://ipeng.grainger.illinois.edu/\",\"uniqueKey\":\"https://ipeng.grainger.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:55.138Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ipeng.grainger.illinois.edu",
-	"url": "https://ipeng.grainger.illinois.edu/"
-}

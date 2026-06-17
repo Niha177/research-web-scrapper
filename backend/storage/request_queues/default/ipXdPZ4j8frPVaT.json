@@ -1,9 +1,0 @@
-{
-	"id": "ipXdPZ4j8frPVaT",
-	"json": "{\"id\":\"ipXdPZ4j8frPVaT\",\"url\":\"https://my.engr.illinois.edu/login.asp\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/login.asp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:35.076Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/login.asp",
-	"url": "https://my.engr.illinois.edu/login.asp"
-}

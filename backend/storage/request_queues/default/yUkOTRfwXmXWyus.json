@@ -1,9 +1,0 @@
-{
-	"id": "yUkOTRfwXmXWyus",
-	"json": "{\"id\":\"yUkOTRfwXmXWyus\",\"url\":\"https://forms.illinois.edu/sec/5885396\",\"loadedUrl\":\"https://forms.illinois.edu/sec/5885396\",\"uniqueKey\":\"https://forms.illinois.edu/sec/5885396\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:41.444Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://forms.illinois.edu/sec/5885396",
-	"url": "https://forms.illinois.edu/sec/5885396"
-}

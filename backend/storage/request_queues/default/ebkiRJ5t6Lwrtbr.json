@@ -1,0 +1,9 @@
+{
+	"id": "ebkiRJ5t6Lwrtbr",
+	"json": "{\"id\":\"ebkiRJ5t6Lwrtbr\",\"url\":\"https://linguistics.illinois.edu/directory/profile/rshosted\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/profile/rshosted\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/profile/rshosted\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:34.634Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/profile/rshosted",
+	"url": "https://linguistics.illinois.edu/directory/profile/rshosted"
+}

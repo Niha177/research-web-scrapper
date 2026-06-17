@@ -1,0 +1,9 @@
+{
+	"id": "238UOaB57cbF3xj",
+	"json": "{\"id\":\"238UOaB57cbF3xj\",\"url\":\"https://linguistics.illinois.edu/directory/tesl-faculty\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/tesl-faculty\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/tesl-faculty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:28.514Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/tesl-faculty",
+	"url": "https://linguistics.illinois.edu/directory/tesl-faculty"
+}

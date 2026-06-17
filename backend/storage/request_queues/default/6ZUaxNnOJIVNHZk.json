@@ -1,9 +1,0 @@
-{
-	"id": "6ZUaxNnOJIVNHZk",
-	"json": "{\"id\":\"6ZUaxNnOJIVNHZk\",\"url\":\"https://ise.illinois.edu/news/seachange\",\"loadedUrl\":\"https://ise.illinois.edu/news/seachange\",\"uniqueKey\":\"https://ise.illinois.edu/news/seachange\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:41.237Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/news/seachange",
-	"url": "https://ise.illinois.edu/news/seachange"
-}

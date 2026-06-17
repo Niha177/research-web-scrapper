@@ -1,9 +1,0 @@
-{
-	"id": "e8hpfJIY9nNWPe6",
-	"json": "{\"id\":\"e8hpfJIY9nNWPe6\",\"url\":\"https://grad.illinois.edu/gsas/graduate-student-request-form\",\"loadedUrl\":\"https://grad.illinois.edu/gsas/graduate-student-request-form\",\"uniqueKey\":\"https://grad.illinois.edu/gsas/graduate-student-request-form\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:49.127Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grad.illinois.edu/gsas/graduate-student-request-form",
-	"url": "https://grad.illinois.edu/gsas/graduate-student-request-form"
-}

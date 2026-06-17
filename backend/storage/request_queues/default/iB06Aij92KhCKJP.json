@@ -1,9 +1,0 @@
-{
-	"id": "iB06Aij92KhCKJP",
-	"json": "{\"id\":\"iB06Aij92KhCKJP\",\"url\":\"https://cs.illinois.edu/academics/graduate/ican\",\"loadedUrl\":\"https://siebelschool.illinois.edu/academics/graduate/ican\",\"uniqueKey\":\"https://cs.illinois.edu/academics/graduate/ican\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:57.056Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://cs.illinois.edu/academics/graduate/ican",
-	"url": "https://cs.illinois.edu/academics/graduate/ican"
-}

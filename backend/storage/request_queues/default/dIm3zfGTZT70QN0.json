@@ -1,9 +1,0 @@
-{
-	"id": "dIm3zfGTZT70QN0",
-	"json": "{\"id\":\"dIm3zfGTZT70QN0\",\"url\":\"https://ise.illinois.edu/about/history\",\"loadedUrl\":\"https://ise.illinois.edu/about/history\",\"uniqueKey\":\"https://ise.illinois.edu/about/history\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:47:57.400Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/about/history",
-	"url": "https://ise.illinois.edu/about/history"
-}

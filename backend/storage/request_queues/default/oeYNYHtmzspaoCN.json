@@ -1,9 +1,0 @@
-{
-	"id": "oeYNYHtmzspaoCN",
-	"json": "{\"id\":\"oeYNYHtmzspaoCN\",\"url\":\"http://catalog.illinois.edu/search/?P=IE%20590\",\"loadedUrl\":\"https://catalog.illinois.edu/search/?P=IE%20590\",\"uniqueKey\":\"http://catalog.illinois.edu/search?P=IE+590\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:53.459Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://catalog.illinois.edu/search?P=IE+590",
-	"url": "http://catalog.illinois.edu/search/?P=IE%20590"
-}

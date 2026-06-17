@@ -1,9 +1,0 @@
-{
-	"id": "7iO6SUnn0y7gbet",
-	"json": "{\"id\":\"7iO6SUnn0y7gbet\",\"url\":\"https://news.illinois.edu/\",\"loadedUrl\":\"https://news.illinois.edu/\",\"uniqueKey\":\"https://news.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:28.896Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://news.illinois.edu",
-	"url": "https://news.illinois.edu/"
-}

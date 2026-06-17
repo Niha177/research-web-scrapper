@@ -1,0 +1,9 @@
+{
+	"id": "h6Cq3YXFju8T1HB",
+	"json": "{\"id\":\"h6Cq3YXFju8T1HB\",\"url\":\"https://linguistics.illinois.edu/people/linguistics-department-awards\",\"loadedUrl\":\"https://linguistics.illinois.edu/people/linguistics-department-awards\",\"uniqueKey\":\"https://linguistics.illinois.edu/people/linguistics-department-awards\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:29.779Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/people/linguistics-department-awards",
+	"url": "https://linguistics.illinois.edu/people/linguistics-department-awards"
+}

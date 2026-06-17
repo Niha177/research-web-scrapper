@@ -1,9 +1,0 @@
-{
-	"id": "jZhudai3EVQJiy6",
-	"json": "{\"id\":\"jZhudai3EVQJiy6\",\"url\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-theoretical-and-applied-mechanics\",\"loadedUrl\":\"https://mechse.illinois.edu/graduate/ms-programs/ms-theoretical-and-applied-mechanics\",\"uniqueKey\":\"https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-theoretical-and-applied-mechanics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:09.149Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-theoretical-and-applied-mechanics",
-	"url": "https://mechse.illinois.edu/graduate/graduate-degree-programs/ms-programs/ms-theoretical-and-applied-mechanics"
-}

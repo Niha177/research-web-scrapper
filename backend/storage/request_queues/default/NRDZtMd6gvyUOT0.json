@@ -1,0 +1,9 @@
+{
+	"id": "NRDZtMd6gvyUOT0",
+	"json": "{\"id\":\"NRDZtMd6gvyUOT0\",\"url\":\"https://linguistics.illinois.edu/directory/profile/karinat\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/profile/karinat\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/profile/karinat\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:34.684Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/profile/karinat",
+	"url": "https://linguistics.illinois.edu/directory/profile/karinat"
+}

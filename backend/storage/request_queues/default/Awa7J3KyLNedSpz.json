@@ -1,9 +1,0 @@
-{
-	"id": "Awa7J3KyLNedSpz",
-	"json": "{\"id\":\"Awa7J3KyLNedSpz\",\"url\":\"https://ise.illinois.edu/alumni/news\",\"loadedUrl\":\"https://ise.illinois.edu/alumni/news\",\"uniqueKey\":\"https://ise.illinois.edu/alumni/news\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:43.103Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/alumni/news",
-	"url": "https://ise.illinois.edu/alumni/news"
-}

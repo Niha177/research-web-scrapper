@@ -1,9 +1,0 @@
-{
-	"id": "hNttOC9ZwKLh2b0",
-	"json": "{\"id\":\"hNttOC9ZwKLh2b0\",\"url\":\"https://ise.illinois.edu/directory/profile/mhg3\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/mhg3\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/mhg3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:40.219Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/mhg3",
-	"url": "https://ise.illinois.edu/directory/profile/mhg3"
-}

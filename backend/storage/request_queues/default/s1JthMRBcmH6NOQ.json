@@ -1,9 +1,0 @@
-{
-	"id": "s1JthMRBcmH6NOQ",
-	"json": "{\"id\":\"s1JthMRBcmH6NOQ\",\"url\":\"https://ece.illinois.edu/academics/grad\",\"loadedUrl\":\"https://ece.illinois.edu/academics/grad\",\"uniqueKey\":\"https://ece.illinois.edu/academics/grad\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:47:36.877Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ece.illinois.edu/academics/grad",
-	"url": "https://ece.illinois.edu/academics/grad"
-}

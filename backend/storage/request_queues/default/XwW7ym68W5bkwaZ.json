@@ -1,9 +1,0 @@
-{
-	"id": "XwW7ym68W5bkwaZ",
-	"json": "{\"id\":\"XwW7ym68W5bkwaZ\",\"url\":\"https://directory.illinois.edu/search\",\"loadedUrl\":\"https://directory.illinois.edu/webservices/public/ds/directoryBusyExternal.html?url=https%3A%2F%2Fdirectory.illinois.edu%2Fsearch\",\"uniqueKey\":\"https://directory.illinois.edu/search\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:29.341Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://directory.illinois.edu/search",
-	"url": "https://directory.illinois.edu/search"
-}

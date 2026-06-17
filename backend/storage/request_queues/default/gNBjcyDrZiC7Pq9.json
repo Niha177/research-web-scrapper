@@ -1,9 +1,0 @@
-{
-	"id": "gNBjcyDrZiC7Pq9",
-	"json": "{\"id\":\"gNBjcyDrZiC7Pq9\",\"url\":\"https://ise.illinois.edu/directory/profile/inkikim\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/inkikim\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/inkikim\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:47.689Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/inkikim",
-	"url": "https://ise.illinois.edu/directory/profile/inkikim"
-}

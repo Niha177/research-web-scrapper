@@ -1,9 +1,0 @@
-{
-	"id": "R2griRLuYHQ7PRr",
-	"json": "{\"id\":\"R2griRLuYHQ7PRr\",\"url\":\"https://my.engr.illinois.edu/resources\",\"loadedUrl\":\"https://my.engr.illinois.edu/resources\",\"uniqueKey\":\"https://my.engr.illinois.edu/resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:31.824Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/resources",
-	"url": "https://my.engr.illinois.edu/resources"
-}

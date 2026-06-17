@@ -1,9 +1,0 @@
-{
-	"id": "AmpWP6UqwseJ6b8",
-	"json": "{\"id\":\"AmpWP6UqwseJ6b8\",\"url\":\"https://ise.illinois.edu/directory/profile/davidl\",\"loadedUrl\":\"https://ise.illinois.edu/directory/profile/davidl\",\"uniqueKey\":\"https://ise.illinois.edu/directory/profile/davidl\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:50.426Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/profile/davidl",
-	"url": "https://ise.illinois.edu/directory/profile/davidl"
-}

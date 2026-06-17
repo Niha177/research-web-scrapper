@@ -1,0 +1,9 @@
+{
+	"id": "EAE8up30KJX06Y2",
+	"json": "{\"id\":\"EAE8up30KJX06Y2\",\"url\":\"https://linguistics.illinois.edu/people/undergraduate-students\",\"loadedUrl\":\"https://linguistics.illinois.edu/people/undergraduate-students\",\"uniqueKey\":\"https://linguistics.illinois.edu/people/undergraduate-students\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:29.157Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/people/undergraduate-students",
+	"url": "https://linguistics.illinois.edu/people/undergraduate-students"
+}

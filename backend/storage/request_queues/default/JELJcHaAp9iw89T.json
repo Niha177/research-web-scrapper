@@ -1,9 +1,0 @@
-{
-	"id": "JELJcHaAp9iw89T",
-	"json": "{\"id\":\"JELJcHaAp9iw89T\",\"url\":\"https://ise.illinois.edu/undergraduate/why-ise/research-experience\",\"loadedUrl\":\"https://ise.illinois.edu/undergraduate/why-ise/research-experience\",\"uniqueKey\":\"https://ise.illinois.edu/undergraduate/why-ise/research-experience\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:08.640Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/undergraduate/why-ise/research-experience",
-	"url": "https://ise.illinois.edu/undergraduate/why-ise/research-experience"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "EUsX3TgHeoB4nn6",
-	"json": "{\"id\":\"EUsX3TgHeoB4nn6\",\"url\":\"https://www.givecampus.com/campaigns/49285/donations/new\",\"loadedUrl\":\"https://www.givecampus.com/campaigns/49285/donations/new\",\"uniqueKey\":\"https://www.givecampus.com/campaigns/49285/donations/new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:53.645Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.givecampus.com/campaigns/49285/donations/new",
-	"url": "https://www.givecampus.com/campaigns/49285/donations/new"
-}

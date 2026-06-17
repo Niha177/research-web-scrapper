@@ -1,9 +1,0 @@
-{
-	"id": "npMsOO3G4S1SEiR",
-	"json": "{\"id\":\"npMsOO3G4S1SEiR\",\"url\":\"https://ise.illinois.edu/graduate/admissions\",\"loadedUrl\":\"https://ise.illinois.edu/graduate/admissions\",\"uniqueKey\":\"https://ise.illinois.edu/graduate/admissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:15.062Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/graduate/admissions",
-	"url": "https://ise.illinois.edu/graduate/admissions"
-}

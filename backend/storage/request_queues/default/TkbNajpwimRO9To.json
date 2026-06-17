@@ -1,9 +1,0 @@
-{
-	"id": "TkbNajpwimRO9To",
-	"json": "{\"id\":\"TkbNajpwimRO9To\",\"url\":\"https://cityscholars.engineering.illinois.edu/\",\"loadedUrl\":\"https://cityscholars.grainger.illinois.edu/\",\"uniqueKey\":\"https://cityscholars.engineering.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:59.484Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://cityscholars.engineering.illinois.edu",
-	"url": "https://cityscholars.engineering.illinois.edu/"
-}

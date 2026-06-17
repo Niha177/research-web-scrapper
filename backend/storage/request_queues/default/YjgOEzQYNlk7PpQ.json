@@ -1,9 +1,0 @@
-{
-	"id": "YjgOEzQYNlk7PpQ",
-	"json": "{\"id\":\"YjgOEzQYNlk7PpQ\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/agricultural-biological-engineering\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/agricultural-biological-engineering\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/agricultural-biological-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:49.713Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/agricultural-biological-engineering",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/agricultural-biological-engineering"
-}

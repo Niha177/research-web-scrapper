@@ -1,9 +1,0 @@
-{
-	"id": "Un4wnKH0o7eXFh5",
-	"json": "{\"id\":\"Un4wnKH0o7eXFh5\",\"url\":\"https://ise.illinois.edu/directory/faculty/core\",\"loadedUrl\":\"https://ise.illinois.edu/directory/faculty\",\"uniqueKey\":\"https://ise.illinois.edu/directory/faculty/core\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:49:29.711Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/directory/faculty/core",
-	"url": "https://ise.illinois.edu/directory/faculty/core"
-}

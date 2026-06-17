@@ -1,9 +1,0 @@
-{
-	"id": "EcJL7pAVelyjSe8",
-	"json": "{\"id\":\"EcJL7pAVelyjSe8\",\"url\":\"https://grainger.illinois.edu/research/areas/energy\",\"loadedUrl\":\"https://grainger.illinois.edu/research/areas/energy\",\"uniqueKey\":\"https://grainger.illinois.edu/research/areas/energy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:51.691Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/research/areas/energy",
-	"url": "https://grainger.illinois.edu/research/areas/energy"
-}

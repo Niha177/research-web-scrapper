@@ -1,7 +1,32 @@
 import {findFacultyInfo} from "./searchByMajor/findInfo.js"
 import {mainPageLocate} from "./searchByMajor/getMajorLink.js"
+import {findInfo} from './lightweightFinder/facultyDiscovery.js'
+
 
 async function run(major) {
+    await findInfo(major)
+}
+
+run('Industrial Engineering')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////
+
+async function runDeepSearchArchive(major) {
     await mainPageLocate(major)
     
 
@@ -14,4 +39,3 @@ async function run(major) {
 
 
 }
-run('Industrial Engineering')

@@ -1,9 +1,0 @@
-{
-	"id": "h8St8BLA4a6N0yj",
-	"json": "{\"id\":\"h8St8BLA4a6N0yj\",\"url\":\"https://grainger.illinois.edu/about/directory/faculty\",\"loadedUrl\":\"https://grainger.illinois.edu/about/directory/faculty\",\"uniqueKey\":\"https://grainger.illinois.edu/about/directory/faculty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:03.227Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/about/directory/faculty",
-	"url": "https://grainger.illinois.edu/about/directory/faculty"
-}

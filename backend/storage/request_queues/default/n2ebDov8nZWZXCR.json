@@ -1,9 +1,0 @@
-{
-	"id": "n2ebDov8nZWZXCR",
-	"json": "{\"id\":\"n2ebDov8nZWZXCR\",\"url\":\"https://my.ise.illinois.edu/ugpetitions/\",\"loadedUrl\":\"https://my.ise.illinois.edu/login.asp?/ugpetitions/index.asp\",\"uniqueKey\":\"https://my.ise.illinois.edu/ugpetitions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:08.690Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.ise.illinois.edu/ugpetitions",
-	"url": "https://my.ise.illinois.edu/ugpetitions/"
-}

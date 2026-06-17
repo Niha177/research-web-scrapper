@@ -1,9 +1,0 @@
-{
-	"id": "ZJB2XlGQfYzVX2Z",
-	"json": "{\"id\":\"ZJB2XlGQfYzVX2Z\",\"url\":\"https://grainger.illinois.edu/academics/graduate/ambassadors\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/graduate/ambassadors\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/graduate/ambassadors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:08.757Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/graduate/ambassadors",
-	"url": "https://grainger.illinois.edu/academics/graduate/ambassadors"
-}

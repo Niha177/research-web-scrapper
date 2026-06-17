@@ -1,9 +1,0 @@
-{
-	"id": "Hm8O40r6EzXCyfr",
-	"json": "{\"id\":\"Hm8O40r6EzXCyfr\",\"url\":\"https://my.engr.illinois.edu/studyabroadcourses/\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/studyabroadcourses/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/studyabroadcourses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:29.728Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/studyabroadcourses",
-	"url": "https://my.engr.illinois.edu/studyabroadcourses/"
-}

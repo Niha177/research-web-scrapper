@@ -1,9 +1,0 @@
-{
-	"id": "PVGLkxeDoeHwj5m",
-	"json": "{\"id\":\"PVGLkxeDoeHwj5m\",\"url\":\"https://grainger.illinois.edu/academics/professional-development\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/professional-development\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/professional-development\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:45:21.113Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/professional-development",
-	"url": "https://grainger.illinois.edu/academics/professional-development"
-}

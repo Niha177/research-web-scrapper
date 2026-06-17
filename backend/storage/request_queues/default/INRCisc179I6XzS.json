@@ -1,9 +1,0 @@
-{
-	"id": "INRCisc179I6XzS",
-	"json": "{\"id\":\"INRCisc179I6XzS\",\"url\":\"https://my.engr.illinois.edu/appointments\",\"loadedUrl\":\"https://my.engr.illinois.edu/login.asp?/appointments/index.asp\",\"uniqueKey\":\"https://my.engr.illinois.edu/appointments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:18.859Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://my.engr.illinois.edu/appointments",
-	"url": "https://my.engr.illinois.edu/appointments"
-}

@@ -1,0 +1,9 @@
+{
+	"id": "0hCBpinMmUEB0uW",
+	"json": "{\"id\":\"0hCBpinMmUEB0uW\",\"url\":\"https://linguistics.illinois.edu/admissions/spotlight\",\"loadedUrl\":\"https://linguistics.illinois.edu/admissions/spotlight\",\"uniqueKey\":\"https://linguistics.illinois.edu/admissions/spotlight\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:29.462Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/admissions/spotlight",
+	"url": "https://linguistics.illinois.edu/admissions/spotlight"
+}

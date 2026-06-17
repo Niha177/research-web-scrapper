@@ -81,11 +81,3 @@ cleanLinks('Actuarial Science')
 
 
 
-function fuzzyMatch(fullName, acronym) {
-
-    const letters = acronym.toLowerCase().split('');
-    const pattern = letters.join('.*');
-
-    const regex = new RegExp(pattern, 'i');
-    return regex.test(fullName);
-}

@@ -1,0 +1,9 @@
+{
+	"id": "ok80gJwzThYGipM",
+	"json": "{\"id\":\"ok80gJwzThYGipM\",\"url\":\"https://linguistics.illinois.edu/directory/faculty\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/faculty\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/faculty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-17T15:55:28.021Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/faculty",
+	"url": "https://linguistics.illinois.edu/directory/faculty"
+}

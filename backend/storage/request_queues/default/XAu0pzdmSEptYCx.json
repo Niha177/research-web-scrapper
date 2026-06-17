@@ -1,0 +1,9 @@
+{
+	"id": "XAu0pzdmSEptYCx",
+	"json": "{\"id\":\"XAu0pzdmSEptYCx\",\"url\":\"https://linguistics.illinois.edu/directory/profile/mgbowen\",\"loadedUrl\":\"https://linguistics.illinois.edu/directory/profile/mgbowen\",\"uniqueKey\":\"https://linguistics.illinois.edu/directory/profile/mgbowen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:30.180Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/directory/profile/mgbowen",
+	"url": "https://linguistics.illinois.edu/directory/profile/mgbowen"
+}

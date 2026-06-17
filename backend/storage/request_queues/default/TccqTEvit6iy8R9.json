@@ -1,9 +1,0 @@
-{
-	"id": "TccqTEvit6iy8R9",
-	"json": "{\"id\":\"TccqTEvit6iy8R9\",\"url\":\"https://chbe.illinois.edu/academics/graduate\",\"loadedUrl\":\"https://chbe.illinois.edu/academics/graduate\",\"uniqueKey\":\"https://chbe.illinois.edu/academics/graduate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:54.301Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://chbe.illinois.edu/academics/graduate",
-	"url": "https://chbe.illinois.edu/academics/graduate"
-}

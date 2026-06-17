@@ -1,9 +1,0 @@
-{
-	"id": "0b0RF2d6zbkI6FX",
-	"json": "{\"id\":\"0b0RF2d6zbkI6FX\",\"url\":\"https://ise.illinois.edu/alumni/engineer-in-residence-program\",\"loadedUrl\":\"https://ise.illinois.edu/alumni/engineer-in-residence-program\",\"uniqueKey\":\"https://ise.illinois.edu/alumni/engineer-in-residence-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:47.345Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/alumni/engineer-in-residence-program",
-	"url": "https://ise.illinois.edu/alumni/engineer-in-residence-program"
-}

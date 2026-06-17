@@ -1,9 +1,0 @@
-{
-	"id": "9Ff1ZHrlufQG7tQ",
-	"json": "{\"id\":\"9Ff1ZHrlufQG7tQ\",\"url\":\"https://ise.illinois.edu/news/82267\",\"loadedUrl\":\"https://ise.illinois.edu/news/82267\",\"uniqueKey\":\"https://ise.illinois.edu/news/82267\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-16T21:50:11.122Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://ise.illinois.edu/news/82267",
-	"url": "https://ise.illinois.edu/news/82267"
-}

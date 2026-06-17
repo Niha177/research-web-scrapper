@@ -1,0 +1,9 @@
+{
+	"id": "HXmdvUwRP8e8bhO",
+	"json": "{\"id\":\"HXmdvUwRP8e8bhO\",\"url\":\"https://linguistics.illinois.edu/people/about-department/tesl-history\",\"loadedUrl\":\"https://linguistics.illinois.edu/people/about-department/tesl-history\",\"uniqueKey\":\"https://linguistics.illinois.edu/people/about-department/tesl-history\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-06-17T15:55:29.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linguistics.illinois.edu/people/about-department/tesl-history",
+	"url": "https://linguistics.illinois.edu/people/about-department/tesl-history"
+}

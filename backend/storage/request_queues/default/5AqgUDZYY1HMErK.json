@@ -1,9 +1,0 @@
-{
-	"id": "5AqgUDZYY1HMErK",
-	"json": "{\"id\":\"5AqgUDZYY1HMErK\",\"url\":\"https://grainger.illinois.edu/admissions/costs\",\"loadedUrl\":\"https://grainger.illinois.edu/admissions/costs\",\"uniqueKey\":\"https://grainger.illinois.edu/admissions/costs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:44:49.840Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/admissions/costs",
-	"url": "https://grainger.illinois.edu/admissions/costs"
-}

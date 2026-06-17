@@ -1,9 +1,0 @@
-{
-	"id": "XyPk3XGy7nhXaMp",
-	"json": "{\"id\":\"XyPk3XGy7nhXaMp\",\"url\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering\",\"loadedUrl\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering\",\"uniqueKey\":\"https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:53.476Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering",
-	"url": "https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/chemical-engineering"
-}

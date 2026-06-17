@@ -1,9 +1,0 @@
-{
-	"id": "ufK1yffCTIpsv7l",
-	"json": "{\"id\":\"ufK1yffCTIpsv7l\",\"url\":\"http://isur.engineering.illinois.edu/\",\"loadedUrl\":\"https://isur.engineering.illinois.edu/\",\"uniqueKey\":\"http://isur.engineering.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-16T21:48:53.784Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://isur.engineering.illinois.edu",
-	"url": "http://isur.engineering.illinois.edu/"
-}

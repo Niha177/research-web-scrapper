@@ -1,9 +1,0 @@
-{
-	"id": "UQHS6tb6izJC9T1",
-	"json": "{\"id\":\"UQHS6tb6izJC9T1\",\"url\":\"https://landuyt.illinois.edu/\",\"loadedUrl\":\"https://landuyt.illinois.edu/\",\"uniqueKey\":\"https://landuyt.illinois.edu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":2,\"enqueueStrategy\":\"all\",\"state\":4}},\"handledAt\":\"2026-06-16T21:46:35.032Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://landuyt.illinois.edu",
-	"url": "https://landuyt.illinois.edu/"
-}

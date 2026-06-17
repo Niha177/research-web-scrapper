@@ -1,6 +1,6 @@
 import {CheerioCrawler, PlaywrightCrawler} from 'crawlee'
 
-
+/*
 export async function findInfo(major) {
     const searchLinks = ['https://grainger.illinois.edu/']//await searchByCollege(major)
     let reaserch = []
@@ -60,3 +60,4 @@ export async function findInfo(major) {
 }
 
 findInfo("computer science")
+*/
